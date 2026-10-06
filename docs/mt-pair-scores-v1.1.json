@@ -1,0 +1,2707 @@
+{
+  "version": "1.1.0",
+  "scale": "0-4, AI diagnostic ratings",
+  "full_speech_and_translations_omitted": true,
+  "scores": [
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 0,
+      "source_sha256": "3aea1fb5b20fba25c897702b46bbbc7a02f77bd5c098bd2f5e8005f77473ef35",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 0,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 2,
+      "source_sha256": "30b138f2ae3a3ea812f6d12b2197d425a870ef58b0a8c6e320323540804902b1",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 5,
+      "source_sha256": "68ea5dc08a2c61f35d8a9b2107bd40a24d17a22d1505bcf10414ced2f5dbc1ee",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 7,
+      "source_sha256": "55a166996a817aa2699357993b279cb4d573855f51cd83ce295ef76d569235a2",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 9,
+      "source_sha256": "8139b4791227f5849cebb2291a366f37f1d8d3855069f52e8c3d539a265a6041",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 12,
+      "source_sha256": "12f19d29a0bcb51ddac9aada20c69ea46609d7ab7d5f206d9b47bc6d1ba0eb03",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 14,
+      "source_sha256": "734c1fa3d2adaf9d8340e630242a755fcbb57f53e84d2d48ebf0ea2962ae8754",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 17,
+      "source_sha256": "3ddd6b23592e39478e62ba4acd58e495343940b015679956a2e8699557d77530",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 19,
+      "source_sha256": "da3552dcdc37389f624aeb768f85223e9bbd05f1a67b485fbe549fa579f2348d",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 21,
+      "source_sha256": "e01491c4b1e8491bce67a64f009b171590ee149a524c73b08f604955fa8669ec",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 24,
+      "source_sha256": "6e9bb350252dc177bb065314697a27c05ed47f7ef82a6ac896ae8df940464e21",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "cutts",
+      "split": "regression",
+      "id": 26,
+      "source_sha256": "f51bead488e14b656af3a13e33eb1d6fa9580832cbb9d7a20061f84c4b1c160f",
+      "review_input_sha256": "b30ea7e0af2f0f10de663bd523dbcd118acc3387ff179b5495967883ad8cf250",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 0,
+      "source_sha256": "4489d760b8c89c03fd6ed259a12b5813ff15b0ee4075159410f56f070e4147c5",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 6,
+      "source_sha256": "d49af13fc2f056361aecf42f79e5fdfca1acd9e66cd1853a850d06872bbeabd6",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 0,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 13,
+      "source_sha256": "e28b625274c4aa999dbd88db481dc6eece96427ef407974b794e2dcc2f62e0d7",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 19,
+      "source_sha256": "9a55aa1c1991995c53dbffe50c608a7f9188d9e90da7850faafb5c198411f95f",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 26,
+      "source_sha256": "bc10cbd8afeb97908e93845d14e981b6910ef9a71fa63fd0ced6613341d43477",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 32,
+      "source_sha256": "8ba101f82324677b92ac54525b9fb60bc9fa690c3f12f3bb57f135e02e1e8e5a",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 39,
+      "source_sha256": "53cc15da7371a27b0b22e4d7474ee6bd403af239b1ef2f68e119212306b32dfc",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 45,
+      "source_sha256": "e877ebfc6ed04c6c80fd11f0370e8f4a67832211023fefcbcf24a877abe6474b",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 1,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 52,
+      "source_sha256": "13195d8cf526de0fe06ba88d840fb091a80af3978e87b5ad736d51d8a227e65e",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 58,
+      "source_sha256": "0ceeb1bbc26465ab0b582927c7251eae8ea92add5e357586199fbde3fb14cc25",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 65,
+      "source_sha256": "80d28b8cd1825d928383787e93e6f87e3703c2dfcd4aeb06a4ce0b8b5c5203bd",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "treasure",
+      "split": "regression",
+      "id": 71,
+      "source_sha256": "2f0ae002ad5af267597a2279ef84257e84849249f289021016cf1ad27124a53f",
+      "review_input_sha256": "75750b37802fc7a522ebb449b62b6658b4fa1448841f4db136e3ee2b7d9bff2a",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 0,
+      "source_sha256": "d2ef9f36215fab47bce8d203083f95d461fddc4f090253b52e3d0a7e91be8c3b",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 10,
+      "source_sha256": "9200af3a934be54995a9459d15120c7626b39f0186935cbe3c51fc8827e8995b",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 19,
+      "source_sha256": "f28305440c303004a9f3b38c3d713db83f36ba8b90af0b058347c06f228f8ecc",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 29,
+      "source_sha256": "7f0ad4fbd7d4b703b7ae1d16c4e20e21f862280f94f3aa41aee0df19898fa735",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 38,
+      "source_sha256": "c696a7f53525aac8a47761df097378b49ad3a695123df76af4a1ad6f990dab92",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 48,
+      "source_sha256": "dde340f1be4d157bb730a285b7cf0c84606fbe318a8d16f5f1974ea1a6d2f750",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 57,
+      "source_sha256": "5c0f59a5ab69f0ccc1f6d32552b4795f1bdad1f9d5002d91de29f833b0443a57",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 67,
+      "source_sha256": "7f002a79b33d3190546b7a483d4c3ae3a091834428897486f90329f19bc7bac2",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 76,
+      "source_sha256": "7da7d7cc26f22399e75588309f32e7da29e565cd13997d4cb50d0d0b7b9ee5ab",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 86,
+      "source_sha256": "0ee679f55fbdf5b891b7d113c8c0ad1d629992fbf51d67f1b09b573835cc9c0d",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 95,
+      "source_sha256": "6dd6a2e9bb754556d661d1eeb51e8d6c576ddaf53e634e9ae2c01b9fbdab4f1f",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "rosling",
+      "split": "regression",
+      "id": 105,
+      "source_sha256": "dc315631f9f9f5149079f9b708b49f1433f7b373e9bc76e634332320165b9df1",
+      "review_input_sha256": "f056b957b9eef86de60785e271d8645e0bc4247b6281cce71a7518af6ab5cb7f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 0,
+      "source_sha256": "bb303906e0ab4d2f7f3b648d03048567707252707a2d8f5a9a2a122d1bd1ea9f",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 1,
+      "source_sha256": "57c9f9d031c1dbf64c38fbe36fd7fceeed10fe1c2ff2eeb41908cd5780646c9e",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 2,
+      "source_sha256": "bce3dc4f0ca0719efbffaa0adcaba31a8fbce89ed5a59a987ffe65235d6ec3aa",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 4,
+      "source_sha256": "55056de546813dd99f3e2aabd2ba56a8685eddddb0b4e64bf36e5b16d6ed4a97",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 5,
+      "source_sha256": "4bfd9f7629226b2edebf6c6eec2de051ff4d7b5ad57b900210440a73c869d132",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 6,
+      "source_sha256": "6fcb54bef01e77143fefba46e8cd80e4dc947d381336e97111e3dead988ddd40",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 7,
+      "source_sha256": "3f07496952433b8b3a776f4673d3c64ea4608791f7e77c799749f5c7b1d3462b",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 8,
+      "source_sha256": "f2dae24b76d339d8770f1a4ad18f6c6e55cef0ded55429fb72c6a6be583c9685",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 9,
+      "source_sha256": "89bc27e7d6ef9c46c62a760a2295bdaa1cc990c3412c8bf91f82ca348c2b2240",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 11,
+      "source_sha256": "ac0269d673871aed97b00e9a9067a91e9af0380499e56c5ed9669c8cdbf6e76d",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 12,
+      "source_sha256": "361d3445793119da08b6ae97de02356a9b3f7090fc74fa002b2060d123bea1f5",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "sivers",
+      "split": "regression",
+      "id": 13,
+      "source_sha256": "3360041c94d2cd8c3e31acfef5bee11c976dd3fb07cf73da2c63bb9aaeec9a18",
+      "review_input_sha256": "ad49226006e2cae8a255232bfa5b99589160c8355e5ad75524e105c1af5913ce",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 0,
+      "source_sha256": "0d8e03a725532913242d207dd31acc2b245d782a7d0e5beb93ab7c7c12d112b3",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 5,
+      "source_sha256": "b731247157f042055396692fa5b8dd1a9f8e31a14df43eb33eee623dfdc11bd2",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 9,
+      "source_sha256": "9b5290d082a613ba0d65ae1cf2ac58efa606a03b4dc537aab50b10c50980bcdf",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 14,
+      "source_sha256": "f7ec1ab27e0ad0e3c59bad0a6da03482c1c18e4e33a291e22151bab5a5fbf573",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 19,
+      "source_sha256": "e3b85f8eee11f2cc0799bb778e0253f7247174824bb8640f7cb278224f223caf",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 23,
+      "source_sha256": "3680a23ca4fe529bf0a3fba349df5c2fd79ab674efd7ed0a14618f3b2e4fa995",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 28,
+      "source_sha256": "90ff1d6fe7f74e336404322030dda83bd70dba28f81a0b86621e7a464febcd57",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 32,
+      "source_sha256": "5e7959db9c3fba7114c6855289139adb72ac3f1ad2f734bcf909a792e13e6f9e",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 1,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 37,
+      "source_sha256": "8a2fdf172e82e0ee98a8bf4de3194903ef7b86e9a4fdca3661ac511609a27da4",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 42,
+      "source_sha256": "beebfaab0de9dac131d76016ec61d8d79d479692c2446b5d5019c083cb1d1168",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 46,
+      "source_sha256": "d0a97aad17be544b707f51b2c08dbd943ff3c782d935e9bfbc813742d0b322dd",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "duckworth",
+      "split": "regression",
+      "id": 51,
+      "source_sha256": "d859f112ff57b5c6a1dc1681c705d81c9a31adebbf05bcbdc456feb71429d349",
+      "review_input_sha256": "273627a24ab05ac4f4cc01b6a5dd215b1d7dd1a75066def98baba4dd23cec2c7",
+      "final": {
+        "adequacy": 2,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "33ce41314ee1affe2fb03ab08f4fceb2e8b66e15b71529edf1bd3017f1baf1cd",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 9,
+      "source_sha256": "37ee97726d32fee85d9f412a106118ae7217ea54218a6e6c75fced6f60fbac57",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 17,
+      "source_sha256": "9f345782b4ac9b32527deed2c09ba675fc9bb9a3554f5837350230b95288d9d5",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 26,
+      "source_sha256": "a29c35514c50455a67df0282a766c92c342a0f06d8fe86fdc41ca4d77fab2650",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 34,
+      "source_sha256": "005730da9cf5d13ff43a9f4dc4168f8266b9eb14bf7abb976852ebde361ce494",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 43,
+      "source_sha256": "a697b855dff3003abacc2be991b23e5d4ecff0063d5eacafcda824df50ac7e82",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 51,
+      "source_sha256": "eb7ec56c91c7dd7fbb2444938b6557850e08b7504b4e99c43027b6b65bbb701e",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 60,
+      "source_sha256": "353b5b26efbf56c6c71753697eccb83c40ea309c03c36ed965f25baf42d26636",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 68,
+      "source_sha256": "658abebd6cd3c8f48c734a738e9b7082d612497a14fea9e17c83f90eec736fc9",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 77,
+      "source_sha256": "6d967a9e4cb69f06c0b1160f865bdd08dcb72327a14108d321b4c186c9e30157",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 85,
+      "source_sha256": "f0c87927930f210edde469fd283968cc1b72c7f288091a03dc2d0ccc303973be",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "urban",
+      "split": "development",
+      "id": 94,
+      "source_sha256": "83e455b11cb4e946d10449313c73c6b7d833b2a0348d1cbac1a97ed8711fda5c",
+      "review_input_sha256": "3ba1d0006520ac1263d85a7662812cde9932214f8eb736d320ccea51d674584f",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "5dd6976e650ebc88b56ab2e7452e3ea98afd6bc812139b5d12cdc06cb8badb34",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 9,
+      "source_sha256": "38ff02da38f2a11318ff01559a74c95d26602d4318000616417cf4be5a7ff07c",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 19,
+      "source_sha256": "e4b9efcd13298af963ce849fbdb27bc2dfdbaa0237c68e68e3e613646e61f18d",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 28,
+      "source_sha256": "60edf0dc75c3403a16d1289bd7057330fa9f2ee7b733e150c2f091822082764d",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 37,
+      "source_sha256": "500f6b53f2a206561b8bd3eacc6fe6b981c71b979cd7ea1fbe1ffb57bede7ad5",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 47,
+      "source_sha256": "2e17e1aecc5512be4d9bcb9223bf18f94a35605e5d30314a8b9b48e9bcd9bdcd",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 56,
+      "source_sha256": "c2f5440c7710ea7f13f787a7bc158b54f0d0d64ef1ff251be2db138445e46be3",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 66,
+      "source_sha256": "6448800f0912802903928c746a0a6241d798cfc72e8323bcebc07fa388f471c7",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 75,
+      "source_sha256": "651af4259450ea230dc7b484c05efcba72fe2c948fb142b76de2a2698f7b33fc",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 84,
+      "source_sha256": "18522b883e482e1b39d774104b6a40e92f8b2d967154a87e5542677d2c36c3c4",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 94,
+      "source_sha256": "0b57d17492525715515d0cceeb8869fc9806f0f37dbff09764d3eb0a35f8d9be",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "brown",
+      "split": "development",
+      "id": 103,
+      "source_sha256": "9056b3a4132a62fd26649fb5bb968264a93a30ad07a128c8a159c58ec704c0d8",
+      "review_input_sha256": "70a5c142ffacd4abcb2bf47993f7cfeb8fbddb93fb4a4ff0ce20bc7c77247fd5",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "a6dc2fbf9f8080153d2a7e9513e5c2401db49f094c6e9893a2c49895a8681bfb",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 9,
+      "source_sha256": "0a01f5b32ac6a39a652c9ada3d6c7a406ad728fd9da060320f3f046d8d9b95d8",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 17,
+      "source_sha256": "6604eb66572ae8f76c9b588a23d0977ff10273825b6abb1ccae0068e6bd81069",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 26,
+      "source_sha256": "28c8f0e80fc0de39ad36be59e54ff31a7be534233584c2d4ddb92ee7238d7fa3",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 34,
+      "source_sha256": "6810306e8ccbfcc56156066739401d06c9a5871ed629e1100caa586704ed6278",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 43,
+      "source_sha256": "23d4976c534bf297080c8bd481ec3076a5c0277bd3dfd8a14a5d06ac48a800e1",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 51,
+      "source_sha256": "9e51d4a9556a63345152842039f59e56a9230d8b130fc011c1e054431fb1c539",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 60,
+      "source_sha256": "12b26b40c9d965ce3848d5a9bdbdb16aa0d5471d99ae51828284ad213a9c757a",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 68,
+      "source_sha256": "ca567c02956005fc2dc3f234b0522e8a38d760b44f7d02e0bb49391c13770c49",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 77,
+      "source_sha256": "216d0f46362513268c78187c6b3e21c659de97a2f2fb6cd69a099258176efa5c",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 85,
+      "source_sha256": "a5d8b81a4be9d165c155f8d6ffae73b959126b925f71d2a711e9ffb177476601",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "robinson",
+      "split": "development",
+      "id": 94,
+      "source_sha256": "f3707d6e374b565ccd4a743430762c17b0168595077c44cb4b538b1c571e6fcf",
+      "review_input_sha256": "9df388944c3dee07745023d57137b180a131e04569ccc967bba70f56f5ac88ee",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "b4352ca8762fcd1e16d035d8414ea5c233b2abbfa4527b1f6fca613704170dcc",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 10,
+      "source_sha256": "95cc1f760afc619bb5c9d0fde196be64c9d81600576f539cc3fb3f15911e4343",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 19,
+      "source_sha256": "55fe71f1db06e724536b4391294421b67b2c9c6edd303d986070489ae0c0ded2",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 29,
+      "source_sha256": "fd34deb598f1042daca7115fdd0315c9b7d2ceae3ed75f3489eb3fbadd90b332",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 0,
+        "fluency": 0
+      },
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 39,
+      "source_sha256": "1b1c851f25f5307de731b738aee0e91b403d19e1b15595b12d65e0e6b6876015",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 49,
+      "source_sha256": "4b0b3b6097b68c75fbf1b3f368598bc1855a5b35fdff43b7623192709e225067",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 58,
+      "source_sha256": "5667a6fcc98a952a301ebb0c7d186a398e1035940abe97d9a1def072b90549ab",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 68,
+      "source_sha256": "1b8710a7b78c33be589fb6f4f7a13e67a238a2664e6bbf2ae86793f508c9d722",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 78,
+      "source_sha256": "d08f5cae2cd56201fa731f6966b638c05cf9b505263795648d138c8991ee2a19",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 88,
+      "source_sha256": "ce0106331f5bdefe54008214ff5a86df6a41a055793597f17406f728db73ca43",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 97,
+      "source_sha256": "3d93064e9f4e90e0d66d7810b22f9fe175e894b68ca188dc2c28f8156eb26a84",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "mcgonigal",
+      "split": "development",
+      "id": 107,
+      "source_sha256": "98848ca7fe416ef36ffb3577153a6727c1501ba6d178328bef65497700f9fc4a",
+      "review_input_sha256": "0dee76578acf98c1ef3f75a443210db6ae36f1a9e94f49f2c65e8379db812c1d",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "afd55459ed59be769eb23ca7e993636937855ef7b39e1a43e9be066d93809f0f",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 7,
+      "source_sha256": "77ca2d366a7ed35820ea86102a886559cc0897fa48b5e9194a508503178ce3d6",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 15,
+      "source_sha256": "946840df62918a8ede60dd560e9824df42722b41c1ee685dc0e71e5a07bb70b7",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 22,
+      "source_sha256": "23086b1de9fcb007b5c49c43b236117a3f7e7b82fd021693089e7cbee44f7e2e",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 29,
+      "source_sha256": "e1994837d602164000de0a0405ff4808459e44534b0fd8dd3be09ac9b4d66f42",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 36,
+      "source_sha256": "ae62014926d7566dfd84461f33cb4bdfe6165a4b21390e9c42ff6b81faae7a7b",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 44,
+      "source_sha256": "08908032c4090f900268d639fdb62c023437c7e7e0590a84de2526fe4d5ea759",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 51,
+      "source_sha256": "e218fd926ca006ca174bd0fb54323a65a5bba664f8ef16789bd1bc36e3f565cb",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 58,
+      "source_sha256": "33d9eb8762475d6a095bd91d51129e531cae3456f61645a500348cd4e95bcab3",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 65,
+      "source_sha256": "6c88748f15509ff1566e027f7113be12ceb7fc9a6161a0d1c990f45c1cde846e",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 73,
+      "source_sha256": "13d3302a0b2a5ada74426f3ea397fa98114a535333648708c2870fd1fcb39570",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "suzuki",
+      "split": "development",
+      "id": 80,
+      "source_sha256": "cbf4161083ece6a5301e6fdd88f7c555bffc9233f7a6d7a243b31797ee71ef44",
+      "review_input_sha256": "99a01416364e8f7f387fbde808bfb8533fe644533c265ad6131bfe458f5bd129",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 0,
+      "source_sha256": "dee804dd24171f9ac33cc3b1d542dcf8250a0bbed56191d91f4aeb0c22013c64",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 2,
+      "source_sha256": "cf7d9fce39db2506cfe6fa02f5f1a2bc274441b19960748623d629716d0ff6f9",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 5,
+      "source_sha256": "094a48a254ace52bba96034cf741400e6700d3e5626bd5554d2b9d34a2fd07cf",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 7,
+      "source_sha256": "331049bc8d1b30bb570ec3a61e62f7dec46dac62a11f070b27c6acdc1f55544d",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 0,
+        "fluency": 0
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 10,
+      "source_sha256": "52a031b5b4c442cf1b2e39585a6e23f2f81ed88c624a9c50e326ae0d268f97d3",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 12,
+      "source_sha256": "9bafde07e44f993cffdd19f4773ff12c7b6431035c67fca47e173cb94f76e4e9",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 15,
+      "source_sha256": "e44dd140a5fff68130d6f9ef036d5bc562bdd78d3093eff0e3d831faf2e19bbf",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 17,
+      "source_sha256": "55e19962d51699ee55d1a260d8c379c5220958a6d0181a3062b7e5b22e4fef56",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 20,
+      "source_sha256": "d701e5a11533bcbb26ba02d55dff62a646eac83c7e534ee7d7b2d08db23ac462",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 22,
+      "source_sha256": "51009721cbf402ec482cfce2ead81ae7c7b3f8a7ebe03a7b41c444998efd727a",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 25,
+      "source_sha256": "df60a851638caed1c646d3a9fb91ec6374f96ab6bb07aab714af8a21f9888c5c",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "wernicke",
+      "split": "holdout",
+      "id": 27,
+      "source_sha256": "c9a2cace03f47748705051a99774fb61af989b3fddccf103b97649f0b361e163",
+      "review_input_sha256": "7af5ade71d3bb52cadb640217f54b73d4e6417ed2d53f06d793e87644f50eab5",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 0,
+      "source_sha256": "99ae08e4e8a65cfd1eab05ff0fb3cda3a802748071c9dc7f3c20141bdf7dd958",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 7,
+      "source_sha256": "f05a5c4359715de5c0957cc50401baba8fae16535216feedbbe6a861a8083568",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 13,
+      "source_sha256": "b16f27fe402e2052b083875a6640a2ca5d01b088c713b8bcb011ece50bce03c7",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 20,
+      "source_sha256": "6409e6322ee0d6f1b570eb31060018b8d89e548d7d04bef0584f11ed4fb8eba0",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 26,
+      "source_sha256": "520f09b65e345a897d574e95323c295b7a0887515bffe42f12ea993a0776a59a",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 33,
+      "source_sha256": "347c1de5651048e4bc13d98f2a17c6f2d1a1db4017783b5abfbe30eeb8bbfa8a",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 39,
+      "source_sha256": "ebb91e6f0539a0390b3b1ec90c7b9e36bb411f2744d43f2d20c02f1fcf739160",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 46,
+      "source_sha256": "da6c0f8731528e91f14d06b1c6ecb46d1c5de32c58eab5811bf7f49f8656cd9c",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 52,
+      "source_sha256": "a3bad06ad993ccbcb5cd4b79130850b53bbe2d76eb387317875a2b3f8cdd9d2a",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 59,
+      "source_sha256": "d3b6318ce3c63a5f1a3b4f83eaeb8e94f61e9e643b4c82d2708c4d376d9b651f",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 65,
+      "source_sha256": "081dafc7aeb701c76724b40e014a02e8215fbe45aa97b7979ac6babdc5dacc39",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "blakemore",
+      "split": "holdout",
+      "id": 72,
+      "source_sha256": "3f594ea076ba1d8f91f0a82d0405320fbee0906fa31aafdb458723c0d85ef35e",
+      "review_input_sha256": "336b20fd3e0f98bcafc1dab91a4a8ed656fa065af0d767b8eceae9ad17dea8c6",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "73318f5b6c13d9377f6c9d98de81fe5fc8100a8c8b5f9f423d554b5cc3b479ae",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 11,
+      "source_sha256": "a6f000a42f72a92699d008f51f875bcef3f1d2a1f6fc7fea6478a7818590c64d",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 21,
+      "source_sha256": "26c49f51de34c7aed2dfb9cb8e6e906f8999d03dcf2a2517bc3026b37fecc98b",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 32,
+      "source_sha256": "179e988b3f523acc2f918f2cbaa3f7d2bfcf18a1830b1cb29c1439a70a86a2f2",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 43,
+      "source_sha256": "95857acc374cce88a71b6c72107370824b775f287046f869cb5591bb19422e77",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 54,
+      "source_sha256": "6a099445143fcb768d7b7f0079af4bec0855e874a3996fffd9a8e9508c7ce76b",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 64,
+      "source_sha256": "345e527f2e2c661d173d05de9a908153383c0b37ba545c81b4d65ad56759df93",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 75,
+      "source_sha256": "7a127f51d7036e26f3c6330b8dd734d1c37239fd9f9681647e35636551156e06",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 86,
+      "source_sha256": "8f1859f5835dc82f4a7c06686c282c26578175ef0ea558d6876d1402c651d7dc",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 1,
+        "fluency": 1
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 97,
+      "source_sha256": "9cbf6df9ba90fa4682b175c9c90f67440b2a7c5b3445b82c7ee6ba9a7ef9c7dc",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 107,
+      "source_sha256": "db459a809bd1b66352e283b6d1f471e001c91d6c43121e42fd79e8cb23f06857",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "jiang",
+      "split": "development",
+      "id": 118,
+      "source_sha256": "8569efc4ed5a6273140c2b6ec0ab8d99f4398210808fbb7c0cbbae4fbcc21350",
+      "review_input_sha256": "1a985c30438a052ee7cc1a200efdfcde100ec320cb62ecdf7aa133132d23ae4d",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "13f032957d806fd9d63a4985bace3716486e5c54f28fa8454d779bb04616509d",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 6,
+      "source_sha256": "4871b950931001447503494bd3f04b46d2bacc2358d509cdaf9e3c4bec0c8ba8",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 12,
+      "source_sha256": "5ab3c1999d49b6998a7194e0019de96b06190364311363cfe082d2588ac25819",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 17,
+      "source_sha256": "b228759b435dc8001b2683394b1100046f16c05c4486a91177cb6fe7796f0e00",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 23,
+      "source_sha256": "5bd15200ab295bfcaff3a08daed26ddf69d77f50fab9c4833dab791d8fcbb63b",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 29,
+      "source_sha256": "26e4c819c67f9052ca6f3c1edf596508e86fc922a7bcd8bf06d5bc7c34cdb217",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 1,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 35,
+      "source_sha256": "f6b3fc703a61251efc0e904545170b600c006c0a7f616484e0893d7121f23027",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 41,
+      "source_sha256": "6e36f06533721744c7fb1e30171445e06e8dd4187d2faee062b964c97d8f9c2f",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 47,
+      "source_sha256": "091a0cb8fa56a94b3c046d0af59ba1a7fdeac1bb8a93164b627166fd5f031617",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 52,
+      "source_sha256": "9f478ce1eba937ed785f2f1743e86d0d8627160a385d9e41cb467ec20324c9ad",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 58,
+      "source_sha256": "5a9fc81cf845cad9fb264b287bf38af81d6f0d7c3436e762bce95762d4311a6a",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "v1": {
+        "adequacy": 1,
+        "fluency": 1
+      },
+      "final": {
+        "adequacy": 1,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "headlee",
+      "split": "development",
+      "id": 64,
+      "source_sha256": "f51bead488e14b656af3a13e33eb1d6fa9580832cbb9d7a20061f84c4b1c160f",
+      "review_input_sha256": "f67bc18ebaf3cd24023944ccef9a59928dc896d34ec696456fde0ee81e452526",
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 0,
+      "source_sha256": "d415bc2710e7c77bff2c3cb8ad2ba18bc80447cae067a564f3cf71e197d65005",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 12,
+      "source_sha256": "e7de6598e2a68f720b4794bcfde50df36ec4961190b1b9b94b7217ed0adb3683",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 24,
+      "source_sha256": "8547dee88ce122d4902ce9ccd54ac67f6d421606cf38ccdf17cc29f3ebcb459b",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 36,
+      "source_sha256": "a2775bf150256a53a078fdfbe7eeefe17a7fcec0593521b9d1e25a636567708b",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 3,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 48,
+      "source_sha256": "3e125943d67bdffa7d75a0af3d0d9c565888d534085fbc2da854cc693f69af2b",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 60,
+      "source_sha256": "b9ef015b247f790d49984a46f6bcd9b8d94e0058884dfa0a70dd4964716e60b3",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 71,
+      "source_sha256": "4d523e4d90d02cba578478be0492debd8e1583129c8774f95cc72af00869da6b",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 83,
+      "source_sha256": "530c4a5add56070eb7bbfe9a284dd488d205260f24fd92ff81d16648f16fd791",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 4,
+        "fluency": 4
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 95,
+      "source_sha256": "eef584f7d75e242315dddf889c4b5dfb14e1027b5215f5aa2a7284b01bb03603",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 4,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 107,
+      "source_sha256": "83ec5373663abbc44e1ec9f6d0daa3fbd6c740a13672bd8892af7e9717570ede",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 2,
+        "fluency": 2
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 119,
+      "source_sha256": "0e4583a2393f71353035a54027c1c7f8c2bd1e00bee09336b8649a1f6a5d889b",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "final": {
+        "adequacy": 3,
+        "fluency": 3
+      },
+      "v1": {
+        "adequacy": 3,
+        "fluency": 3
+      }
+    },
+    {
+      "talk": "russell",
+      "split": "development",
+      "id": 131,
+      "source_sha256": "66016aeca0811fa6901a873f6ccb7ff88bfa9dad705e7f9a82f1e458a0abee39",
+      "review_input_sha256": "979bde623bff6d4e461eb1eefa211ce0fec7ef20adcc1990233255dabe270687",
+      "v1": {
+        "adequacy": 4,
+        "fluency": 4
+      },
+      "final": {
+        "adequacy": 2,
+        "fluency": 2
+      }
+    }
+  ]
+}

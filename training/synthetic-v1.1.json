@@ -1,0 +1,4802 @@
+[
+  {
+    "en": "I thought we agreed to push the deadline to Friday, but now it sounds like some people still expect it by Wednesday.",
+    "zh": "我以为我们已经同意把截止日期推迟到星期五，但现在听起来有些人仍然期望在星期三之前完成。"
+  },
+  {
+    "en": "If the client doesn't confirm by noon, we should probably postpone the kickoff until next week.",
+    "zh": "如果客户在中午之前没有确认，我们可能应该把启动会推迟到下周。"
+  },
+  {
+    "en": "She said she might join the call, but only if her earlier meeting doesn't run over.",
+    "zh": "她说她可能会加入通话，但前提是她之前的会议不会超时。"
+  },
+  {
+    "en": "We have three items on the agenda, not four, and the last one is just a quick update.",
+    "zh": "我们的议程上有三项，不是四项，最后一项只是快速更新。"
+  },
+  {
+    "en": "Can you send the invite to everyone except the interns? They don't need to be in this one.",
+    "zh": "你能把邀请发给除了实习生以外的所有人吗？他们不需要参加这一次。"
+  },
+  {
+    "en": "I'm not sure the room is available at 2, so let's have a backup plan just in case.",
+    "zh": "我不确定两点时会议室是否可用，所以我们还是准备一个备用方案以防万一。"
+  },
+  {
+    "en": "He usually joins from his phone, so don't be surprised if his video doesn't work.",
+    "zh": "他通常用手机加入，所以如果他的视频不能用，别感到意外。"
+  },
+  {
+    "en": "We can either meet in person or online, but I'd prefer online since half the team is remote.",
+    "zh": "我们可以线下见面，也可以线上开会，但我更倾向于线上，因为团队里有一半人远程。"
+  },
+  {
+    "en": "Unless something urgent comes up, I'll be there about ten minutes early.",
+    "zh": "除非有紧急情况出现，否则我会提前大约十分钟到。"
+  },
+  {
+    "en": "The meeting isn't canceled; it's just moved to Thursday at 3:30 instead of 2.",
+    "zh": "会议没有取消，只是改到了星期四3:30，而不是2点。"
+  },
+  {
+    "en": "I don't think we need a full hour for this, maybe thirty minutes is enough.",
+    "zh": "我觉得我们不需要整整一个小时，也许三十分钟就够了。"
+  },
+  {
+    "en": "If you can't make it, please send your notes beforehand so we can still discuss them.",
+    "zh": "如果你来不了，请提前把你的笔记发过来，这样我们仍然可以讨论。"
+  },
+  {
+    "en": "She asked whether we could shift the stand-up to 9:15, but I haven't heard back from the others yet.",
+    "zh": "她问我们能不能把站会改到9:15，但我还没有收到其他人的回复。"
+  },
+  {
+    "en": "We should keep the meeting short because two people have another call right after.",
+    "zh": "我们应该把会议开短一点，因为两个人紧接着还有另一个电话。"
+  },
+  {
+    "en": "It's not that I disagree with the plan; I just think we're missing a step.",
+    "zh": "不是说我不同意这个计划，我只是觉得我们漏了一个步骤。"
+  },
+  {
+    "en": "Let's not decide today. We can revisit it next Monday after everyone has had time to think.",
+    "zh": "我们今天先别决定。下周一等大家都有时间思考之后，我们可以再讨论。"
+  },
+  {
+    "en": "He said he'd handle the slides, but I'm not sure he remembers, so maybe send him a reminder.",
+    "zh": "他说他会处理幻灯片，但我不确定他还记不记得，所以也许给他发个提醒。"
+  },
+  {
+    "en": "The conference room is booked until 11, so we'll start in the small meeting room and move later.",
+    "zh": "会议室被订到11点，所以我们先在小会议室开始，之后再换过去。"
+  },
+  {
+    "en": "I can only stay for the first twenty minutes, but I'll read the minutes afterward.",
+    "zh": "我只能待前二十分钟，但之后我会看会议纪要。"
+  },
+  {
+    "en": "If nobody objects, I'll go ahead and send the calendar invite for Friday at 10.",
+    "zh": "如果没有人反对，我就直接发出星期五10点的日历邀请。"
+  },
+  {
+    "en": "We don't have to finish everything today; the main goal is just to agree on priorities.",
+    "zh": "我们不必今天完成所有事情；主要目标只是就优先事项达成一致。"
+  },
+  {
+    "en": "She might be late because her previous meeting often goes over by five or ten minutes.",
+    "zh": "她可能会迟到，因为她之前的会议经常会超时五到十分钟。"
+  },
+  {
+    "en": "Can we move the review to next Tuesday? I'm traveling Monday and won't be able to prepare.",
+    "zh": "我们能把评审改到下周二吗？我周一出差，没法准备。"
+  },
+  {
+    "en": "I thought the deadline was the 15th, not the 5th, so we may have more time than we think.",
+    "zh": "我以为截止日期是15号，不是5号，所以我们可能比想象中有更多时间。"
+  },
+  {
+    "en": "Unless the manager says otherwise, we'll keep the same schedule for now.",
+    "zh": "除非经理另有指示，否则我们暂时保持同样的日程。"
+  },
+  {
+    "en": "He didn't say he couldn't come; he just said he might be a few minutes late.",
+    "zh": "他没说他来不了，他只是说他可能会晚几分钟。"
+  },
+  {
+    "en": "We need to decide between the 10th and the 17th, but I don't have a strong preference.",
+    "zh": "我们需要在10号和17号之间做决定，但我没有强烈的偏好。"
+  },
+  {
+    "en": "If the update takes longer than expected, we can skip the last item and follow up by email.",
+    "zh": "如果更新耗时超过预期，我们可以跳过最后一项，然后通过邮件跟进。"
+  },
+  {
+    "en": "I'm not available at 4, but I could do 4:30 or anytime after 5.",
+    "zh": "我4点没空，但4:30或者5点之后任何时间都可以。"
+  },
+  {
+    "en": "She usually takes notes, so if she's absent, someone else should volunteer.",
+    "zh": "她通常会做笔记，所以如果她缺席，应该有人主动承担。"
+  },
+  {
+    "en": "Let's start with the budget, not the timeline, because the numbers may change everything else.",
+    "zh": "我们先从预算开始，而不是时间线，因为数字可能会改变其他所有事情。"
+  },
+  {
+    "en": "I doubt we'll finish in thirty minutes, but we can try to keep it under forty-five.",
+    "zh": "我怀疑我们三十分钟内完不成，但我们可以尽量控制在四十五分钟以内。"
+  },
+  {
+    "en": "If you're joining remotely, please mute your mic unless you're speaking.",
+    "zh": "如果你是远程加入，请在不发言时静音。"
+  },
+  {
+    "en": "He asked if we could meet at 8 instead of 9, but that's too early for most of us.",
+    "zh": "他问我们能不能8点见面而不是9点，但这对我们大多数人来说太早了。"
+  },
+  {
+    "en": "We should probably cancel the Friday sync since half the team will be out.",
+    "zh": "我们也许应该取消周五的同步会，因为团队里有一半人不在。"
+  },
+  {
+    "en": "I'm not saying the idea is bad; I'm just saying we need more data before we commit.",
+    "zh": "我不是说这个想法不好；我只是说在投入之前我们需要更多数据。"
+  },
+  {
+    "en": "Can you check whether the 14th works for everyone, or if we should aim for the 21st?",
+    "zh": "你能确认一下14号是否对所有人都合适，还是我们应该定在21号？"
+  },
+  {
+    "en": "Unless traffic is terrible, I should be there by 9:05.",
+    "zh": "除非交通非常糟糕，否则我应该在9:05之前到。"
+  },
+  {
+    "en": "She might not have seen the invite yet, so don't assume she's ignoring it.",
+    "zh": "她可能还没看到邀请，所以别以为她是故意不理。"
+  },
+  {
+    "en": "We have two options: shorten the meeting or move it to a day when more people can attend.",
+    "zh": "我们有两个选择：缩短会议，或者把它改到更多人能参加的那一天。"
+  },
+  {
+    "en": "I'll be late, maybe ten minutes... start without me if I'm not there by 2:10.",
+    "zh": "我会迟到，也许十分钟……如果我2:10还没到，你们就先开始吧。"
+  },
+  {
+    "en": "Not today... let's talk about it tomorrow when we have the full team.",
+    "zh": "不是今天……我们明天等全队都在的时候再谈吧。"
+  },
+  {
+    "en": "If only we had booked the room earlier...",
+    "zh": "要是我们早点订了会议室就好了……"
+  },
+  {
+    "en": "Three people, not five, confirmed for Friday.",
+    "zh": "确认参加周五的是三个人，不是五个人。"
+  },
+  {
+    "en": "Half an hour, maybe less.",
+    "zh": "半小时，也许更少。"
+  },
+  {
+    "en": "Before 9, if possible...",
+    "zh": "如果可能的话，9点之前……"
+  },
+  {
+    "en": "No later than the 12th, preferably the 10th.",
+    "zh": "不晚于12号，最好是10号。"
+  },
+  {
+    "en": "Not sure yet—depends on the client.",
+    "zh": "还不确定——取决于客户。"
+  },
+  {
+    "en": "Two o'clock works, but not three.",
+    "zh": "两点可以，但三点不行。"
+  },
+  {
+    "en": "If she can't join... we'll reschedule.",
+    "zh": "如果她不能参加……我们就重新安排。"
+  },
+  {
+    "en": "I thought the new dashboard would make things easier, but honestly, it just buries the most important numbers three clicks deep.",
+    "zh": "我本以为新仪表盘会让事情更简单，但说实话，它只是把最重要的数字埋到了三次点击之后。"
+  },
+  {
+    "en": "If the user can't find the save button within five seconds, we've probably failed, no matter how elegant the layout looks.",
+    "zh": "如果用户五秒钟内找不到保存按钮，那不管布局看起来多优雅，我们大概都失败了。"
+  },
+  {
+    "en": "The prototype isn't finished yet, so don't show it to the client until we fix the navigation...",
+    "zh": "原型还没完成，所以在修好导航之前不要给客户看……"
+  },
+  {
+    "en": "Half the test group preferred the blue button, while the other half didn't even notice it changed.",
+    "zh": "测试组里有一半人更喜欢蓝色按钮，而另一半人根本没注意到它变了。"
+  },
+  {
+    "en": "We measured the tap target at 44 pixels, but on smaller phones it shrinks to about 32, which is below the recommended minimum.",
+    "zh": "我们测得点击目标是44像素，但在较小的手机上它会缩小到大约32像素，低于推荐的最小值。"
+  },
+  {
+    "en": "Don't assume people read the tooltip; most of them just tap around until something works.",
+    "zh": "别以为人们会读工具提示；大多数人只是到处点，直到某个东西能用。"
+  },
+  {
+    "en": "It's not that the feature is useless, it's that nobody can figure out when to use it.",
+    "zh": "不是这个功能没用，而是没人能弄明白什么时候该用它。"
+  },
+  {
+    "en": "Maybe we should move the search bar to the top, or maybe that would just confuse returning users.",
+    "zh": "也许我们应该把搜索栏移到顶部，或者也许那只会让老用户困惑。"
+  },
+  {
+    "en": "The onboarding flow takes about two minutes if everything goes smoothly, but it can stretch to ten when the verification email is slow.",
+    "zh": "如果一切顺利，引导流程大约需要两分钟，但当验证邮件很慢时，它可能拖到十分钟。"
+  },
+  {
+    "en": "Unless we simplify the checkout page, we're going to keep losing customers at the last step.",
+    "zh": "除非我们简化结账页面，否则我们会继续在最后一步流失客户。"
+  },
+  {
+    "en": "I can't tell whether the icon means settings or profile, and I've been using this app for a year.",
+    "zh": "我分不清这个图标是表示设置还是个人资料，而我已经用这个应用一年了。"
+  },
+  {
+    "en": "The font size is fine on desktop, but on mobile it's almost unreadable without zooming in.",
+    "zh": "字号在桌面上没问题，但在手机上不放大几乎无法阅读。"
+  },
+  {
+    "en": "We ran the A/B test for two weeks, but the results weren't statistically significant, so we can't really conclude anything.",
+    "zh": "我们进行了两周的A/B测试，但结果没有统计显著性，所以我们其实无法得出任何结论。"
+  },
+  {
+    "en": "If you hide the advanced options, power users will complain; if you show them, beginners will feel overwhelmed.",
+    "zh": "如果你隐藏高级选项，高级用户会抱怨；如果你显示它们，初学者会感到不知所措。"
+  },
+  {
+    "en": "The error message says 'something went wrong,' which tells the user absolutely nothing useful.",
+    "zh": "错误信息写着“出了点问题”，这对用户完全没有提供任何有用的信息。"
+  },
+  {
+    "en": "Click the gear icon, then choose privacy... no wait, that's the old version.",
+    "zh": "点击齿轮图标，然后选择隐私……不，等等，那是旧版本。"
+  },
+  {
+    "en": "Our accessibility audit found 17 issues, but only 3 of them are actually blocking screen reader users.",
+    "zh": "我们的无障碍审计发现了17个问题，但其中只有3个真正阻碍了屏幕阅读器用户。"
+  },
+  {
+    "en": "The color contrast ratio is 3.2 to 1, which fails the WCAG AA standard for normal text.",
+    "zh": "颜色对比度是3.2比1，不符合WCAG AA对普通文本的标准。"
+  },
+  {
+    "en": "Users don't want more features; they want fewer steps to get the same result.",
+    "zh": "用户不想要更多功能；他们想要更少的步骤来达到同样的结果。"
+  },
+  {
+    "en": "I'm not sure the tooltip is necessary, but removing it might make the form feel less friendly.",
+    "zh": "我不确定工具提示是否必要，但移除它可能会让表单显得不那么友好。"
+  },
+  {
+    "en": "The loading spinner appears for 800 milliseconds, then disappears before the content actually loads.",
+    "zh": "加载旋转图标出现800毫秒，然后在内容真正加载之前就消失了。"
+  },
+  {
+    "en": "If the user has to read a manual, the design has already failed.",
+    "zh": "如果用户必须阅读手册，那设计就已经失败了。"
+  },
+  {
+    "en": "We tested it with 12 people, and 9 of them missed the 'next' button entirely.",
+    "zh": "我们用12个人进行了测试，其中9个人完全没看到“下一步”按钮。"
+  },
+  {
+    "en": "The button looks clickable, but it isn't... that's a dark pattern, even if we didn't mean it.",
+    "zh": "这个按钮看起来可以点击，但其实不能……那是暗黑模式，即使我们不是故意的。"
+  },
+  {
+    "en": "Don't put important actions in the bottom right corner; thumbs don't reach there comfortably.",
+    "zh": "不要把重要操作放在右下角；拇指够不到那里，不舒服。"
+  },
+  {
+    "en": "The search results are sorted by relevance, not by date, unless the user changes the filter.",
+    "zh": "搜索结果按相关性排序，而不是按日期，除非用户更改筛选器。"
+  },
+  {
+    "en": "It works perfectly on my machine, but on older browsers it breaks completely.",
+    "zh": "在我的机器上运行完美，但在较旧的浏览器上它完全崩溃。"
+  },
+  {
+    "en": "We need to decide whether to use a modal or a new page, and neither option is clearly better.",
+    "zh": "我们需要决定是使用模态框还是新页面，而这两个选项都没有明显更好。"
+  },
+  {
+    "en": "The user didn't understand the difference between 'save' and 'submit,' so they lost their work.",
+    "zh": "用户不理解“保存”和“提交”的区别，所以他们丢失了工作内容。"
+  },
+  {
+    "en": "If we add a progress bar, people might wait longer, but they'll also be less frustrated.",
+    "zh": "如果我们添加进度条，人们可能会等待更久，但他们也会少一些挫败感。"
+  },
+  {
+    "en": "The form has 23 fields, but only 7 are actually required.",
+    "zh": "表单有23个字段，但实际只有7个是必填的。"
+  },
+  {
+    "en": "I can't reproduce the bug on my phone, but three users reported it on Android 11.",
+    "zh": "我在手机上无法复现这个错误，但有三名用户在Android 11上报告了它。"
+  },
+  {
+    "en": "The menu closes when you tap outside it, which is fine, but it also closes when you scroll.",
+    "zh": "点击菜单外部时菜单会关闭，这没问题，但滚动时它也会关闭。"
+  },
+  {
+    "en": "Unless we test with real content, we won't know if the layout holds up.",
+    "zh": "除非我们用真实内容测试，否则我们不会知道布局是否撑得住。"
+  },
+  {
+    "en": "The icon is a floppy disk, which means nothing to anyone under 25.",
+    "zh": "图标是一张软盘，这对25岁以下的人来说毫无意义。"
+  },
+  {
+    "en": "We could use a dropdown, or we could use radio buttons... it depends on how many options there are.",
+    "zh": "我们可以用下拉菜单，或者用单选按钮……这取决于有多少个选项。"
+  },
+  {
+    "en": "The page loads in 1.2 seconds on wifi, but on 3G it takes almost 8 seconds.",
+    "zh": "页面在WiFi上加载需要1.2秒，但在3G上几乎需要8秒。"
+  },
+  {
+    "en": "Don't make the user remember information from a previous screen; show it again if necessary.",
+    "zh": "不要让用户记住前一屏幕的信息；如有必要，再显示一次。"
+  },
+  {
+    "en": "The tooltip says 'click here,' but there are three 'here's on the same page.",
+    "zh": "工具提示写着“点击这里”，但同一页面上有三个“这里”。"
+  },
+  {
+    "en": "I'm not convinced the new color scheme improves readability, but it does look more modern.",
+    "zh": "我不确信新配色方案提高了可读性，但它看起来确实更现代。"
+  },
+  {
+    "en": "If the password requirements aren't shown upfront, users will fail twice before succeeding.",
+    "zh": "如果密码要求没有提前显示，用户会失败两次才能成功。"
+  },
+  {
+    "en": "The notification badge shows 5, but when you open the app there are only 2 new items.",
+    "zh": "通知徽章显示5，但当你打开应用时只有2条新内容。"
+  },
+  {
+    "en": "We should probably remove the 'cancel' button, or at least make it less prominent...",
+    "zh": "我们也许应该移除“取消”按钮，或者至少让它不那么显眼……"
+  },
+  {
+    "en": "The drag-and-drop feature doesn't work on touchscreens, which is a problem for half our users.",
+    "zh": "拖放功能在触摸屏上不起作用，这对我们一半的用户来说是个问题。"
+  },
+  {
+    "en": "It's not obvious that the list is scrollable, so people think they've seen everything.",
+    "zh": "列表可以滚动这一点并不明显，所以人们以为他们已经看到了全部内容。"
+  },
+  {
+    "en": "We need a fallback for when JavaScript is disabled, even if only 1% of users do that.",
+    "zh": "我们需要为禁用JavaScript的情况提供后备方案，即使只有1%的用户会那样做。"
+  },
+  {
+    "en": "The confirmation dialog uses 'OK' and 'Cancel,' which are ambiguous without context.",
+    "zh": "确认对话框使用“确定”和“取消”，在没有上下文的情况下这些词很模糊。"
+  },
+  {
+    "en": "If the user has to scroll horizontally, the table is too wide for mobile.",
+    "zh": "如果用户必须水平滚动，那表格对手机来说就太宽了。"
+  },
+  {
+    "en": "The animation lasts 400 milliseconds, which feels smooth, but anything longer feels sluggish.",
+    "zh": "动画持续400毫秒，感觉流畅，但再长一点就会显得迟钝。"
+  },
+  {
+    "en": "I think we should test the prototype with five users before writing any code...",
+    "zh": "我认为我们应该在写任何代码之前用五名用户测试原型……"
+  },
+  {
+    "en": "We're not cutting the marketing budget this quarter, but we might freeze new hires until revenue stabilizes.",
+    "zh": "我们这个季度不会削减营销预算，但可能会冻结新员工招聘，直到收入稳定下来。"
+  },
+  {
+    "en": "If the forecast holds, we'll finish the year about twelve percent above target. If it doesn't, well, we'll deal with that later.",
+    "zh": "如果预测准确，我们年底会比目标高出大约百分之十二。如果不准，嗯，那就到时候再说吧。"
+  },
+  {
+    "en": "The finance team says we have roughly three months of runway left, maybe four if collections improve.",
+    "zh": "财务团队说我们大约还剩三个月的资金，如果回款改善的话也许能有四个月。"
+  },
+  {
+    "en": "I don't think the board will approve a budget that big unless we show them a credible path to profitability.",
+    "zh": "我觉得除非我们给董事会展示一条可信的盈利路径，否则他们不会批准那么大的预算。"
+  },
+  {
+    "en": "Our vendor costs went up eighteen percent last year, and honestly, nobody saw that coming.",
+    "zh": "我们去年的供应商成本上涨了百分之十八，说实话，谁都没预料到。"
+  },
+  {
+    "en": "Can you send me the revised projections before Friday? I need to review them over the weekend.",
+    "zh": "你能在周五之前把修订后的预测发给我吗？我需要周末看一下。"
+  },
+  {
+    "en": "We overspent on travel by about forty thousand dollars, which isn't huge, but it's not nothing either.",
+    "zh": "我们在差旅上超支了大约四万美元，这不算多，但也不是小数目。"
+  },
+  {
+    "en": "Unless the exchange rate shifts dramatically, we should be fine through the end of the fiscal year.",
+    "zh": "除非汇率出现剧烈波动，否则我们到财年结束应该都没问题。"
+  },
+  {
+    "en": "The client hasn't confirmed the contract yet, so I wouldn't count that revenue in the forecast.",
+    "zh": "客户还没有确认合同，所以我不会把那笔收入算进预测里。"
+  },
+  {
+    "en": "Look, I'm not saying the numbers are wrong... I'm just saying I don't fully understand how we got here.",
+    "zh": "你看，我不是说这些数字有问题……我只是说我不太明白我们是怎么走到这一步的。"
+  },
+  {
+    "en": "Half the department thinks we should invest in new software, and the other half thinks we should save the cash.",
+    "zh": "部门里一半的人认为我们应该投资新软件，另一半则认为我们应该把现金存起来。"
+  },
+  {
+    "en": "Our biggest expense is still payroll, which eats up nearly sixty percent of monthly revenue.",
+    "zh": "我们最大的开支仍然是工资，它占了月收入的将近百分之六十。"
+  },
+  {
+    "en": "If we delay the product launch by one quarter, we save money now but lose market share later.",
+    "zh": "如果我们把产品发布推迟一个季度，现在能省钱，但以后会失去市场份额。"
+  },
+  {
+    "en": "She's cautiously optimistic about next year's growth, though she warned that nothing is guaranteed.",
+    "zh": "她对明年的增长持谨慎乐观的态度，不过她警告说没有什么是有保证的。"
+  },
+  {
+    "en": "We need to trim about fifteen percent from operating costs without laying anyone off. That's the challenge.",
+    "zh": "我们需要在不裁员的情况下把运营成本削减大约百分之十五。这就是挑战所在。"
+  },
+  {
+    "en": "I've seen the preliminary numbers, and they're not great, but they're not catastrophic either.",
+    "zh": "我看过初步数据了，不算好，但也不算灾难性的。"
+  },
+  {
+    "en": "The auditors are coming next month, so please make sure every receipt is accounted for.",
+    "zh": "审计人员下个月就来，所以请确保每一张收据都有据可查。"
+  },
+  {
+    "en": "Honestly, I'd rather underpromise and overdeliver than promise something we can't actually achieve.",
+    "zh": "说实话，我宁愿少承诺多兑现，也不愿承诺一些我们实际上做不到的事情。"
+  },
+  {
+    "en": "If interest rates go up again, our loan payments could increase by several thousand a month.",
+    "zh": "如果利率再次上升，我们的贷款月供可能会增加几千美元。"
+  },
+  {
+    "en": "They projected a ten percent increase in sales, but actual results came in at only three percent.",
+    "zh": "他们预测销售额增长百分之十，但实际结果只有百分之三。"
+  },
+  {
+    "en": "We can't keep burning cash at this rate. Either we raise another round or we cut deeper.",
+    "zh": "我们不能继续以这个速度烧钱了。要么再融一轮资，要么削减得更狠。"
+  },
+  {
+    "en": "The quarterly report is due in two weeks, and I still don't have the regional breakdowns.",
+    "zh": "季度报告两周后就要交，可我还没有各地区的明细数据。"
+  },
+  {
+    "en": "It's not that we don't have the money... it's that we don't have the money to waste.",
+    "zh": "不是我们没有钱……而是我们没有钱可以浪费。"
+  },
+  {
+    "en": "Our break-even point is around eight hundred units per month, assuming prices stay where they are.",
+    "zh": "我们的盈亏平衡点大约是每月八百件，前提是价格保持不变。"
+  },
+  {
+    "en": "I'm not entirely sure the forecast accounts for the seasonal dip in the third quarter.",
+    "zh": "我不太确定这个预测有没有考虑到第三季度的季节性下滑。"
+  },
+  {
+    "en": "If the supplier raises prices again, we'll have to pass some of that cost to customers.",
+    "zh": "如果供应商再次涨价，我们就不得不把一部分成本转嫁给客户。"
+  },
+  {
+    "en": "We spent six hundred thousand on research last year and got almost nothing back. Not yet, anyway.",
+    "zh": "我们去年在研发上花了六十万，几乎没有什么回报。至少目前还没有。"
+  },
+  {
+    "en": "The CEO wants a three-year plan, but the market changes so fast that it feels almost pointless.",
+    "zh": "首席执行官想要一个三年计划，但市场变化太快，感觉几乎没什么意义。"
+  },
+  {
+    "en": "Either we find a cheaper logistics partner, or we accept that our margins will keep shrinking.",
+    "zh": "要么我们找一个更便宜的物流合作伙伴，要么我们就接受利润率继续缩水。"
+  },
+  {
+    "en": "Nobody expected the currency to drop that much, and now our overseas revenue looks terrible on paper.",
+    "zh": "没人料到汇率会跌那么多，现在我们的海外收入账面上看起来很难看。"
+  },
+  {
+    "en": "I'd estimate we need at least two more months to close the gap between budget and actual spending.",
+    "zh": "我估计我们至少还需要两个月才能弥合预算与实际支出之间的差距。"
+  },
+  {
+    "en": "The bonus pool depends on hitting ninety percent of targets, not a hundred. That's the minimum threshold.",
+    "zh": "奖金池取决于是否达到目标的百分之九十，而不是百分之百。那是最低门槛。"
+  },
+  {
+    "en": "We're not going to hit the revenue target this year... but we're closer than we were last year.",
+    "zh": "我们今年达不到收入目标了……但比去年更接近了。"
+  },
+  {
+    "en": "Please double-check the figures for the Asia-Pacific region; something doesn't add up there.",
+    "zh": "请再核对一下亚太地区的数据；那边有些数字对不上。"
+  },
+  {
+    "en": "If we reinvest half the profits, we grow slower but stay safer. It's a trade-off.",
+    "zh": "如果我们把一半利润再投资，增长会慢一些，但会更安全。这是一种取舍。"
+  },
+  {
+    "en": "The finance director mentioned a possible shortfall of two million, though she said it's still preliminary.",
+    "zh": "财务总监提到可能会有两百万的缺口，不过她说这还只是初步估算。"
+  },
+  {
+    "en": "I don't have the exact numbers in front of me, but I think we're slightly over budget on consulting.",
+    "zh": "我手头没有确切数字，但我觉得我们在咨询方面略微超支了。"
+  },
+  {
+    "en": "Unless something changes, we'll need to borrow money just to cover next month's payroll.",
+    "zh": "除非有变化，否则我们下个月连发工资都得借钱。"
+  },
+  {
+    "en": "He said the forecast was conservative, but I think he was just being polite. It's optimistic.",
+    "zh": "他说这个预测比较保守，但我觉得他只是客气。其实挺乐观的。"
+  },
+  {
+    "en": "We've got two options: cut the product line or raise prices. Neither one is popular.",
+    "zh": "我们有两个选择：砍掉产品线或者涨价。两个都不受欢迎。"
+  },
+  {
+    "en": "About a third of our clients renew annually, and the rest either leave or negotiate a lower rate.",
+    "zh": "大约三分之一的客户每年续约，其余的要么离开，要么谈一个更低的价格。"
+  },
+  {
+    "en": "I'll need the final budget draft by Thursday, otherwise we can't present it at the Friday meeting.",
+    "zh": "我需要在周四之前拿到最终预算草案，否则我们没法在周五的会议上提交。"
+  },
+  {
+    "en": "If the pilot program succeeds, we'll roll it out nationwide. If not, we'll quietly shelve it.",
+    "zh": "如果试点项目成功，我们将在全国推广。如果不成功，我们就悄悄搁置。"
+  },
+  {
+    "en": "The numbers look good on the surface, but I'm worried about the assumptions behind them.",
+    "zh": "这些数字表面上看不错，但我担心它们背后的假设。"
+  },
+  {
+    "en": "She asked for a five percent increase, but we can only afford two, maybe two and a half.",
+    "zh": "她要求涨百分之五，但我们最多只能承受百分之二，也许百分之二点五。"
+  },
+  {
+    "en": "We're projecting a loss this quarter, but we expect to break even by early next year.",
+    "zh": "我们预计这个季度会亏损，但预计明年年初能实现盈亏平衡。"
+  },
+  {
+    "en": "Don't finalize the forecast until accounting confirms the adjusted figures from last month.",
+    "zh": "在会计确认上个月的调整数据之前，先不要敲定预测。"
+  },
+  {
+    "en": "It's a gamble either way, but doing nothing is also a choice, and it's probably the riskiest one.",
+    "zh": "怎么选都是赌，但什么都不做也是一种选择，而且可能是风险最大的那种。"
+  },
+  {
+    "en": "Our cash flow improved by about twenty percent, mainly because we delayed several large payments.",
+    "zh": "我们的现金流改善了大约百分之二十，主要是因为我们推迟了几笔大额付款。"
+  },
+  {
+    "en": "I was told the budget was approved, but I haven't seen anything in writing yet.",
+    "zh": "我听说预算已经批准了，但我还没看到任何书面文件。"
+  },
+  {
+    "en": "I don't think the reaction will complete before noon unless we increase the temperature, but even then, I'm not entirely sure.",
+    "zh": "我认为除非我们提高温度，否则反应不会在中午前完成，但即便如此，我也不能完全确定。"
+  },
+  {
+    "en": "The sample might be contaminated, so we should run the test again, but if the results are the same, we'll have to consider other factors.",
+    "zh": "样本可能被污染了，所以我们应该重新测试，但如果结果相同，我们就必须考虑其他因素。"
+  },
+  {
+    "en": "If the hypothesis is correct, the plants should grow faster under blue light, but they didn't, so maybe the hypothesis is wrong.",
+    "zh": "如果假设正确，植物在蓝光下应该生长得更快，但它们没有，所以也许假设是错误的。"
+  },
+  {
+    "en": "We observed a 15% increase in yield, but that's not statistically significant given the small sample size.",
+    "zh": "我们观察到产量增加了15%，但鉴于样本量小，这在统计上并不显著。"
+  },
+  {
+    "en": "The temperature must be kept at exactly 37 degrees Celsius, or the enzymes will denature, and the experiment will fail.",
+    "zh": "温度必须保持在37摄氏度，否则酶会变性，实验就会失败。"
+  },
+  {
+    "en": "I'm not sure if the solution is acidic or basic; we need to test it with litmus paper.",
+    "zh": "我不确定溶液是酸性还是碱性；我们需要用石蕊试纸测试一下。"
+  },
+  {
+    "en": "Unless we calibrate the instrument, the measurements will be off by at least 5 units.",
+    "zh": "除非我们校准仪器，否则测量值至少会偏差5个单位。"
+  },
+  {
+    "en": "The mice in the control group didn't show any adverse effects, but those in the experimental group did, which suggests the drug might be toxic.",
+    "zh": "对照组的小鼠没有出现任何不良反应，但实验组的小鼠出现了，这表明药物可能有毒。"
+  },
+  {
+    "en": "It's possible that the results are due to chance, but the probability is less than 0.05, so we reject the null hypothesis.",
+    "zh": "结果可能是偶然的，但概率小于0.05，所以我们拒绝零假设。"
+  },
+  {
+    "en": "We need to replicate the study to confirm the findings, because a single experiment isn't enough to draw a conclusion.",
+    "zh": "我们需要重复这项研究来确认发现，因为单一实验不足以得出结论。"
+  },
+  {
+    "en": "If we don't control for humidity, the results might be inconsistent, so we should keep it constant at 50%.",
+    "zh": "如果我们不控制湿度，结果可能会不一致，所以我们应该将其保持在50%不变。"
+  },
+  {
+    "en": "The data doesn't support our initial assumption; in fact, it contradicts it.",
+    "zh": "数据不支持我们最初的假设；事实上，它与之矛盾。"
+  },
+  {
+    "en": "I doubt that the effect is real; it could be an artifact of the measurement method.",
+    "zh": "我怀疑这个效应是真实的；它可能是测量方法的伪影。"
+  },
+  {
+    "en": "The chemical should be stored in a dark bottle, otherwise it will degrade rapidly.",
+    "zh": "这种化学品应存放在深色瓶中，否则它会迅速降解。"
+  },
+  {
+    "en": "We can't conclude that the drug is effective based on this small trial; we need a larger sample size.",
+    "zh": "基于这个小规模试验，我们不能断定该药物有效；我们需要更大的样本量。"
+  },
+  {
+    "en": "The bacteria grew in the petri dish, but we're not sure if it's the same strain we intended to culture.",
+    "zh": "细菌在培养皿中生长了，但我们不确定它是否是我们打算培养的同一菌株。"
+  },
+  {
+    "en": "If the voltage exceeds 220 volts, the circuit will overload, so we must install a fuse.",
+    "zh": "如果电压超过220伏，电路会过载，所以我们必须安装保险丝。"
+  },
+  {
+    "en": "The results were inconclusive, so we cannot accept or reject the hypothesis at this point.",
+    "zh": "结果尚无定论，所以此时我们既不能接受也不能拒绝该假设。"
+  },
+  {
+    "en": "It might rain tomorrow, but if it doesn't, we'll proceed with the field experiment as planned.",
+    "zh": "明天可能下雨，但如果不下的話，我们将按计划进行野外实验。"
+  },
+  {
+    "en": "The telescope's lens is slightly scratched, which could distort the images, but we're not certain how much.",
+    "zh": "望远镜的镜头有轻微划痕，这可能会使图像失真，但我们不确定程度如何。"
+  },
+  {
+    "en": "We found a 2.5% margin of error, which is acceptable for this type of survey.",
+    "zh": "我们发现了2.5%的误差范围，这对这类调查来说是可以接受的。"
+  },
+  {
+    "en": "The reaction didn't produce the expected color change, so perhaps the catalyst was inactive.",
+    "zh": "反应没有产生预期的颜色变化，所以也许催化剂没有活性。"
+  },
+  {
+    "en": "If the pH is too low, the protein will precipitate; if it's too high, it will dissolve.",
+    "zh": "如果pH值过低，蛋白质会沉淀；如果过高，它会溶解。"
+  },
+  {
+    "en": "I'm not convinced that the new method is better; the old one gave similar results with less effort.",
+    "zh": "我不相信新方法更好；旧方法用更少的精力给出了类似的结果。"
+  },
+  {
+    "en": "The experiment must be conducted in a vacuum, or the presence of air will interfere with the results.",
+    "zh": "实验必须在真空中进行，否则空气的存在会干扰结果。"
+  },
+  {
+    "en": "We observed a 10-degree drop in temperature, but we don't know what caused it.",
+    "zh": "我们观察到温度下降了10度，但我们不知道是什么原因造成的。"
+  },
+  {
+    "en": "Unless the sample is properly sealed, it will absorb moisture from the air.",
+    "zh": "除非样品妥善密封，否则它会吸收空气中的水分。"
+  },
+  {
+    "en": "The hypothesis is plausible, but we need more evidence to support it.",
+    "zh": "这个假设是合理的，但我们需要更多证据来支持它。"
+  },
+  {
+    "en": "It's unclear whether the effect is reversible or permanent; further studies are needed.",
+    "zh": "尚不清楚这种效应是可逆的还是永久性的；需要进一步研究。"
+  },
+  {
+    "en": "The machine might be malfunctioning; the readings are fluctuating wildly, so we should check the sensors.",
+    "zh": "机器可能发生故障；读数剧烈波动，所以我们应该检查传感器。"
+  },
+  {
+    "en": "If we had used a higher concentration, the reaction might have gone to completion, but we didn't, so it didn't.",
+    "zh": "如果我们使用了更高的浓度，反应可能会进行到底，但我们没有，所以它没有。"
+  },
+  {
+    "en": "The results are consistent with previous studies, but that doesn't prove causation.",
+    "zh": "结果与先前的研究一致，但这并不证明因果关系。"
+  },
+  {
+    "en": "We can't afford to make any mistakes; even a tiny error could ruin the entire experiment.",
+    "zh": "我们不能犯任何错误；即使是一个微小的错误也可能毁掉整个实验。"
+  },
+  {
+    "en": "The solution turned blue, which indicates the presence of starch, but we should confirm with another test.",
+    "zh": "溶液变蓝，表明存在淀粉，但我们应该用另一个测试来确认。"
+  },
+  {
+    "en": "I'm not sure if the laser is aligned properly; the beam seems slightly off-center.",
+    "zh": "我不确定激光是否对准；光束似乎稍微偏离中心。"
+  },
+  {
+    "en": "If the temperature drops below freezing, the water in the pipes will expand and burst them.",
+    "zh": "如果温度降到冰点以下，管道中的水会膨胀并爆裂。"
+  },
+  {
+    "en": "The data might be skewed because we only sampled from one location.",
+    "zh": "数据可能有偏差，因为我们只从一个地点采样。"
+  },
+  {
+    "en": "We need to account for background noise, otherwise the signal will be lost.",
+    "zh": "我们需要考虑背景噪声，否则信号会丢失。"
+  },
+  {
+    "en": "The chemical reaction is exothermic, so the temperature will rise unless we cool it.",
+    "zh": "该化学反应是放热的，所以除非我们冷却它，否则温度会上升。"
+  },
+  {
+    "en": "It's not clear whether the effect is due to the drug or the placebo effect.",
+    "zh": "尚不清楚这种效应是由于药物还是安慰剂效应。"
+  },
+  {
+    "en": "The sample size was too small to detect a significant difference, so we can't rule out a Type II error.",
+    "zh": "样本量太小，无法检测到显著差异，所以我们不能排除II型错误。"
+  },
+  {
+    "en": "If we don't replicate the experiment, the findings won't be considered reliable.",
+    "zh": "如果我们不重复实验，这些发现将不会被认为是可靠的。"
+  },
+  {
+    "en": "The instrument readings are inconsistent; sometimes they match, sometimes they don't.",
+    "zh": "仪器读数不一致；有时它们匹配，有时不匹配。"
+  },
+  {
+    "en": "We might have contaminated the culture, but we won't know for sure until we sequence the DNA.",
+    "zh": "我们可能污染了培养物，但直到我们对DNA测序后才能确定。"
+  },
+  {
+    "en": "The reaction should take about 30 minutes, but it could take longer if the temperature is lower.",
+    "zh": "反应大约需要30分钟，但如果温度较低，可能需要更长时间。"
+  },
+  {
+    "en": "I doubt that the results are accurate; there might be a systematic error in the measurement.",
+    "zh": "我怀疑结果是否准确；测量中可能存在系统误差。"
+  },
+  {
+    "en": "If the hypothesis is false, then the observed effect must be due to some other variable.",
+    "zh": "如果假设是错误的，那么观察到的效应必定是由于其他变量。"
+  },
+  {
+    "en": "The plants didn't grow as expected; maybe they need more sunlight or nutrients.",
+    "zh": "植物没有按预期生长；也许它们需要更多的阳光或营养。"
+  },
+  {
+    "en": "We must ensure that the control group is treated identically to the experimental group, except for the variable being tested.",
+    "zh": "我们必须确保对照组与实验组除被测试的变量外接受相同的处理。"
+  },
+  {
+    "en": "The results are promising, but we can't draw any firm conclusions until we've repeated the study.",
+    "zh": "结果很有希望，但在重复研究之前，我们不能得出任何确定的结论。"
+  },
+  {
+    "en": "The survey says 62 percent of commuters would switch to cycling if protected lanes existed, but that doesn't mean they actually will.",
+    "zh": "调查显示，如果存在受保护的自行车道，62%的通勤者会改骑自行车，但这并不意味着他们真的会这么做。"
+  },
+  {
+    "en": "We found a strong correlation between ice cream sales and drowning rates, yet neither causes the other; hot weather drives both.",
+    "zh": "我们发现冰淇淋销量和溺水率之间存在很强的相关性，但两者并不互为因果；炎热的天气同时推动了这两者。"
+  },
+  {
+    "en": "Only 8 percent of participants reported side effects, though the study didn't track symptoms for more than two weeks.",
+    "zh": "只有8%的参与者报告了副作用，不过这项研究追踪症状的时间没有超过两周。"
+  },
+  {
+    "en": "If the sample size had been larger, maybe the difference between the two groups would have reached significance.",
+    "zh": "如果样本量更大一些，也许两组之间的差异就会达到显著水平。"
+  },
+  {
+    "en": "Roughly three out of ten customers who received the discount came back within a month, compared with two out of ten who didn't.",
+    "zh": "收到折扣的顾客中大约有十分之三在一个月内再次光顾，而没收到折扣的顾客中只有十分之二。"
+  },
+  {
+    "en": "The headline claimed a 40 percent drop in crime, but it was based on a single precinct and just six months of data.",
+    "zh": "标题声称犯罪率下降了40%，但这是基于一个警区和仅仅六个月的数据。"
+  },
+  {
+    "en": "I'm not saying the policy caused the decline; I'm only pointing out that the decline happened after the policy.",
+    "zh": "我不是说这项政策导致了下降；我只是指出下降发生在政策之后。"
+  },
+  {
+    "en": "About 15 percent of the seeds never germinated, which is lower than the 25 percent we saw last season.",
+    "zh": "大约15%的种子没有发芽，这比我们上季度看到的25%要低。"
+  },
+  {
+    "en": "Unless we account for age and income, the correlation between coffee and longevity might be misleading.",
+    "zh": "除非我们把年龄和收入考虑进去，否则咖啡与长寿之间的相关性可能会产生误导。"
+  },
+  {
+    "en": "Nearly half the respondents said they felt worse after the change, while the other half reported no difference at all.",
+    "zh": "近一半的受访者表示改变后感觉更糟，而另一半则报告完全没有差别。"
+  },
+  {
+    "en": "The vaccine reduced hospitalizations by 70 percent in the trial, but real-world effectiveness could be somewhat lower.",
+    "zh": "该疫苗在试验中将住院率降低了70%，但真实世界的有效性可能会略低一些。"
+  },
+  {
+    "en": "It's possible that the 12 percent increase in sales was due to the holiday, not the ad campaign.",
+    "zh": "销售额增长12%有可能是假日造成的，而不是广告活动。"
+  },
+  {
+    "en": "Two-thirds of the volunteers finished the program, and among those who dropped out, most cited lack of time.",
+    "zh": "三分之二的志愿者完成了项目，而在退出的人中，大多数人提到缺少时间。"
+  },
+  {
+    "en": "If you look at the raw numbers instead of percentages, the gap between the groups is actually quite small.",
+    "zh": "如果你看原始数字而不是百分比，两组之间的差距其实相当小。"
+  },
+  {
+    "en": "The report estimates that 1 in 5 households will move within five years, though that figure varies by region.",
+    "zh": "报告估计五分之一家庭将在五年内搬家，不过这一数字因地区而异。"
+  },
+  {
+    "en": "We can't conclude that the training program boosted productivity; too many other factors changed at the same time.",
+    "zh": "我们不能断定培训项目提高了生产率；同时有太多其他因素发生了变化。"
+  },
+  {
+    "en": "Almost 90 percent of the plastic in the sample was recyclable, but only about 30 percent actually gets recycled.",
+    "zh": "样本中近90%的塑料是可回收的，但实际被回收的只有大约30%。"
+  },
+  {
+    "en": "The difference between 55 and 60 percent may not be meaningful, given the margin of error.",
+    "zh": "考虑到误差范围，55%和60%之间的差异可能没有实际意义。"
+  },
+  {
+    "en": "She said the risk was low, but she didn't specify whether that meant 1 percent or 10 percent.",
+    "zh": "她说风险很低，但没有说明那是1%还是10%。"
+  },
+  {
+    "en": "If the trend continues, we could see a 20 percent decline by 2030, but that's a big if.",
+    "zh": "如果这一趋势持续下去，到2030年我们可能会看到20%的下降，但这是个很大的假设。"
+  },
+  {
+    "en": "Only a third of the employees agreed with the new policy, and another third were undecided.",
+    "zh": "只有三分之一的员工同意新政策，另外三分之一尚未决定。"
+  },
+  {
+    "en": "The study linked moderate exercise to a 25 percent lower risk of heart disease, but it couldn't prove cause and effect.",
+    "zh": "该研究将适度运动与心脏病风险降低25%联系起来，但无法证明因果关系。"
+  },
+  {
+    "en": "I doubt the 5 percent uptick means much; it's within the normal range of fluctuation.",
+    "zh": "我怀疑这5%的小幅上升没有多大意义；它在正常波动范围内。"
+  },
+  {
+    "en": "Nearly 40 percent of the city's buses were late, yet the transit agency reported an on-time rate of 85 percent.",
+    "zh": "该市近40%的公交车晚点，但交通机构报告的准点率却是85%。"
+  },
+  {
+    "en": "The sales figures rose by 18 percent, but after adjusting for inflation, the real increase was only 3 percent.",
+    "zh": "销售数字上升了18%，但经通胀调整后，实际增长只有3%。"
+  },
+  {
+    "en": "Unless the dropout rate falls below 10 percent, the results won't be considered reliable.",
+    "zh": "除非退出率降到10%以下，否则结果不会被认为是可靠的。"
+  },
+  {
+    "en": "About 7 in 10 people said they'd pay more for eco-friendly packaging, but far fewer actually do.",
+    "zh": "大约十分之七的人表示愿意为环保包装多付钱，但实际这样做的人要少得多。"
+  },
+  {
+    "en": "The correlation between the two variables was 0.6, which suggests a moderate relationship, not a perfect one.",
+    "zh": "这两个变量之间的相关性为0.6，这表明存在中等程度的关系，而非完美关系。"
+  },
+  {
+    "en": "I'm not convinced that the 15 percent improvement came from the new software; the team also got more staff.",
+    "zh": "我不相信15%的改善来自新软件；团队还增加了人手。"
+  },
+  {
+    "en": "If we exclude the outliers, the average drops from 42 to 38, which changes the story quite a bit.",
+    "zh": "如果我们排除异常值，平均值从42降到38，这就在很大程度上改变了结论。"
+  },
+  {
+    "en": "Only 22 percent of the patients in the control group improved, compared with 48 percent in the treatment group.",
+    "zh": "对照组中只有22%的患者有所改善，而治疗组中为48%。"
+  },
+  {
+    "en": "The poll has a margin of error of plus or minus 4 percent, so the race is still too close to call.",
+    "zh": "该民调的误差范围为正负4个百分点，因此选情仍然胶着，难以预测。"
+  },
+  {
+    "en": "It's unclear whether the 10 percent reduction in emissions was due to the new law or the mild winter.",
+    "zh": "排放量减少10%是因为新法律还是因为暖冬，目前尚不清楚。"
+  },
+  {
+    "en": "Roughly 60 percent of the survey respondents were women, which may have skewed the results.",
+    "zh": "大约60%的调查受访者是女性，这可能使结果出现偏差。"
+  },
+  {
+    "en": "The company claims its product is 99 percent effective, but that's based on a very specific lab test.",
+    "zh": "该公司声称其产品99%有效，但这是基于一项非常特定的实验室测试。"
+  },
+  {
+    "en": "If the effect size is really that small, we'd need thousands of participants to detect it.",
+    "zh": "如果效应量真的那么小，我们需要数千名参与者才能检测到它。"
+  },
+  {
+    "en": "Nearly one in four young adults reported feeling lonely often, which is higher than the rate among older adults.",
+    "zh": "近四分之一的年轻人报告经常感到孤独，这比老年人的比例要高。"
+  },
+  {
+    "en": "The data shows a 30 percent increase in traffic accidents, but the city also added more cars to the road.",
+    "zh": "数据显示交通事故增加了30%，但该市道路上的汽车也增多了。"
+  },
+  {
+    "en": "I wouldn't say the drug is unsafe; I'd say the evidence for its safety is not yet strong enough.",
+    "zh": "我不会说这种药不安全；我会说其安全性的证据还不够充分。"
+  },
+  {
+    "en": "About half the class passed the exam, and among those who failed, most missed the same three questions.",
+    "zh": "大约一半的班级通过了考试，而在不及格的人中，大多数人错过了同样的三道题。"
+  },
+  {
+    "en": "The 2 percent difference between the candidates is well within the poll's margin of error.",
+    "zh": "两位候选人之间2%的差距完全在民调的误差范围内。"
+  },
+  {
+    "en": "Unless we control for socioeconomic status, the link between diet and health may be confounded.",
+    "zh": "除非我们控制社会经济地位，否则饮食与健康之间的联系可能会受到混杂因素的影响。"
+  },
+  {
+    "en": "Only 5 out of 100 participants experienced the side effect, but that was enough to pause the trial.",
+    "zh": "100名参与者中只有5人出现了副作用，但这已足以暂停试验。"
+  },
+  {
+    "en": "If the sample had been random, maybe the 12 percent difference would hold up, but it wasn't.",
+    "zh": "如果样本是随机的，也许12%的差异会站得住脚，但事实并非如此。"
+  },
+  {
+    "en": "The report says 80 percent of the budget went to salaries, leaving little for equipment and training.",
+    "zh": "报告称80%的预算用于工资，留给设备和培训的很少。"
+  },
+  {
+    "en": "I think the 50 percent figure is exaggerated; it probably includes people who only tried it once.",
+    "zh": "我认为50%这个数字被夸大了；它可能包括了只尝试过一次的人。"
+  },
+  {
+    "en": "Almost 70 percent of the land is used for agriculture, yet the country still imports most of its food.",
+    "zh": "近70%的土地用于农业，但该国仍进口大部分粮食。"
+  },
+  {
+    "en": "The correlation doesn't prove causation, especially when the data comes from a single year.",
+    "zh": "相关性并不能证明因果关系，尤其是当数据仅来自一年时。"
+  },
+  {
+    "en": "If the response rate is only 20 percent, the survey results may not represent the whole population.",
+    "zh": "如果回复率只有20%，调查结果可能无法代表整个人群。"
+  },
+  {
+    "en": "About 1 in 3 adults said they read no books last year, which is up from 1 in 4 a decade ago.",
+    "zh": "大约三分之一的成年人表示去年没有读过书，这比十年前的 四分之一有所上升。"
+  },
+  {
+    "en": "I don't think the exam was unfair, but I'm not entirely sure everyone had the same time.",
+    "zh": "我不认为考试不公平，但我不完全确定每个人都有相同的时间。"
+  },
+  {
+    "en": "If you review just twenty minutes a day, you'll probably remember more than if you cram for three hours.",
+    "zh": "如果你每天只复习二十分钟，你可能会比突击三个小时记得更多。"
+  },
+  {
+    "en": "She said the lecture was boring, but I found it quite interesting, especially the part about volcanoes.",
+    "zh": "她说讲座很无聊，但我觉得挺有趣的，尤其是关于火山的部分。"
+  },
+  {
+    "en": "Unless the library extends its hours, I won't be able to finish this project by Friday.",
+    "zh": "除非图书馆延长开放时间，否则我无法在周五前完成这个项目。"
+  },
+  {
+    "en": "He didn't fail because he was lazy; he failed because he missed almost two weeks of class.",
+    "zh": "他失败不是因为他懒；他失败是因为他缺了将近两周的课。"
+  },
+  {
+    "en": "Could you explain that again? I didn't catch the part about the formula for calculating the area.",
+    "zh": "你能再解释一遍吗？我没听清关于计算面积公式的部分。"
+  },
+  {
+    "en": "The teacher said we could choose either topic, but not both, and the deadline is next Monday.",
+    "zh": "老师说我们可以选择任何一个题目，但不能两个都选，截止日期是下周一。"
+  },
+  {
+    "en": "I'm not sure if the history class covers the twentieth century, or if we need to read the extra chapter.",
+    "zh": "我不确定历史课是否涵盖二十世纪，或者我们是否需要阅读额外章节。"
+  },
+  {
+    "en": "If I had known the test was open-book, I wouldn't have spent all night memorizing dates.",
+    "zh": "如果我知道考试是开卷的，我就不会花一整夜背日期了。"
+  },
+  {
+    "en": "She's not only a great student but also a patient tutor, though she rarely has free time.",
+    "zh": "她不仅是个优秀的学生，还是个耐心的导师，尽管她很少有空闲时间。"
+  },
+  {
+    "en": "The assignment asks for at least five sources, but no more than ten, and they must be recent.",
+    "zh": "作业要求至少五个来源，但不超过十个，而且必须是近期的。"
+  },
+  {
+    "en": "I don't understand why the professor marked my answer wrong when the textbook says the opposite.",
+    "zh": "我不明白为什么教授把我的答案判错了，而教科书上说的相反。"
+  },
+  {
+    "en": "Unless you practice speaking every day, you won't improve your pronunciation much.",
+    "zh": "除非你每天练习口语，否则你的发音不会有多大进步。"
+  },
+  {
+    "en": "He might have passed the course if he had turned in the final essay on time.",
+    "zh": "如果他按时交了期末论文，他可能已经通过这门课了。"
+  },
+  {
+    "en": "The lab report needs to be between eight and twelve pages, double-spaced, with at least three graphs.",
+    "zh": "实验报告需要在八到十二页之间，双倍行距，至少有三张图表。"
+  },
+  {
+    "en": "I'm not saying the book is bad; I'm just saying it's not the best introduction to the subject.",
+    "zh": "我不是说这本书不好；我只是说它不是该学科最好的入门书。"
+  },
+  {
+    "en": "If the group project falls apart, we'll have to ask the teacher for an extension.",
+    "zh": "如果小组项目失败了，我们将不得不向老师请求延期。"
+  },
+  {
+    "en": "She didn't understand the instructions, so she asked a classmate, but he wasn't sure either.",
+    "zh": "她没看懂说明，所以她问了同学，但他也不确定。"
+  },
+  {
+    "en": "You should review your notes within twenty-four hours, or you'll forget nearly half of what you learned.",
+    "zh": "你应该在二十四小时内复习笔记，否则你会忘记所学内容的近一半。"
+  },
+  {
+    "en": "The online course is self-paced, but you must complete all ten modules before the end of the semester.",
+    "zh": "在线课程是自定进度的，但你必须在学期结束前完成所有十个模块。"
+  },
+  {
+    "en": "I can't decide whether to take the advanced math class or the statistics course next term.",
+    "zh": "我无法决定下学期是选高级数学课还是统计学课程。"
+  },
+  {
+    "en": "If you don't cite your sources, you could be accused of plagiarism, even accidentally.",
+    "zh": "如果你不引用来源，你可能会被指控剽窃，即使是无意中。"
+  },
+  {
+    "en": "He said he would help me study, but he canceled at the last minute because he had to work.",
+    "zh": "他说他会帮我学习，但他在最后一刻取消了，因为他必须工作。"
+  },
+  {
+    "en": "The professor's feedback was helpful, though I wish she had given more specific examples.",
+    "zh": "教授的反馈很有帮助，尽管我希望她给了更具体的例子。"
+  },
+  {
+    "en": "Unless the school provides more computers, some students won't be able to finish the coding assignment.",
+    "zh": "除非学校提供更多电脑，否则一些学生将无法完成编程作业。"
+  },
+  {
+    "en": "I'm not convinced that group work is always better; sometimes it's just more stressful.",
+    "zh": "我不相信小组合作总是更好；有时它只是压力更大。"
+  },
+  {
+    "en": "She might not have realized that the deadline was moved to Wednesday instead of Friday.",
+    "zh": "她可能没有意识到截止日期改到了周三而不是周五。"
+  },
+  {
+    "en": "The scholarship covers tuition and books, but not housing or meals, which cost about eight thousand a year.",
+    "zh": "奖学金涵盖学费和书本费，但不包括住宿或餐饮，这些每年大约花费八千。"
+  },
+  {
+    "en": "If the test is curved, then a seventy-five might actually be a decent grade.",
+    "zh": "如果考试是按曲线评分，那么七十五分实际上可能是个不错的成绩。"
+  },
+  {
+    "en": "He didn't take notes during the video, so he had to watch it again to answer the questions.",
+    "zh": "他在看视频时没有做笔记，所以他不得不重新看一遍来回答问题。"
+  },
+  {
+    "en": "I wonder if the teacher will accept late homework, or if she'll deduct points for every day.",
+    "zh": "我想知道老师是否会接受迟交的作业，或者她是否会每天扣分。"
+  },
+  {
+    "en": "The study group meets every Tuesday and Thursday, but we sometimes skip if everyone is busy.",
+    "zh": "学习小组每周二和周四见面，但如果大家都很忙，我们有时会跳过。"
+  },
+  {
+    "en": "You can't learn a language just by reading; you have to practice speaking and listening too.",
+    "zh": "你不能只通过阅读来学习一门语言；你也必须练习口语和听力。"
+  },
+  {
+    "en": "She was absent for three days, so she missed the pop quiz and the review session.",
+    "zh": "她缺席了三天，所以她错过了随堂测验和复习课。"
+  },
+  {
+    "en": "If I don't understand a concept, I usually watch a video or ask a friend for help.",
+    "zh": "如果我不理解一个概念，我通常会看视频或向朋友求助。"
+  },
+  {
+    "en": "The final exam will cover chapters one through five, but not chapter six, according to the syllabus.",
+    "zh": "根据教学大纲，期末考试将涵盖第一到第五章，但不包括第六章。"
+  },
+  {
+    "en": "He's not the fastest reader, but he remembers almost everything he reads.",
+    "zh": "他不是读书最快的人，但他几乎记得他读过的所有内容。"
+  },
+  {
+    "en": "Unless you save your work frequently, you might lose everything if the computer crashes.",
+    "zh": "除非你经常保存工作，否则如果电脑崩溃，你可能会丢失一切。"
+  },
+  {
+    "en": "I'm not sure whether the class starts at nine or nine-thirty, so I'll check the schedule.",
+    "zh": "我不确定课程是九点还是九点半开始，所以我查一下时间表。"
+  },
+  {
+    "en": "The teacher said we could use one index card, but no calculators, on the midterm.",
+    "zh": "老师说期中考试我们可以用一张索引卡，但不能用计算器。"
+  },
+  {
+    "en": "She didn't do well on the first test, but she improved a lot on the second one.",
+    "zh": "她第一次考试没考好，但第二次进步了很多。"
+  },
+  {
+    "en": "If you want to improve your writing, you should read more and write every day.",
+    "zh": "如果你想提高写作，你应该多读并且每天写。"
+  },
+  {
+    "en": "The library has only three copies of the textbook, so you might not get one.",
+    "zh": "图书馆只有三本教科书，所以你可能拿不到。"
+  },
+  {
+    "en": "I can't believe the semester is almost over; it feels like it just started.",
+    "zh": "我简直不敢相信这个学期快结束了；感觉就像刚开始一样。"
+  },
+  {
+    "en": "He might have misunderstood the assignment, because he wrote about the wrong topic.",
+    "zh": "他可能误解了作业，因为他写错了题目。"
+  },
+  {
+    "en": "The professor said the exam would be difficult, but not impossible if we study the review sheet.",
+    "zh": "教授说考试会很难，但如果我们学习复习表，并非不可能。"
+  },
+  {
+    "en": "I don't have time to join a study group, but I might form one with just two friends.",
+    "zh": "我没有时间加入学习小组，但我可能会和两个朋友组成一个。"
+  },
+  {
+    "en": "If the weather is nice tomorrow, we'll have class outside instead of in the classroom.",
+    "zh": "如果明天天气好，我们将在户外上课，而不是在教室里。"
+  },
+  {
+    "en": "She didn't raise her hand because she wasn't sure of the answer, and she didn't want to be wrong.",
+    "zh": "她没有举手，因为她不确定答案，而且她不想出错。"
+  },
+  {
+    "en": "The online quiz is timed, so you have only fifteen minutes to answer ten questions.",
+    "zh": "在线测验是计时的，所以你只有十五分钟回答十个问题。"
+  },
+  {
+    "en": "I keep telling myself I'll start studying at eight, but somehow it's always nine-thirty before I open the book.",
+    "zh": "我一直告诉自己八点就开始学习，但不知怎么的，等我打开书的时候总是已经九点半了。"
+  },
+  {
+    "en": "If you don't set a specific time for the gym, you probably won't go at all.",
+    "zh": "如果你不给去健身房设定一个具体时间，你很可能根本就不会去。"
+  },
+  {
+    "en": "She wanted to build a reading habit, so she started with just five pages a night instead of a whole chapter.",
+    "zh": "她想养成阅读的习惯，所以一开始每晚只读五页，而不是整整一章。"
+  },
+  {
+    "en": "I'm not lazy, I just can't seem to make myself start until the deadline is uncomfortably close.",
+    "zh": "我不是懒，我只是似乎非要等到截止日期近得让人难受时才能逼自己开始。"
+  },
+  {
+    "en": "Maybe if we put the snacks on the top shelf, we'd stop mindlessly eating while watching TV.",
+    "zh": "也许如果我们把零食放到最上层架子上，就不会在看电视时无意识地吃了。"
+  },
+  {
+    "en": "He tried waking up at five for a week, but he was so exhausted by Thursday that he slept until noon on Saturday.",
+    "zh": "他试着连续一周五点起床，但到周四他就累得不行，周六一直睡到中午。"
+  },
+  {
+    "en": "The trick isn't motivation, it's making the first step so small that you can't say no.",
+    "zh": "诀窍不是动力，而是把第一步变得小到你无法拒绝。"
+  },
+  {
+    "en": "I'll write for twenty minutes after lunch, unless a meeting runs over, in which case I'll do it before dinner.",
+    "zh": "我会在午饭后写二十分钟，除非会议超时，那样的话我就在晚饭前写。"
+  },
+  {
+    "en": "Do you ever feel like you spend more time planning to work than actually working?",
+    "zh": "你有没有觉得自己花在计划工作上的时间比实际工作还多？"
+  },
+  {
+    "en": "She left her running shoes by the door so she wouldn't have an excuse to skip her morning jog.",
+    "zh": "她把跑鞋放在门口，这样就没有借口跳过晨跑了。"
+  },
+  {
+    "en": "I used to scroll on my phone for an hour before bed, but now I leave it charging in the kitchen.",
+    "zh": "我以前睡前会刷一个小时手机，但现在我把手机放在厨房充电。"
+  },
+  {
+    "en": "If you miss one day, don't miss two—that's the rule that keeps the habit alive.",
+    "zh": "如果漏掉一天，不要漏掉第二天——这是让习惯保持下去的规则。"
+  },
+  {
+    "en": "He said he'd pay me back on Friday, but it's already Tuesday and I haven't heard a word.",
+    "zh": "他说周五还我钱，但现在已经周二了，我一个字都没听到。"
+  },
+  {
+    "en": "We could start with ten minutes of tidying each evening, or we could just wait for the mess to become unbearable.",
+    "zh": "我们可以每晚先整理十分钟，或者干脆等乱到无法忍受再说。"
+  },
+  {
+    "en": "I don't always floss, but I'm trying to attach it to brushing so I don't forget.",
+    "zh": "我不是每天都用牙线，但我试着把它和刷牙绑在一起，这样就不会忘。"
+  },
+  {
+    "en": "The app sends a reminder at seven, and if I ignore it, it buzzes again at seven-fifteen.",
+    "zh": "这个应用七点发提醒，如果我忽略它，七点十五分会再响一次。"
+  },
+  {
+    "en": "She wasn't procrastinating on purpose; she just kept waiting for the perfect moment that never came.",
+    "zh": "她不是故意拖延，她只是一直在等一个永远不会到来的完美时刻。"
+  },
+  {
+    "en": "Instead of saying I'll eat healthier, I decided to add one vegetable to every dinner.",
+    "zh": "与其说我要吃得更健康，我决定每顿晚饭加一种蔬菜。"
+  },
+  {
+    "en": "If I don't write down what I need to do, I'll spend the whole day reacting to other people's requests.",
+    "zh": "如果我不写下需要做的事，我就会一整天都在回应别人的请求。"
+  },
+  {
+    "en": "He kept a calendar and marked an X for every day he practiced, and soon he didn't want to break the chain.",
+    "zh": "他弄了一个日历，每练习一天就画一个X，很快他就不想打断这个链条了。"
+  },
+  {
+    "en": "I can't study in a messy room, but cleaning becomes its own way of avoiding studying.",
+    "zh": "我在乱糟糟的房间里没法学习，但打扫本身又成了一种逃避学习的方式。"
+  },
+  {
+    "en": "Maybe we should set a timer for thirty minutes and just see how much we get done.",
+    "zh": "也许我们应该设一个三十分钟的计时器，看看能完成多少。"
+  },
+  {
+    "en": "She promised herself she'd only check email twice a day, but by noon she'd already checked it eight times.",
+    "zh": "她向自己保证每天只查两次邮件，但到中午她已经查了八次。"
+  },
+  {
+    "en": "If the task feels too big, break it into pieces so small they seem almost silly.",
+    "zh": "如果任务感觉太大，就把它拆成小到几乎显得可笑的碎片。"
+  },
+  {
+    "en": "I'm not sure I'll ever enjoy running, but I do like how I feel afterward.",
+    "zh": "我不确定自己会不会喜欢跑步，但我确实喜欢跑完后的感觉。"
+  },
+  {
+    "en": "He used to say he worked best under pressure, until he realized he was just always under pressure.",
+    "zh": "他以前常说自己在压力下工作得最好，直到他意识到自己只是一直处在压力下。"
+  },
+  {
+    "en": "We agreed to meet at six, but if traffic is bad, we might not get there until six-forty-five.",
+    "zh": "我们约好六点见面，但如果堵车，我们可能要到六点四十五才能到。"
+  },
+  {
+    "en": "I'll meditate for five minutes after I pour my morning coffee, before I check my phone.",
+    "zh": "我会在倒完早咖啡后、看手机前冥想五分钟。"
+  },
+  {
+    "en": "She didn't want to become a morning person; she just wanted twenty quiet minutes before the kids woke up.",
+    "zh": "她并不想成为早起的人，她只是想在孩子们醒来前有二十安静分钟。"
+  },
+  {
+    "en": "If you keep waiting until you feel like it, you'll be waiting forever.",
+    "zh": "如果你一直等到有感觉才做，你会永远等下去。"
+  },
+  {
+    "en": "I put my guitar on a stand in the living room, and now I pick it up almost every day.",
+    "zh": "我把吉他放在客厅的架子上，现在几乎每天都拿起来弹。"
+  },
+  {
+    "en": "He said he'd cut back on coffee, but he still drinks three cups before lunch.",
+    "zh": "他说要少喝咖啡，但午饭前他还是喝三杯。"
+  },
+  {
+    "en": "Maybe the problem isn't discipline; maybe the habit is just too hard to do in the first place.",
+    "zh": "也许问题不是自律；也许这个习惯本身一开始就太难做了。"
+  },
+  {
+    "en": "We can either meal-prep on Sunday or spend forty dollars a week on takeout.",
+    "zh": "我们要么周日备餐，要么每周花四十美元点外卖。"
+  },
+  {
+    "en": "I don't always feel like journaling, but I write one sentence even on days I don't want to.",
+    "zh": "我不是总想写日记，但即使不想写，我也会写一句话。"
+  },
+  {
+    "en": "She set her alarm for six-thirty, but she hit snooze four times and got up at seven-ten.",
+    "zh": "她把闹钟设在六点半，但她按了四次贪睡，七点十分才起床。"
+  },
+  {
+    "en": "If I keep my phone in the other room, I read at least ten pages before I fall asleep.",
+    "zh": "如果我把手机放在另一个房间，我睡前至少能读十页。"
+  },
+  {
+    "en": "He wasn't avoiding the project; he was just waiting until he had a clear idea of what to do.",
+    "zh": "他不是在逃避这个项目；他只是在等自己清楚知道该做什么。"
+  },
+  {
+    "en": "The hardest part is starting, so I tell myself I'll only do two minutes.",
+    "zh": "最难的部分是开始，所以我告诉自己只做两分钟。"
+  },
+  {
+    "en": "I used to think I needed a whole hour to exercise, but a fifteen-minute walk still counts.",
+    "zh": "我以前觉得需要整整一小时才能锻炼，但十五分钟的散步也算数。"
+  },
+  {
+    "en": "If you don't feel like cooking, that's fine—just don't order the largest pizza on the menu.",
+    "zh": "如果你不想做饭，没关系——只是别点菜单上最大的披萨。"
+  },
+  {
+    "en": "She kept a water bottle on her desk and drank two liters without even noticing.",
+    "zh": "她在桌上放了一个水瓶，不知不觉就喝了两升。"
+  },
+  {
+    "en": "I'm not saying you have to wake up at five; I'm saying you need a routine you can actually keep.",
+    "zh": "我不是说你必须五点起床；我是说你需要一个真正能坚持的日常安排。"
+  },
+  {
+    "en": "Maybe we can study together for an hour, unless you'd rather work alone.",
+    "zh": "也许我们可以一起学习一小时，除非你更想独自工作。"
+  },
+  {
+    "en": "He wanted to stop biting his nails, so he kept a fidget toy in his pocket.",
+    "zh": "他想改掉咬指甲的习惯，所以口袋里放了一个解压玩具。"
+  },
+  {
+    "en": "I'll answer emails at nine and three, but if something urgent comes in, I'll handle it right away.",
+    "zh": "我会在九点和三点回邮件，但如果有紧急的事进来，我会立刻处理。"
+  },
+  {
+    "en": "She didn't finish the whole book, but she read for twenty minutes every night for a month.",
+    "zh": "她没有读完整本书，但她一个月里每晚都读了二十分钟。"
+  },
+  {
+    "en": "If the gym is too far, you won't go—so pick something within a ten-minute walk.",
+    "zh": "如果健身房太远，你就不会去——所以选一个步行十分钟以内的地方。"
+  },
+  {
+    "en": "I can't believe I waited until the night before to write three thousand words.",
+    "zh": "我真不敢相信我拖到前一天晚上才写三千字。"
+  },
+  {
+    "en": "We could keep talking about the plan, or we could just try it for one week and see.",
+    "zh": "我们可以继续讨论计划，或者干脆试一个星期看看。"
+  },
+  {
+    "en": "Honestly, I'm not sure the plan will work, but if we don't try it now, we might never get another chance.",
+    "zh": "说实话，我不确定这个计划会成功，但如果我们现在不试，可能就再也没有机会了。"
+  },
+  {
+    "en": "The rain stopped about an hour ago, so we can probably walk to the station instead of taking a taxi.",
+    "zh": "雨大约一小时前停了，所以我们大概可以走去车站，不用打车。"
+  },
+  {
+    "en": "She said she'd call back before noon, and it's already half past eleven, so I'm getting a little worried.",
+    "zh": "她说中午前会回电话，现在已经十一点半了，所以我有点担心。"
+  },
+  {
+    "en": "Don't touch that wire...",
+    "zh": "别碰那根电线……"
+  },
+  {
+    "en": "If you finish your homework before dinner, you can watch one episode, but only one.",
+    "zh": "如果你在晚饭前写完作业，可以看一集，但只能看一集。"
+  },
+  {
+    "en": "We waited almost forty minutes for the bus, and then three of them arrived at the same time.",
+    "zh": "我们等公交车等了将近四十分钟，然后三辆同时到了。"
+  },
+  {
+    "en": "I know it sounds strange, but I actually prefer cold coffee to hot coffee in the summer.",
+    "zh": "我知道这听起来很奇怪，但夏天我其实更喜欢冷咖啡而不是热咖啡。"
+  },
+  {
+    "en": "He didn't say he was angry; he just went quiet and stared out the window for a while.",
+    "zh": "他没说他生气了；他只是沉默下来，盯着窗外看了一会儿。"
+  },
+  {
+    "en": "Could you speak a little slower, please? I understood the first part, but the rest went too fast.",
+    "zh": "你能说慢一点吗？第一部分我听懂了，但后面太快了。"
+  },
+  {
+    "en": "The meeting might end early, depending on whether the manager has another appointment.",
+    "zh": "会议可能会提前结束，这取决于经理是否还有另一个约会。"
+  },
+  {
+    "en": "Two kilos of apples...",
+    "zh": "两公斤苹果……"
+  },
+  {
+    "en": "Although the instructions looked simple, hardly anyone managed to assemble the shelf correctly on the first try.",
+    "zh": "虽然说明书看起来很简单，但几乎没有人第一次就能把架子正确组装好。"
+  },
+  {
+    "en": "My grandmother always says that a quiet morning and a good cup of tea can fix almost anything.",
+    "zh": "我奶奶总说，一个安静的早晨和一杯好茶几乎能解决任何事。"
+  },
+  {
+    "en": "Unless the weather improves, we'll have to move the picnic indoors, which nobody is excited about.",
+    "zh": "除非天气好转，否则我们只能把野餐改到室内，没人对此感到兴奋。"
+  },
+  {
+    "en": "Turn left at the second light, not the first one, and you'll see the library on your right.",
+    "zh": "在第二个红绿灯左转，不是第一个，然后你会看到图书馆在你右边。"
+  },
+  {
+    "en": "I've been trying to learn this song for weeks, but the middle section still trips me up every time.",
+    "zh": "这首歌我学了好几个星期，但中间那段每次还是会把我卡住。"
+  },
+  {
+    "en": "It's not that I dislike the idea; it's just that we don't have enough time or money right now.",
+    "zh": "不是我不喜欢这个主意；只是我们现在既没有足够的时间，也没有足够的钱。"
+  },
+  {
+    "en": "Fifteen students signed up for the workshop, but only nine showed up on Saturday morning.",
+    "zh": "有十五名学生报名参加了工作坊，但周六早上只来了九个人。"
+  },
+  {
+    "en": "He talks as if he knows everything, yet he never actually listens when someone corrects him.",
+    "zh": "他说话的样子好像什么都懂，但别人纠正他时，他从来不听。"
+  },
+  {
+    "en": "Before you leave...",
+    "zh": "在你离开之前……"
+  },
+  {
+    "en": "The soup tastes a bit bland, so maybe add some salt, but be careful not to overdo it.",
+    "zh": "这汤味道有点淡，也许加点盐，但小心别加太多。"
+  },
+  {
+    "en": "Even though she practiced every day, she still felt nervous when she stepped onto the stage.",
+    "zh": "尽管她每天都练习，但走上舞台时还是感到紧张。"
+  },
+  {
+    "en": "We could either take the train tonight or wait until tomorrow morning; it depends on you.",
+    "zh": "我们要么今晚坐火车，要么等到明天早上；这取决于你。"
+  },
+  {
+    "en": "The package should arrive within three to five business days, unless there's a delay at customs.",
+    "zh": "包裹应该在三到五个工作日内到达，除非海关有延误。"
+  },
+  {
+    "en": "I didn't mean to interrupt you, but your phone has been buzzing for the last ten minutes.",
+    "zh": "我不是有意打断你，但你的手机在过去十分钟里一直在响。"
+  },
+  {
+    "en": "About three hundred people...",
+    "zh": "大约三百人……"
+  },
+  {
+    "en": "If I had known you were coming, I would have baked something, but the fridge is almost empty.",
+    "zh": "如果我知道你要来，我就会烤点东西，但冰箱几乎是空的。"
+  },
+  {
+    "en": "He promised to fix the leak on Tuesday, and when he didn't show up, we called someone else.",
+    "zh": "他答应周二来修漏水，结果他没来，我们就叫了别人。"
+  },
+  {
+    "en": "The movie wasn't as good as the book, though the ending was surprisingly well done.",
+    "zh": "这部电影不如书好看，不过结局出乎意料地拍得不错。"
+  },
+  {
+    "en": "You should double-check the address before mailing the letter, or it might get returned.",
+    "zh": "寄信之前你应该再核对一下地址，否则可能会被退回来。"
+  },
+  {
+    "en": "Half a liter of milk...",
+    "zh": "半升牛奶……"
+  },
+  {
+    "en": "Whenever I feel overwhelmed, I take a short walk around the block and come back with a clearer head.",
+    "zh": "每当我感到不堪重负时，我就绕着街区散一会儿步，回来时头脑就清楚多了。"
+  },
+  {
+    "en": "She didn't answer my question directly, which made me wonder if she even knew the truth.",
+    "zh": "她没有直接回答我的问题，这让我怀疑她是否知道真相。"
+  },
+  {
+    "en": "The bakery opens at seven, but if you get there after nine, most of the good bread is gone.",
+    "zh": "面包店七点开门，但如果你九点以后到，大部分好吃的面包都没了。"
+  },
+  {
+    "en": "I can lend you my umbrella, but I'll need it back before Friday because I'm traveling.",
+    "zh": "我可以把伞借给你，但周五之前我得拿回来，因为我要出门。"
+  },
+  {
+    "en": "It was so cold that the pond froze overnight, and the kids couldn't wait to skate on it.",
+    "zh": "天太冷了，池塘一夜之间结了冰，孩子们迫不及待地想去滑冰。"
+  },
+  {
+    "en": "Although he apologized, I still felt hurt, and I told him I needed some time alone.",
+    "zh": "虽然他道歉了，但我还是觉得受伤，我告诉他我需要一些独处的时间。"
+  },
+  {
+    "en": "The instructions say to press the green button twice, but nothing happens when I do that.",
+    "zh": "说明书上说按两次绿色按钮，但我按了之后什么反应都没有。"
+  },
+  {
+    "en": "We've lived in this neighborhood for twelve years, and we still don't know all our neighbors.",
+    "zh": "我们在这个社区住了十二年，但还是不认识所有的邻居。"
+  },
+  {
+    "en": "If the noise doesn't stop by midnight, I'm going to call the building manager, not the police.",
+    "zh": "如果噪音到半夜还不停，我就打给物业经理，而不是报警。"
+  },
+  {
+    "en": "He speaks three languages fluently, yet he's too shy to order food in any of them at a restaurant.",
+    "zh": "他能流利地说三种语言，但在餐馆里却害羞得不敢用任何一种点菜。"
+  },
+  {
+    "en": "The path was steeper than we expected, so we stopped halfway up to catch our breath.",
+    "zh": "那条路比我们预想的陡，所以我们爬到一半就停下来喘口气。"
+  },
+  {
+    "en": "I'm not saying you're wrong, but have you considered what might happen if the opposite is true?",
+    "zh": "我不是说你错了，但你有没有想过，如果反过来才是真的，会怎么样？"
+  },
+  {
+    "en": "Whenever the phone rings after ten at night, my heart races a little, even when it's just a wrong number.",
+    "zh": "每当晚上十点以后电话响起，我的心就会跳得快一点，即使只是打错的号码。"
+  },
+  {
+    "en": "You can borrow the car, as long as you fill the tank before you bring it back.",
+    "zh": "你可以借用这辆车，只要你开回来之前把油加满。"
+  },
+  {
+    "en": "The test had thirty questions, but we were only given twenty minutes to finish all of them.",
+    "zh": "考试有三十道题，但只给了我们二十分钟来完成全部。"
+  },
+  {
+    "en": "He kept nodding during the whole presentation, but afterward he couldn't remember a single point.",
+    "zh": "整个演讲过程中他一直在点头，但结束后他一个要点都记不起来。"
+  },
+  {
+    "en": "If we don't listen to the quietest voices in the room, we'll keep making the same mistakes.",
+    "zh": "如果我们不听房间里最安静的声音，就会一直犯同样的错误。"
+  },
+  {
+    "en": "She said the budget was 2 million, but the actual shortfall is closer to 4.5 million.",
+    "zh": "她说预算是两百万，但实际缺口接近四百五十万。"
+  },
+  {
+    "en": "I'm not saying the plan is bad; I'm just not sure it'll work without more volunteers.",
+    "zh": "我不是说这个计划不好；我只是不确定没有更多志愿者它能不能行得通。"
+  },
+  {
+    "en": "Unless the city council approves the permit by Friday, we'll have to postpone the cleanup.",
+    "zh": "除非市议会在周五前批准许可，否则我们只能推迟清理活动。"
+  },
+  {
+    "en": "He kept promising change, yet nothing changed for the families on our street.",
+    "zh": "他一直在承诺改变，可我们这条街上的家庭什么也没变。"
+  },
+  {
+    "en": "We need 30 chairs, 12 tables, and at least 5 coolers of water for the event.",
+    "zh": "活动需要三十把椅子、十二张桌子和至少五箱水。"
+  },
+  {
+    "en": "It might rain, so bring the tents—but don't set them up until I give the word.",
+    "zh": "可能会下雨，所以把帐篷带上——但在我发话之前不要搭起来。"
+  },
+  {
+    "en": "The mayor didn't show up, and honestly, I doubt she ever intended to.",
+    "zh": "市长没有露面，说实话，我怀疑她压根就没打算来。"
+  },
+  {
+    "en": "If you want people to follow you, you have to show up when it's inconvenient.",
+    "zh": "如果你想让人们追随你，就得在不方便的时候也到场。"
+  },
+  {
+    "en": "We've knocked on 87 doors this week, but only 14 people signed up.",
+    "zh": "这周我们敲了八十七家门，但只有十四个人报名。"
+  },
+  {
+    "en": "The grant covers supplies, not salaries, so we still need to raise about 8,000.",
+    "zh": "这笔拨款覆盖物资，不包括工资，所以我们还需要筹集大约八千。"
+  },
+  {
+    "en": "I can't promise we'll win this vote, but I can promise we'll be heard.",
+    "zh": "我不能保证我们会赢得这次投票，但我能保证我们的声音会被听到。"
+  },
+  {
+    "en": "Either we compromise on the wording, or the whole resolution dies in committee.",
+    "zh": "要么我们在措辞上妥协，要么整个决议就死在委员会里。"
+  },
+  {
+    "en": "She's the kind of leader who gives credit away and takes the blame herself.",
+    "zh": "她是那种把功劳让给别人、把责任揽到自己身上的领导者。"
+  },
+  {
+    "en": "Don't just talk about the problem—bring one concrete solution to the next meeting.",
+    "zh": "不要只是谈论问题——下次会议带一个具体的解决方案来。"
+  },
+  {
+    "en": "The neighborhood watch started with 3 people; now it's over 60.",
+    "zh": "邻里守望刚开始只有三个人；现在超过六十个了。"
+  },
+  {
+    "en": "We lost the first vote by 2, but we gained 9 new allies since then.",
+    "zh": "第一次投票我们以两票之差输了，但从那以后我们多了九个新盟友。"
+  },
+  {
+    "en": "If they won't come to the table, we'll build our own table.",
+    "zh": "如果他们不肯坐到谈判桌前，我们就自己搭一张桌子。"
+  },
+  {
+    "en": "He didn't raise his voice once, and that's exactly why people listened.",
+    "zh": "他一次也没有提高嗓门，而这正是人们愿意听的原因。"
+  },
+  {
+    "en": "The survey shows 68 percent support, but the margin of error is 5 points.",
+    "zh": "调查显示百分之六十八的支持率，但误差范围是五个百分点。"
+  },
+  {
+    "en": "I'm not convinced the new policy will help renters, but I'm willing to be proven wrong.",
+    "zh": "我不相信新政策会帮助租房者，但我愿意被证明是错的。"
+  },
+  {
+    "en": "We can't do everything, but we can do something—and something is not nothing.",
+    "zh": "我们做不了所有事，但我们可以做点事——而做点事并不是什么都不做。"
+  },
+  {
+    "en": "She asked for 15 minutes; they gave her 3, and she still made her case.",
+    "zh": "她要求十五分钟；他们只给了三分钟，她仍然把理由讲清楚了。"
+  },
+  {
+    "en": "When the power went out, nobody panicked—they just started knocking on doors.",
+    "zh": "停电的时候，没有人惊慌——他们只是开始挨家挨户敲门。"
+  },
+  {
+    "en": "If we keep meeting like this without a clear goal, people will stop coming.",
+    "zh": "如果我们继续这样没有明确目标地开会，人们就不会再来了。"
+  },
+  {
+    "en": "The petition needs 500 signatures; we have 320, and the deadline is Monday.",
+    "zh": "请愿书需要五百个签名；我们有三百二十个，截止日期是周一。"
+  },
+  {
+    "en": "He talks a big game, but when it's time to clean up, he disappears.",
+    "zh": "他说得天花乱坠，但到了该清理的时候，他就不见了。"
+  },
+  {
+    "en": "I'd rather have a small team that shows up than a big one that doesn't.",
+    "zh": "我宁愿要一个到场的小团队，也不要一个不到场的大团队。"
+  },
+  {
+    "en": "The library will close unless 200 people attend the hearing on Thursday.",
+    "zh": "除非有两百人参加周四的听证会，否则图书馆将关闭。"
+  },
+  {
+    "en": "We didn't get the grant, but we did get the park cleaned up.",
+    "zh": "我们没拿到拨款，但我们确实把公园清理干净了。"
+  },
+  {
+    "en": "She's not the loudest person here, but she's the one who gets things done.",
+    "zh": "她不是这里嗓门最大的人，但她是能把事情办成的人。"
+  },
+  {
+    "en": "If you can give 2 hours a month, that's 24 hours a year—enough to matter.",
+    "zh": "如果你每月能拿出两小时，一年就是二十四小时——足以起作用。"
+  },
+  {
+    "en": "The council meeting ran until 11:40, and still no decision was made.",
+    "zh": "议会会议一直开到十一点四十，仍然没有做出决定。"
+  },
+  {
+    "en": "I'm not here to blame anyone; I'm here to fix the leak before it floods the basement.",
+    "zh": "我不是来责怪任何人的；我是来在漏水淹了地下室之前把它修好的。"
+  },
+  {
+    "en": "They promised 10 new buses, but only 4 arrived, and 2 of those don't run.",
+    "zh": "他们承诺十辆新公交车，但只到了四辆，其中两辆还开不了。"
+  },
+  {
+    "en": "We can disagree about the method, as long as we agree on the goal.",
+    "zh": "我们可以对方法有分歧，只要我们在目标上一致。"
+  },
+  {
+    "en": "If the flyer doesn't have a phone number, people won't call—they'll just forget.",
+    "zh": "如果传单上没有电话号码，人们就不会打——他们只会忘记。"
+  },
+  {
+    "en": "He didn't just donate money; he showed up every Saturday for a year.",
+    "zh": "他不仅捐了钱；他还整整一年每个周六都到场。"
+  },
+  {
+    "en": "The block party cost 1,200, and we raised 1,450, so we have a little left over.",
+    "zh": "街区派对花了一千二，我们筹了一千四百五，所以还剩一点。"
+  },
+  {
+    "en": "I can't speak for everyone, but I can tell you what I've seen with my own eyes.",
+    "zh": "我不能代表所有人，但我可以告诉你我亲眼所见的事。"
+  },
+  {
+    "en": "Maybe the answer isn't a new committee; maybe it's just a shared calendar.",
+    "zh": "也许答案不是成立一个新委员会；也许只是一个共享日历。"
+  },
+  {
+    "en": "She left the meeting early, so we don't know if she supports the proposal.",
+    "zh": "她提前离开了会议，所以我们不知道她是否支持这项提案。"
+  },
+  {
+    "en": "If we don't train the new volunteers, they'll quit within 3 weeks.",
+    "zh": "如果我们不培训新志愿者，他们会在三周内退出。"
+  },
+  {
+    "en": "The food drive collected 950 cans, short of our 1,000-can goal.",
+    "zh": "食品募捐收集了九百五十罐，没有达到我们一千罐的目标。"
+  },
+  {
+    "en": "He's not a natural speaker, but he's honest, and that's why people trust him.",
+    "zh": "他不是天生的演讲者，但他诚实，这就是人们信任他的原因。"
+  },
+  {
+    "en": "We'll meet at 6:30 by the east gate—unless it's raining, then we'll meet inside.",
+    "zh": "我们六点半在东门集合——除非下雨，那就在里面集合。"
+  },
+  {
+    "en": "The old playground was torn down 2 years ago, and nothing has replaced it.",
+    "zh": "旧游乐场两年前被拆了，之后什么也没建起来替代它。"
+  },
+  {
+    "en": "I'm not sure the numbers add up, but I'm sure the need is real.",
+    "zh": "我不确定这些数字对不对得上，但我确定需求是真实的。"
+  },
+  {
+    "en": "If you want to lead, start by putting away the chairs when everyone else leaves.",
+    "zh": "如果你想领导，就从别人都离开时把椅子收好开始。"
+  },
+  {
+    "en": "We asked for 3 things; they gave us 1, and we're still negotiating the other 2.",
+    "zh": "我们要求三件事；他们给了我们一件，另外两件我们还在谈。"
+  },
+  {
+    "en": "I thought I was over it, but seeing her name pop up on my phone made my chest tighten all over again.",
+    "zh": "我以为我已经放下了，但看到她的名字在手机上弹出来，我的胸口又紧了起来。"
+  },
+  {
+    "en": "He said he was fine, but his voice cracked on the last word, and I knew he wasn't.",
+    "zh": "他说他没事，但最后一个字声音破了，我就知道他有事。"
+  },
+  {
+    "en": "Don't tell me to calm down. You're not the one who has to live with this every single day.",
+    "zh": "别叫我冷静。你不是那个每天都要忍受这个的人。"
+  },
+  {
+    "en": "I'm not sad, exactly. It's more like I'm numb, and I can't tell if that's better or worse.",
+    "zh": "我不是难过，确切地说。更像是麻木了，我说不清这是更好还是更糟。"
+  },
+  {
+    "en": "She laughed it off in front of everyone, but later that night she cried in the bathroom with the faucet running.",
+    "zh": "她在大家面前一笑而过，但那天晚上她在浴室里开着水龙头哭了。"
+  },
+  {
+    "en": "If you had just listened for five minutes instead of trying to fix everything, I might have opened up.",
+    "zh": "如果你当时只是听我说五分钟，而不是急着解决一切，我可能就敞开心扉了。"
+  },
+  {
+    "en": "I keep replaying that conversation in my head, wondering if I said something wrong.",
+    "zh": "我一直在脑子里回放那次对话，想着是不是我说错了什么。"
+  },
+  {
+    "en": "It's not that I don't trust you. It's that I've been burned before, and my brain won't let me forget it.",
+    "zh": "不是我不信任你。是我以前被伤过，我的脑子不让我忘记。"
+  },
+  {
+    "en": "He apologized, but it felt like he was just going through the motions, so I didn't really believe him.",
+    "zh": "他道歉了，但感觉他只是走个过场，所以我并不真的相信他。"
+  },
+  {
+    "en": "I wish I could tell you how I really feel, but every time I try, the words get stuck in my throat.",
+    "zh": "我希望我能告诉你我真实的感受，但每次我尝试，话就卡在喉咙里。"
+  },
+  {
+    "en": "You can't just say 'I'm sorry' and expect everything to go back to normal. It doesn't work that way.",
+    "zh": "你不能只说一句“对不起”就指望一切恢复正常。事情不是那样的。"
+  },
+  {
+    "en": "She's been acting distant lately, and I'm not sure if it's something I did or if she's just going through her own stuff.",
+    "zh": "她最近有点疏远，我不确定是我做错了什么，还是她自己在经历一些事情。"
+  },
+  {
+    "en": "I didn't cry because I was weak. I cried because I had been strong for too long.",
+    "zh": "我哭不是因为我软弱。我哭是因为我坚强太久了。"
+  },
+  {
+    "en": "He kept saying he was okay, but his hands were shaking, and he wouldn't look me in the eye.",
+    "zh": "他一直说他没事，但他的手在抖，而且他不肯看我的眼睛。"
+  },
+  {
+    "en": "Maybe I'm overreacting, but it really hurt when you forgot my birthday again.",
+    "zh": "也许我反应过度了，但你又忘了我的生日，这真的很伤人。"
+  },
+  {
+    "en": "I don't need you to solve my problems. I just need you to sit with me and not say anything.",
+    "zh": "我不需要你解决我的问题。我只需要你坐在我旁边，什么都别说。"
+  },
+  {
+    "en": "She said she forgave me, but I can still feel the distance between us, and it's killing me.",
+    "zh": "她说她原谅我了，但我还是能感觉到我们之间的距离，这让我很难受。"
+  },
+  {
+    "en": "If I let myself feel everything, I'm afraid I'll fall apart and never be able to put myself back together.",
+    "zh": "如果我让自己感受一切，我怕我会崩溃，再也无法把自己拼回来。"
+  },
+  {
+    "en": "He didn't have to say anything. The look on his face told me everything I needed to know.",
+    "zh": "他什么都不用说。他脸上的表情已经告诉了我需要知道的一切。"
+  },
+  {
+    "en": "I'm not angry at you. I'm angry at myself for letting you treat me that way for so long.",
+    "zh": "我不是生你的气。我是生我自己的气，让你那样对待我那么久。"
+  },
+  {
+    "en": "It's hard to ask for help when you've been taught that needing anyone is a sign of weakness.",
+    "zh": "当你被教导需要任何人都是软弱的表现时，很难开口求助。"
+  },
+  {
+    "en": "She smiled and said she was happy for me, but her eyes didn't match her words.",
+    "zh": "她笑着说她为我高兴，但她的眼神和她说的话不一致。"
+  },
+  {
+    "en": "I thought time would heal it, but some wounds just get deeper the more you try to ignore them.",
+    "zh": "我以为时间会治愈它，但有些伤口你越试图忽视，就越深。"
+  },
+  {
+    "en": "You keep saying you'll change, but I've heard that promise so many times that it doesn't mean anything anymore.",
+    "zh": "你一直说你会改，但那句承诺我听过太多次了，已经没有任何意义了。"
+  },
+  {
+    "en": "I'm not sure if I'm ready to talk about it yet. Can we just sit here for a while?",
+    "zh": "我不确定我是否准备好谈这件事了。我们能就在这里坐一会儿吗？"
+  },
+  {
+    "en": "He said he didn't care, but I saw him flinch when her name came up.",
+    "zh": "他说他不在乎，但她的名字出现时我看到他缩了一下。"
+  },
+  {
+    "en": "I've been pretending to be okay for so long that I don't even know what okay feels like anymore.",
+    "zh": "我假装没事太久了，以至于我都不知道没事是什么感觉了。"
+  },
+  {
+    "en": "If you're not going to take this seriously, then I don't know why we're still talking.",
+    "zh": "如果你不打算认真对待这件事，那我不知道我们为什么还在谈。"
+  },
+  {
+    "en": "She didn't say a word, but her silence spoke louder than any accusation could.",
+    "zh": "她一个字都没说，但她的沉默比任何指责都更响亮。"
+  },
+  {
+    "en": "I know I push people away, but it's because I'm terrified of being left behind again.",
+    "zh": "我知道我会把人推开，但那是因为我害怕再次被抛下。"
+  },
+  {
+    "en": "He apologized, and I accepted it, but a part of me is still waiting for him to do it again.",
+    "zh": "他道歉了，我接受了，但我的一部分还在等着他再犯。"
+  },
+  {
+    "en": "You don't have to fix me. You just have to be here and not run away when it gets messy.",
+    "zh": "你不需要修复我。你只需要在这里，在事情变得糟糕时不要跑开。"
+  },
+  {
+    "en": "I'm not saying I'm perfect. I'm saying I deserve someone who doesn't make me feel small.",
+    "zh": "我不是说我是完美的。我是说我值得一个不会让我觉得自己渺小的人。"
+  },
+  {
+    "en": "She told me she was fine, but I could hear the tears behind her voice.",
+    "zh": "她告诉我她没事，但我能听到她声音背后的泪水。"
+  },
+  {
+    "en": "I've been holding this in for so long that I don't even know how to let it out anymore.",
+    "zh": "我把这个憋了太久了，以至于我都不知道该怎么释放出来了。"
+  },
+  {
+    "en": "If you had been there for me when I needed you, I wouldn't be so guarded now.",
+    "zh": "如果在我需要你的时候你在我身边，我现在就不会这么防备了。"
+  },
+  {
+    "en": "He said he loved me, but his actions told a different story, and I chose to believe his words.",
+    "zh": "他说他爱我，但他的行为讲述了不同的故事，而我选择相信他的话。"
+  },
+  {
+    "en": "I'm not crying because I'm sad. I'm crying because I'm exhausted from pretending to be strong.",
+    "zh": "我哭不是因为我难过。我哭是因为我假装坚强已经精疲力尽了。"
+  },
+  {
+    "en": "She didn't have to apologize. I just wanted her to acknowledge that she hurt me.",
+    "zh": "她不必道歉。我只想让她承认她伤害了我。"
+  },
+  {
+    "en": "I know it's not fair to expect you to read my mind, but sometimes I wish you would just know.",
+    "zh": "我知道指望你读我的心是不公平的，但有时候我希望你就是知道。"
+  },
+  {
+    "en": "He kept his distance, and I told myself I didn't care, but I checked my phone every five minutes.",
+    "zh": "他保持距离，我告诉自己我不在乎，但我每五分钟就看一次手机。"
+  },
+  {
+    "en": "I'm not ready to forgive you yet, and that's okay. I'm allowed to take my time.",
+    "zh": "我还没准备好原谅你，这没关系。我有权慢慢来。"
+  },
+  {
+    "en": "You said you'd never leave, but here I am, alone again, wondering what I did wrong.",
+    "zh": "你说你永远不会离开，但如今我又独自一人，想着我做错了什么。"
+  },
+  {
+    "en": "I don't want to talk about it right now... maybe later.",
+    "zh": "我现在不想谈这个……也许以后吧。"
+  },
+  {
+    "en": "I just need a minute... please.",
+    "zh": "我只需要一分钟……求你了。"
+  },
+  {
+    "en": "It's not what you think... I swear.",
+    "zh": "不是你想的那样……我发誓。"
+  },
+  {
+    "en": "I can't do this anymore... I'm sorry.",
+    "zh": "我再也做不到了……对不起。"
+  },
+  {
+    "en": "I thought you knew... I guess not.",
+    "zh": "我以为你知道……看来不是。"
+  },
+  {
+    "en": "I'm fine... really, I am.",
+    "zh": "我没事……真的，我没事。"
+  },
+  {
+    "en": "Don't... just don't.",
+    "zh": "别……就别这样。"
+  },
+  {
+    "en": "I wish I could... but I can't.",
+    "zh": "我希望我能……但我不能。"
+  },
+  {
+    "en": "My legs felt like lead after that hill, so I just walked the last mile instead of running it.",
+    "zh": "爬完那个坡之后我的腿沉得像灌了铅，所以最后一英里我干脆走了，没跑。"
+  },
+  {
+    "en": "If you didn't sleep well, don't force a hard workout; a short walk might do more for your brain than pushing through.",
+    "zh": "如果你没睡好，就别硬撑着做高强度训练；短时间散步对大脑的好处可能比硬扛着练更大。"
+  },
+  {
+    "en": "I thought lifting weights would make me bulky, but after six months I mostly just feel steadier on my feet.",
+    "zh": "我原以为举铁会让我变得很壮，但六个月后，我主要的感觉是站得更稳了。"
+  },
+  {
+    "en": "She swims three times a week, not because she loves the water, but because her knees can't handle running anymore.",
+    "zh": "她每周游三次泳，不是因为她喜欢水，而是因为她的膝盖已经受不了跑步了。"
+  },
+  {
+    "en": "Wait, so the dizziness after standing up quickly... is that something I should worry about or not?",
+    "zh": "等等，那站起来太快之后的头晕……这到底是我该担心的事，还是不用管？"
+  },
+  {
+    "en": "Honestly, I can't tell if the stretching is helping my back or if it's just the extra sleep.",
+    "zh": "说实话，我分不清是拉伸对我的背有帮助，还是只是因为我多睡了觉。"
+  },
+  {
+    "en": "He cycles about 40 kilometers every weekend, but his resting heart rate hasn't changed much since last year.",
+    "zh": "他每个周末骑大约40公里，但自从去年以来，他的静息心率没怎么变。"
+  },
+  {
+    "en": "You don't have to run a marathon to protect your memory; even 20 minutes of brisk walking several times a week seems to help.",
+    "zh": "你不必跑马拉松来保护记忆；每周快走几次、每次哪怕20分钟，似乎也有帮助。"
+  },
+  {
+    "en": "My coach keeps saying rest is part of training, and I'm starting to think he might actually be right.",
+    "zh": "我的教练一直说休息也是训练的一部分，我开始觉得他可能真的是对的。"
+  },
+  {
+    "en": "After the concussion, bright screens gave her headaches, so she listened to podcasts instead of watching videos.",
+    "zh": "脑震荡之后，亮屏幕让她头痛，所以她改听播客，而不是看视频。"
+  },
+  {
+    "en": "Does anyone else feel weirdly foggy the day after a really long ride... or is it just me?",
+    "zh": "还有谁在超长骑行之后的第二天会觉得脑子怪怪地发懵……还是只有我这样？"
+  },
+  {
+    "en": "I used to think balance exercises were boring, but now I do them while waiting for the kettle to boil.",
+    "zh": "我以前觉得平衡练习很无聊，但现在我会在等水壶烧开的时候做。"
+  },
+  {
+    "en": "The study followed 120 adults for 18 months, and those who exercised twice a week scored slightly better on attention tests.",
+    "zh": "这项研究跟踪了120名成年人18个月，每周锻炼两次的人在注意力测试中得分略高。"
+  },
+  {
+    "en": "Don't skip the warm-up, especially if you've been sitting all day; your muscles aren't ready for sudden sprinting.",
+    "zh": "别跳过热身，尤其是如果你已经坐了一整天；你的肌肉还没准备好突然冲刺。"
+  },
+  {
+    "en": "He says his mind is clearer after a swim, though he can't prove it and doesn't really try to.",
+    "zh": "他说游完泳后头脑更清醒，虽然他证明不了，也并不真的想去证明。"
+  },
+  {
+    "en": "If your knee hurts during squats, stop and check your form rather than adding more weight.",
+    "zh": "如果深蹲时膝盖疼，就停下来检查动作姿势，而不是继续加重量。"
+  },
+  {
+    "en": "Three flights of stairs, twice a day — that's it. That's my whole routine right now.",
+    "zh": "三层楼梯，一天两趟——就这样。这就是我现在的全部锻炼。"
+  },
+  {
+    "en": "I'm not sure the breathing exercises calm me down, but they do make me notice how tense I am.",
+    "zh": "我不确定呼吸练习是否让我平静下来，但它们确实让我注意到自己有多紧张。"
+  },
+  {
+    "en": "She jogs slowly for 25 minutes and then stretches for 10, and she says that's enough for her.",
+    "zh": "她慢跑25分钟，然后拉伸10分钟，她说这对她来说就够了。"
+  },
+  {
+    "en": "Unless you're training for something specific, you probably don't need to track every single calorie.",
+    "zh": "除非你在为某个特定目标训练，否则你大概不需要记录每一卡路里。"
+  },
+  {
+    "en": "My grandfather walks two miles every morning, rain or shine, and he's sharper than most people half his age.",
+    "zh": "我爷爷每天早上走两英里，风雨无阻，他比大多数只有他一半年纪的人还头脑清楚。"
+  },
+  {
+    "en": "The gym was so crowded that I gave up and did a few push-ups at home instead.",
+    "zh": "健身房太挤了，我干脆放弃，改在家做了几个俯卧撑。"
+  },
+  {
+    "en": "It's not that cardio is useless for the brain; it's that strength training gets overlooked too often.",
+    "zh": "并不是说有氧运动对大脑没用；而是力量训练太常被忽视了。"
+  },
+  {
+    "en": "Hmm, maybe the trick isn't exercising more, but exercising at the same time every day...",
+    "zh": "嗯，也许诀窍不是练得更多，而是每天在同样的时间锻炼……"
+  },
+  {
+    "en": "He hurt his shoulder lifting too heavy too soon, and it took almost four months to recover.",
+    "zh": "他太早举得太重，伤了肩膀，花了将近四个月才恢复。"
+  },
+  {
+    "en": "Even ten minutes of dancing in the kitchen counts, and it's certainly more fun than the treadmill.",
+    "zh": "哪怕在厨房里跳十分钟舞也算数，而且肯定比跑步机有意思。"
+  },
+  {
+    "en": "I can't run anymore because of my ankle, but I can still bike and swim without much pain.",
+    "zh": "因为脚踝的问题，我不能再跑步了，但我仍然可以骑车和游泳，不太疼。"
+  },
+  {
+    "en": "Do you think memory problems from stress can improve with exercise, or is that just wishful thinking?",
+    "zh": "你觉得压力造成的记忆问题能通过锻炼改善吗，还是那只是一厢情愿？"
+  },
+  {
+    "en": "She took a rest day, not because she was lazy, but because her body was clearly asking for it.",
+    "zh": "她休息了一天，不是因为她懒，而是因为她的身体明显在要求休息。"
+  },
+  {
+    "en": "After two weeks of daily walks, he noticed he was less irritable in the evenings, though nothing else changed.",
+    "zh": "每天散步两周后，他注意到自己晚上没那么烦躁了，虽然其他方面没什么变化。"
+  },
+  {
+    "en": "You should probably see a doctor about that tingling, especially since it hasn't gone away in a month.",
+    "zh": "你大概应该去看医生，查查那个刺痛感，尤其是它已经一个月没消了。"
+  },
+  {
+    "en": "I keep a jump rope by the desk, and whenever I feel stuck, I do 50 skips and come back.",
+    "zh": "我在桌边放了一根跳绳，每当我卡住的时候，就跳50下，然后再回来。"
+  },
+  {
+    "en": "The class was supposed to be gentle yoga, but it left me sore for two days.",
+    "zh": "那节课本来应该是温和的瑜伽，但让我酸痛了两天。"
+  },
+  {
+    "en": "If you're new to running, don't compare your pace to anyone else's; just finish the distance.",
+    "zh": "如果你刚开始跑步，别拿自己的配速跟别人比；先把距离跑完就行。"
+  },
+  {
+    "en": "His doctor told him to move more, but didn't specify how, so he started with marching in place during commercials.",
+    "zh": "他的医生让他多活动，但没说具体怎么动，于是他就开始在广告时间原地踏步。"
+  },
+  {
+    "en": "Wait, you mean the brain benefits show up even without losing weight? That changes things.",
+    "zh": "等等，你是说即使没减重，大脑的益处也会出现？那就不一样了。"
+  },
+  {
+    "en": "She can't do high-impact exercise, so she uses a stationary bike and light dumbbells instead.",
+    "zh": "她不能做高冲击运动，所以她改用固定自行车和轻哑铃。"
+  },
+  {
+    "en": "Some days I feel strong, and other days a single flight of stairs feels like a mountain.",
+    "zh": "有些日子我觉得自己很强壮，另一些日子上一层楼梯都像爬一座山。"
+  },
+  {
+    "en": "The research isn't settled yet, so I wouldn't treat any single workout as a cure for anything.",
+    "zh": "研究还没有定论，所以我不会把任何单一锻炼当成能治什么病的灵丹妙药。"
+  },
+  {
+    "en": "He tried meditating after his run, but he kept falling asleep, so now he does it before.",
+    "zh": "他试过跑步后冥想，但总是睡着，所以现在改成跑前做。"
+  },
+  {
+    "en": "Twenty push-ups, a one-minute plank, and that's all I can manage today... and that's okay.",
+    "zh": "二十个俯卧撑，一分钟平板支撑，今天我只能做到这些……而这也没关系。"
+  },
+  {
+    "en": "If the weather is bad, she walks laps inside the mall, which sounds silly but works for her.",
+    "zh": "如果天气不好，她就在商场里绕圈走，听起来有点傻，但对她管用。"
+  },
+  {
+    "en": "I don't think exercise fixes everything, but I do notice I cope better on the days I move.",
+    "zh": "我不认为锻炼能解决一切，但我确实注意到，活动过的那些天我应对得更好。"
+  },
+  {
+    "en": "They biked 15 miles on Saturday and 30 on Sunday, which was probably too much for beginners.",
+    "zh": "他们周六骑了15英里，周日骑了30英里，对新手来说这大概太多了。"
+  },
+  {
+    "en": "My hands shake a little after a hard workout, but it goes away in about ten minutes.",
+    "zh": "剧烈锻炼后我的手会有点抖，但大约十分钟后就消失了。"
+  },
+  {
+    "en": "Is it normal to feel emotionally better after lifting, or am I just imagining the mood boost?",
+    "zh": "举铁之后情绪变好是正常的吗，还是那种心情提升只是我的错觉？"
+  },
+  {
+    "en": "She started with just five minutes of stretching each morning, and after a month she added ten more.",
+    "zh": "她一开始只是每天早上拉伸五分钟，一个月后她又加了十分钟。"
+  },
+  {
+    "en": "Don't push through sharp pain; dull soreness is one thing, but a stabbing feeling is another.",
+    "zh": "别硬扛尖锐的疼痛；钝钝的酸痛是一回事，刺痛又是另一回事。"
+  },
+  {
+    "en": "The more consistent I am, the less I care about how fast I'm going or how far.",
+    "zh": "我越坚持，就越不在乎自己跑得多快或多远。"
+  },
+  {
+    "en": "He forgot his shoes, so he walked the whole route barefoot and regretted it by the end.",
+    "zh": "他忘了带鞋，就光脚走完了整条路线，到最后后悔了。"
+  },
+  {
+    "en": "The cortisol levels in the saliva samples were higher than we expected, but that doesn't necessarily mean the participants were more stressed.",
+    "zh": "唾液样本中的皮质醇水平比我们预期的要高，但这并不一定意味着参与者的压力更大。"
+  },
+  {
+    "en": "If the control group had slept at least seven hours, the results might have looked completely different.",
+    "zh": "如果对照组至少睡了七个小时，结果可能会完全不同。"
+  },
+  {
+    "en": "I'm not saying stress causes ulcers, but the correlation in this dataset is hard to ignore.",
+    "zh": "我不是说压力会导致溃疡，但在这个数据集中的相关性很难忽视。"
+  },
+  {
+    "en": "The heart rate variability readings were inconsistent, so we couldn't draw any firm conclusions from them.",
+    "zh": "心率变异性读数不一致，因此我们无法从中得出任何明确的结论。"
+  },
+  {
+    "en": "Some participants reported feeling calmer after the intervention, while others said nothing changed at all.",
+    "zh": "一些参与者报告说干预后感觉更平静，而另一些人则说完全没有变化。"
+  },
+  {
+    "en": "We measured blood pressure three times a day for two weeks, but the patients often forgot to log the evening readings.",
+    "zh": "我们每天测量血压三次，持续了两周，但患者常常忘记记录晚上的读数。"
+  },
+  {
+    "en": "Unless the sample size increases, the findings probably won't hold up in a larger population.",
+    "zh": "除非样本量增加，否则这些发现可能无法在更大的人群中站得住脚。"
+  },
+  {
+    "en": "The self-reported stress scores dropped by 12 percent, though the physiological markers stayed roughly the same.",
+    "zh": "自我报告的压力分数下降了12%，尽管生理指标大致保持不变。"
+  },
+  {
+    "en": "It's unclear whether the breathing exercises actually lowered anxiety or if people just got used to the study routine.",
+    "zh": "目前还不清楚呼吸练习是否真的降低了焦虑，还是人们只是习惯了研究流程。"
+  },
+  {
+    "en": "Don't assume that a single high cortisol reading means someone has a chronic stress problem.",
+    "zh": "不要假设一次高皮质醇读数就意味着某人有慢性压力问题。"
+  },
+  {
+    "en": "The researchers excluded anyone who had taken anti-anxiety medication in the past six months.",
+    "zh": "研究人员排除了在过去六个月内服用过抗焦虑药物的任何人。"
+  },
+  {
+    "en": "Although the meditation group showed improvement, the difference wasn't statistically significant.",
+    "zh": "尽管冥想组显示出改善，但差异在统计上并不显著。"
+  },
+  {
+    "en": "We can't tell from this data whether the stress was caused by work, family, or something else entirely.",
+    "zh": "我们无法从这些数据判断压力是来自工作、家庭还是完全其他原因。"
+  },
+  {
+    "en": "If you skip the follow-up questionnaire, we won't be able to include your results in the final analysis.",
+    "zh": "如果你跳过随访问卷，我们将无法把你的结果纳入最终分析。"
+  },
+  {
+    "en": "The mice in the stressed group lost weight, but the ones in the control group did not.",
+    "zh": "压力组的小鼠体重下降了，但对照组的小鼠没有。"
+  },
+  {
+    "en": "I doubt the new biomarker is ready for clinical use; the validation studies are still ongoing.",
+    "zh": "我怀疑这种新生物标志物尚未准备好用于临床；验证研究仍在进行中。"
+  },
+  {
+    "en": "Either the questionnaire was too long, or the participants simply lost interest halfway through.",
+    "zh": "要么问卷太长，要么参与者中途就失去了兴趣。"
+  },
+  {
+    "en": "The study lasted eight weeks, and participants wore the sensor for 16 hours each day.",
+    "zh": "这项研究持续了八周，参与者每天佩戴传感器16个小时。"
+  },
+  {
+    "en": "We found no evidence that the supplement reduced stress, but we also can't rule out a small effect.",
+    "zh": "我们没有发现该补充剂减轻压力的证据，但也不能排除有微小效果。"
+  },
+  {
+    "en": "While the therapy helped some patients, it made others feel more anxious, which was unexpected.",
+    "zh": "虽然这种疗法帮助了一些患者，却让另一些人感到更焦虑，这是出乎意料的。"
+  },
+  {
+    "en": "The data suggest a link between poor sleep and elevated stress hormones, but correlation is not causation.",
+    "zh": "数据表明睡眠不足与压力激素升高之间存在关联，但相关不等于因果。"
+  },
+  {
+    "en": "Had we controlled for caffeine intake, the results might have been less noisy.",
+    "zh": "如果我们控制了咖啡因摄入量，结果可能会更清晰。"
+  },
+  {
+    "en": "Nobody in the low-stress group reported headaches, whereas six people in the high-stress group did.",
+    "zh": "低压力组中没有人报告头痛，而高压力组中有六人报告了头痛。"
+  },
+  {
+    "en": "The device measures skin conductance, which is a indirect indicator of sympathetic nervous system activity.",
+    "zh": "该设备测量皮肤电导，这是交感神经系统活动的一个间接指标。"
+  },
+  {
+    "en": "I'm not convinced the results are generalizable, since almost all participants were university students.",
+    "zh": "我不相信这些结果具有普遍性，因为几乎所有参与者都是大学生。"
+  },
+  {
+    "en": "Whether the effects persist beyond six months is still an open question.",
+    "zh": "这些效果是否持续超过六个月仍是一个悬而未决的问题。"
+  },
+  {
+    "en": "The intervention group showed a 9-point drop on the anxiety scale, compared with a 3-point drop in the control group.",
+    "zh": "干预组在焦虑量表上下降了9分，而对照组下降了3分。"
+  },
+  {
+    "en": "We asked participants not to exercise, smoke, or drink coffee for two hours before the test.",
+    "zh": "我们要求参与者在测试前两小时内不要运动、吸烟或喝咖啡。"
+  },
+  {
+    "en": "It's possible that the placebo effect explains part of the improvement, but not all of it.",
+    "zh": "安慰剂效应可能解释了部分改善，但并非全部。"
+  },
+  {
+    "en": "The review paper concluded that the evidence is mixed and more rigorous trials are needed.",
+    "zh": "这篇综述论文的结论是证据不一，需要更严格的试验。"
+  },
+  {
+    "en": "Although the participants reported feeling better, their cortisol levels remained elevated.",
+    "zh": "尽管参与者报告感觉更好，但他们的皮质醇水平仍然偏高。"
+  },
+  {
+    "en": "If the sensor falls off during the night, the data for that subject will be incomplete.",
+    "zh": "如果传感器在夜间脱落，该受试者的数据将不完整。"
+  },
+  {
+    "en": "We didn't measure stress directly; we only asked people how they felt over the past month.",
+    "zh": "我们没有直接测量压力；我们只是询问人们过去一个月的感受。"
+  },
+  {
+    "en": "The difference between the two groups was small, and it disappeared after adjusting for age.",
+    "zh": "两组之间的差异很小，而且在调整年龄后差异消失了。"
+  },
+  {
+    "en": "Some researchers argue that chronic stress accelerates cellular aging, but others remain skeptical.",
+    "zh": "一些研究人员认为慢性压力会加速细胞衰老，但其他人仍持怀疑态度。"
+  },
+  {
+    "en": "The blood samples were stored at minus 80 degrees Celsius until they could be analyzed.",
+    "zh": "血液样本被储存在零下80摄氏度，直到可以进行分析。"
+  },
+  {
+    "en": "I can't say whether the breathing technique will work for you; everyone responds differently.",
+    "zh": "我不能说这种呼吸技巧是否对你有用；每个人的反应都不同。"
+  },
+  {
+    "en": "The participants who journaled daily reported lower stress, but they also tended to be more health-conscious overall.",
+    "zh": "每天写日记的参与者报告压力较低，但他们总体上也更注重健康。"
+  },
+  {
+    "en": "Neither the yoga group nor the walking group showed a significant change in blood pressure.",
+    "zh": "瑜伽组和步行组均未显示血压的显著变化。"
+  },
+  {
+    "en": "We need to replicate these findings in a larger, more diverse sample before making any recommendations.",
+    "zh": "在提出任何建议之前，我们需要在更大、更多样化的样本中重复这些发现。"
+  },
+  {
+    "en": "The study was double-blind, so neither the participants nor the researchers knew who received the treatment.",
+    "zh": "这项研究是双盲的，因此参与者和研究人员都不知道谁接受了治疗。"
+  },
+  {
+    "en": "It seems unlikely that a single relaxation app can reverse years of chronic stress.",
+    "zh": "一个放松应用程序似乎不太可能逆转多年的慢性压力。"
+  },
+  {
+    "en": "The researchers found that social support buffered the effect of stress on mood, but only for women.",
+    "zh": "研究人员发现社会支持缓冲了压力对情绪的影响，但仅对女性有效。"
+  },
+  {
+    "en": "Unless we account for socioeconomic factors, we're probably missing a big part of the picture.",
+    "zh": "除非我们考虑社会经济因素，否则我们可能遗漏了很大一部分情况。"
+  },
+  {
+    "en": "The questionnaire asked about sleep, appetite, concentration, and how often people felt overwhelmed.",
+    "zh": "问卷询问了睡眠、食欲、注意力以及人们感到不堪重负的频率。"
+  },
+  {
+    "en": "We observed a slight increase in heart rate during the stressful task, but it returned to baseline within five minutes.",
+    "zh": "我们在压力任务期间观察到心率略有增加，但在五分钟内恢复到基线。"
+  },
+  {
+    "en": "I'm not sure the findings apply to older adults, since the oldest participant was 34.",
+    "zh": "我不确定这些发现是否适用于老年人，因为最年长的参与者是34岁。"
+  },
+  {
+    "en": "The meta-analysis included 23 studies, but many of them had small sample sizes.",
+    "zh": "这项荟萃分析包括23项研究，但其中许多研究样本量较小。"
+  },
+  {
+    "en": "If the effect is real, we should see it again when we run the experiment with a different population.",
+    "zh": "如果效应是真实的，当我们对不同人群进行实验时应该会再次看到它。"
+  },
+  {
+    "en": "The participants were told they could withdraw at any time, and a few did.",
+    "zh": "参与者被告知他们可以随时退出，有几个人确实退出了。"
+  },
+  {
+    "en": "I'm not saying the model is wrong, but I haven't seen enough evidence to trust its answer yet.",
+    "zh": "我不是说这个模型错了，只是我还没看到足够的证据来相信它的答案。"
+  },
+  {
+    "en": "If the test passes locally but fails in production, don't just rerun it — figure out what's different about the environment.",
+    "zh": "如果测试在本地通过但在生产环境失败，别只是重跑一遍——要弄清楚环境有什么不同。"
+  },
+  {
+    "en": "We rolled back the update at 3 a.m., and honestly, nobody knew whether the fix would hold until the morning.",
+    "zh": "我们凌晨三点回滚了更新，说实话，直到早上谁也不知道这个修复能不能撑住。"
+  },
+  {
+    "en": "The logs are noisy, so it's hard to tell whether that spike was a real attack or just a bot crawling the site.",
+    "zh": "日志很杂乱，所以很难判断那次激增是真正的攻击，还是只是机器人在爬网站。"
+  },
+  {
+    "en": "Can you check whether the backup actually finished? I don't want to assume it did.",
+    "zh": "你能确认一下备份是不是真的完成了吗？我不想当然地以为它完成了。"
+  },
+  {
+    "en": "She spent two weeks tuning the prompts, and the accuracy went up by maybe three percent — not huge, but measurable.",
+    "zh": "她花了两周时间调提示词，准确率大概提高了三个百分点——不算大，但可以测量。"
+  },
+  {
+    "en": "Unless someone reviews the permissions, that script could quietly delete files it was never supposed to touch.",
+    "zh": "除非有人审查这些权限，否则那个脚本可能会悄悄删掉本不该碰的文件。"
+  },
+  {
+    "en": "I'd rather ship a slower model that we understand than a fast one that surprises us at midnight.",
+    "zh": "我宁愿上线一个我们了解得清楚的较慢模型，也不愿要一个半夜给我们惊喜的快速模型。"
+  },
+  {
+    "en": "The dataset is biased, and no amount of clever math will fix that if we keep collecting the same way.",
+    "zh": "这个数据集是有偏的，如果我们还照老样子收集数据，再聪明的数学方法也解决不了。"
+  },
+  {
+    "en": "Wait — did you say the server restarted twice, or only once after the patch?",
+    "zh": "等等——你是说服务器重启了两次，还是打补丁后只重启了一次？"
+  },
+  {
+    "en": "It's not that the idea is bad; it's that we have no way to test it before Friday.",
+    "zh": "不是这个想法不好，而是我们在周五之前没办法测试它。"
+  },
+  {
+    "en": "He argued that safety filters slow everything down, but the benchmarks show only a small delay.",
+    "zh": "他主张安全过滤器会拖慢一切，但基准测试显示只有很小的延迟。"
+  },
+  {
+    "en": "If you can't explain why the model made that choice, you probably shouldn't deploy it to real users.",
+    "zh": "如果你无法解释模型为什么做出那个选择，你大概就不该把它部署给真实用户。"
+  },
+  {
+    "en": "Three engineers, two days, one bug — and we still aren't sure it's gone for good.",
+    "zh": "三名工程师，两天时间，一个漏洞——我们仍然不确定它是不是彻底消失了。"
+  },
+  {
+    "en": "The interface looks fine on my laptop, but on a phone the buttons overlap...",
+    "zh": "这个界面在我的笔记本电脑上看起来没问题，但在手机上按钮会重叠……"
+  },
+  {
+    "en": "Don't promise the client a date until you've checked how long the migration actually takes.",
+    "zh": "在你确认迁移实际需要多长时间之前，别向客户承诺日期。"
+  },
+  {
+    "en": "Maybe the outage was caused by the certificate expiring, or maybe someone changed the firewall rules.",
+    "zh": "也许这次故障是证书过期引起的，也可能是有人改了防火墙规则。"
+  },
+  {
+    "en": "We need a human in the loop for anything that touches money, health, or personal data.",
+    "zh": "任何涉及金钱、健康或个人数据的事情，我们都需要有人在环路中把关。"
+  },
+  {
+    "en": "I told him the shortcut would break later, and sure enough, it broke two releases down the line.",
+    "zh": "我告诉过他那个捷径以后会出问题，果不其然，两个版本之后它就崩了。"
+  },
+  {
+    "en": "The team disagreed about whether to log user prompts, so they postponed the decision.",
+    "zh": "团队对是否记录用户提示词意见不一，于是推迟了决定。"
+  },
+  {
+    "en": "It works, but only if the input is clean — and real inputs are almost never clean.",
+    "zh": "它能用，但前提是输入是干净的——而真实输入几乎从来都不干净。"
+  },
+  {
+    "en": "How many false positives did we get last month, and how many of those did a human have to review?",
+    "zh": "上个月我们得到了多少误报，其中又有多少必须由人工审核？"
+  },
+  {
+    "en": "The new hire asked a simple question that none of us could answer, which was a little embarrassing.",
+    "zh": "新来的同事问了一个简单的问题，我们谁都答不上来，这有点尴尬。"
+  },
+  {
+    "en": "Rather than block every unusual request, the system flags it and lets a reviewer decide.",
+    "zh": "系统不会拦截每一个异常请求，而是把它标记出来，让审核人员决定。"
+  },
+  {
+    "en": "I'm fairly confident the patch is safe, though I wouldn't bet my weekend on it.",
+    "zh": "我相当确信这个补丁是安全的，不过我也不会拿我的周末去赌。"
+  },
+  {
+    "en": "If the model refuses harmless questions, users will just find another tool that doesn't.",
+    "zh": "如果模型拒绝回答无害的问题，用户就会去找另一个不拒绝的工具。"
+  },
+  {
+    "en": "They measured latency in milliseconds, but the users complained about waiting several seconds.",
+    "zh": "他们用毫秒来衡量延迟，但用户抱怨的是要等好几秒。"
+  },
+  {
+    "en": "We can't prove the system is safe; we can only show that it survived the tests we ran.",
+    "zh": "我们无法证明这个系统是安全的；我们只能表明它通过了我们做过的测试。"
+  },
+  {
+    "en": "Honestly, I don't know if the data was anonymized before it was stored, and that worries me.",
+    "zh": "老实说，我不知道数据在存储之前是否已经匿名化，这让我很担心。"
+  },
+  {
+    "en": "The model was trained on text from before 2021, so it doesn't know about anything newer.",
+    "zh": "这个模型是用2021年之前的文本训练的，所以它不了解更新的任何事情。"
+  },
+  {
+    "en": "Either we add monitoring now, or we find out about failures from angry customers later.",
+    "zh": "要么我们现在就加上监控，要么以后从愤怒的客户那里得知故障。"
+  },
+  {
+    "en": "She kept the old version running in parallel for a month, just in case something went wrong.",
+    "zh": "她让旧版本并行运行了一个月，以防万一出什么问题。"
+  },
+  {
+    "en": "That's not a security bug — it's a usability problem that happens to look scary.",
+    "zh": "那不是安全漏洞——而是一个碰巧看起来很吓人的可用性问题。"
+  },
+  {
+    "en": "Before you fine-tune anything, ask whether the base model already does well enough.",
+    "zh": "在你微调任何东西之前，先问问基础模型是不是已经足够好了。"
+  },
+  {
+    "en": "The alert fired at 2:14 a.m., and by 2:40 a.m. the on-call engineer had already fixed it.",
+    "zh": "警报在凌晨2点14分触发，到凌晨2点40分，值班工程师已经把它修好了。"
+  },
+  {
+    "en": "Some users want the assistant to be cautious, while others find the warnings annoying.",
+    "zh": "有些用户希望助手谨慎一些，而另一些人则觉得那些警告很烦人。"
+  },
+  {
+    "en": "I think the risk is low, but low isn't zero, and we're talking about real people here.",
+    "zh": "我认为风险很低，但低不等于零，而我们谈论的是真实的人。"
+  },
+  {
+    "en": "If the two systems disagree, log both answers instead of silently picking one.",
+    "zh": "如果这两个系统意见不一致，就把两个答案都记录下来，而不是悄悄选一个。"
+  },
+  {
+    "en": "He deleted the branch by accident, and we lost about six hours of work.",
+    "zh": "他不小心删掉了那个分支，我们损失了大约六个小时的工作。"
+  },
+  {
+    "en": "The documentation says one thing, the code does another, and nobody knows which is correct.",
+    "zh": "文档说一套，代码做另一套，没人知道哪个才是对的。"
+  },
+  {
+    "en": "We should probably test this on a small group first...",
+    "zh": "我们也许应该先在一小群人身上测试这个……"
+  },
+  {
+    "en": "No, the model didn't hallucinate that — the source document really does say it.",
+    "zh": "不，模型没有编造那个——源文档里确实是那么写的。"
+  },
+  {
+    "en": "It's cheaper to catch a mistake in review than to explain it to a customer afterward.",
+    "zh": "在审核阶段发现错误，比事后向客户解释要便宜得多。"
+  },
+  {
+    "en": "Unless the logs are kept for at least ninety days, we won't be able to investigate old incidents.",
+    "zh": "除非日志至少保留九十天，否则我们将无法调查过去的事件。"
+  },
+  {
+    "en": "The reviewer marked it as safe, but she also noted that she wasn't completely sure.",
+    "zh": "审核员把它标记为安全，但她也注明自己并不完全确定。"
+  },
+  {
+    "en": "What happens if two users send conflicting instructions at exactly the same time?",
+    "zh": "如果两个用户在同一时刻发出相互冲突的指令，会发生什么？"
+  },
+  {
+    "en": "We tried three different approaches, and none of them worked, so we went back to the simplest one.",
+    "zh": "我们试了三种不同的方法，都没成功，于是又回到了最简单的那种。"
+  },
+  {
+    "en": "The system is fast, accurate, and completely unable to explain itself — pick two.",
+    "zh": "这个系统又快又准，却完全无法解释自己——只能选两样。"
+  },
+  {
+    "en": "If a person can't understand the output, they can't responsibly approve it.",
+    "zh": "如果一个人看不懂输出结果，他就无法负责任地批准它。"
+  },
+  {
+    "en": "I'll believe the fix works when I see it survive a week of real traffic.",
+    "zh": "等我看它扛过一周的真实流量，我才会相信这个修复有效。"
+  },
+  {
+    "en": "The new depth sensor isn't as accurate as the older one, but it's much cheaper, so we're testing it on a few prototypes.",
+    "zh": "新的深度传感器不如旧的那款精确，但便宜得多，所以我们正在几个原型上测试它。"
+  },
+  {
+    "en": "If the edge detection threshold is too high, you'll miss subtle contours; if it's too low, you'll get noise everywhere.",
+    "zh": "如果边缘检测阈值太高，你会漏掉细微的轮廓；如果太低，到处都是噪声。"
+  },
+  {
+    "en": "We haven't decided whether to use a transformer or a simpler CNN for this task, because the dataset is still quite small.",
+    "zh": "我们还没决定这个任务是用Transformer还是更简单的CNN，因为数据集还相当小。"
+  },
+  {
+    "en": "The model achieved 87.3% accuracy on the validation set, which is 4.1 points higher than our previous best result.",
+    "zh": "该模型在验证集上达到了87.3%的准确率，比我们之前的最佳结果高出4.1个百分点。"
+  },
+  {
+    "en": "I thought the segmentation mask looked fine, but my colleague pointed out that the left boundary was shifted by about 5 pixels.",
+    "zh": "我原以为分割掩码看起来没问题，但我同事指出左边界偏移了大约5个像素。"
+  },
+  {
+    "en": "The camera captures at 30 frames per second, not 60, so fast motion still causes some blur.",
+    "zh": "相机以每秒30帧而不是60帧拍摄，所以快速运动仍然会造成一些模糊。"
+  },
+  {
+    "en": "Unless we augment the training data with more night scenes, the detector will keep failing on low-light images.",
+    "zh": "除非我们用更多夜间场景增强训练数据，否则检测器在低光图像上会一直失败。"
+  },
+  {
+    "en": "She said the pose estimation was off by roughly 15 degrees, but I think it's closer to 30.",
+    "zh": "她说姿态估计大约偏了15度，但我觉得更接近30度。"
+  },
+  {
+    "en": "We could try pruning the network to reduce latency, though that might hurt accuracy on the smaller objects.",
+    "zh": "我们可以尝试剪枝网络来降低延迟，尽管这可能会损害小物体的准确率。"
+  },
+  {
+    "en": "The optical flow vectors look inconsistent near the image borders, probably because of the padding we added.",
+    "zh": "光流向量在图像边界附近看起来不一致，可能是因为我们添加的填充。"
+  },
+  {
+    "en": "Don't worry if the loss doesn't drop in the first few epochs; sometimes it takes a while to escape that plateau.",
+    "zh": "如果损失在最初几个周期没有下降，别担心；有时候需要一段时间才能脱离那个平台期。"
+  },
+  {
+    "en": "I'm not sure the feature pyramid is helping—it adds 20 milliseconds per frame and the gain is marginal.",
+    "zh": "我不确定特征金字塔是否有帮助——它每帧增加20毫秒，而收益微乎其微。"
+  },
+  {
+    "en": "The annotation tool crashed again, so we lost about two hours of labeling work.",
+    "zh": "标注工具又崩溃了，所以我们丢失了大约两个小时的标注工作。"
+  },
+  {
+    "en": "You should normalize the pixel values to [0,1] before feeding them into the network, otherwise training will be unstable.",
+    "zh": "你应该在将像素值输入网络之前将其归一化到[0,1]，否则训练会不稳定。"
+  },
+  {
+    "en": "Although the synthetic data helped a bit, it didn't close the domain gap as much as we'd hoped.",
+    "zh": "尽管合成数据有点帮助，但它并没有像我们希望的那样缩小域差距。"
+  },
+  {
+    "en": "The bounding boxes overlap too much, so non-maximum suppression is removing some valid detections.",
+    "zh": "边界框重叠太多，所以非极大值抑制正在移除一些有效的检测结果。"
+  },
+  {
+    "en": "He asked whether we could run the experiment on 4 GPUs instead of 8, but I told him it would take twice as long.",
+    "zh": "他问我们能否在4块GPU而不是8块上运行实验，但我告诉他那会多花一倍时间。"
+  },
+  {
+    "en": "The classifier confuses huskies with wolves, which suggests it's relying on background snow rather than the animal itself.",
+    "zh": "分类器把哈士奇和狼搞混了，这表明它依赖的是背景的雪而不是动物本身。"
+  },
+  {
+    "en": "We need at least 500 labeled images per class, but right now we only have about 120 for the rarest category.",
+    "zh": "我们每类至少需要500张标注图像，但目前最稀有的类别只有大约120张。"
+  },
+  {
+    "en": "If you blur the image before edge detection, you'll reduce noise but also lose some fine details.",
+    "zh": "如果在边缘检测前模糊图像，你会减少噪声，但也会丢失一些细节。"
+  },
+  {
+    "en": "I doubt the new loss function will generalize well, since it was tuned on a very specific dataset.",
+    "zh": "我怀疑新的损失函数能否很好地泛化，因为它是在一个非常特定的数据集上调优的。"
+  },
+  {
+    "en": "The tracking algorithm lost the target after it passed behind the tree, and it never reacquired it.",
+    "zh": "目标经过树后跟踪算法丢失了它，而且再也没有重新捕获。"
+  },
+  {
+    "en": "Could you check if the ground truth labels for frame 204 are correct? The car appears twice.",
+    "zh": "你能检查一下第204帧的真值标签是否正确吗？那辆车出现了两次。"
+  },
+  {
+    "en": "Even though the model is quantized to 8-bit integers, the accuracy drop is less than 0.5%.",
+    "zh": "尽管模型被量化为8位整数，准确率下降不到0.5%。"
+  },
+  {
+    "en": "We're not going to deploy this until we've tested it on at least three different camera models.",
+    "zh": "在至少在三种不同相机型号上测试之前，我们不会部署这个。"
+  },
+  {
+    "en": "The stereo matching fails on reflective surfaces, because the disparity becomes ambiguous.",
+    "zh": "立体匹配在反射表面上失败，因为视差变得模糊不清。"
+  },
+  {
+    "en": "I wish we had more time to tune the hyperparameters, but the deadline is next Friday.",
+    "zh": "我希望我们有更多时间调超参数，但截止日期是下周五。"
+  },
+  {
+    "en": "The keypoint detector missed the left wrist entirely, probably because it was occluded by the body.",
+    "zh": "关键点检测器完全漏掉了左手腕，可能是因为它被身体遮挡了。"
+  },
+  {
+    "en": "If the learning rate is too high, the model will diverge; if it's too low, training will take forever.",
+    "zh": "如果学习率太高，模型会发散；如果太低，训练会花很长时间。"
+  },
+  {
+    "en": "They claim their method runs in real time on a mobile phone, but I haven't reproduced it yet.",
+    "zh": "他们声称他们的方法在手机上实时运行，但我还没有复现。"
+  },
+  {
+    "en": "The image registration is off by a few pixels, so the subtraction looks like a ghosting artifact.",
+    "zh": "图像配准偏了几个像素，所以相减看起来像重影伪影。"
+  },
+  {
+    "en": "We should probably use a larger batch size, but our GPU memory is limited to 11 GB.",
+    "zh": "我们可能应该用更大的批量大小，但我们的GPU内存限制在11GB。"
+  },
+  {
+    "en": "The saliency map highlights the wrong region—it's focusing on the text instead of the face.",
+    "zh": "显著性图突出了错误的区域——它关注的是文字而不是人脸。"
+  },
+  {
+    "en": "I can't tell if the improvement is real or just noise, because the variance across runs is quite high.",
+    "zh": "我无法判断改进是真实的还是只是噪声，因为多次运行的方差相当大。"
+  },
+  {
+    "en": "Unless we fix the data leakage, the reported accuracy will be overly optimistic.",
+    "zh": "除非我们修复数据泄漏，否则报告的准确率会过于乐观。"
+  },
+  {
+    "en": "The 3D reconstruction looks good from the front, but the back side is full of holes.",
+    "zh": "3D重建从正面看不错，但背面全是空洞。"
+  },
+  {
+    "en": "He suggested using a different color space, like LAB instead of RGB, to improve segmentation.",
+    "zh": "他建议使用不同的颜色空间，比如用LAB代替RGB，来改善分割。"
+  },
+  {
+    "en": "We've tried three different architectures, and none of them beat the baseline by more than 1%.",
+    "zh": "我们尝试了三种不同的架构，没有一个比基线高出超过1%。"
+  },
+  {
+    "en": "The camera calibration is slightly off, which is why the edges don't line up perfectly.",
+    "zh": "相机标定稍微偏了，这就是边缘没有完美对齐的原因。"
+  },
+  {
+    "en": "If you don't freeze the batch norm layers, fine-tuning will destroy the pretrained features.",
+    "zh": "如果你不冻结批量归一化层，微调会破坏预训练的特征。"
+  },
+  {
+    "en": "The robot's vision system detected the obstacle, but the planner didn't react in time.",
+    "zh": "机器人的视觉系统检测到了障碍物，但规划器没有及时反应。"
+  },
+  {
+    "en": "I'm not convinced that adding more layers will help; sometimes deeper networks just overfit.",
+    "zh": "我不相信增加更多层会有帮助；有时更深的网络只会过拟合。"
+  },
+  {
+    "en": "The dataset contains 12,000 images, split into 8,000 for training, 2,000 for validation, and 2,000 for testing.",
+    "zh": "数据集包含12,000张图像，分为8,000张用于训练、2,000张用于验证和2,000张用于测试。"
+  },
+  {
+    "en": "We could annotate the remaining frames ourselves, but it would take at least a week.",
+    "zh": "我们可以自己标注剩余的帧，但至少需要一周时间。"
+  },
+  {
+    "en": "The feature embeddings are too similar for different classes, so the classifier can't separate them.",
+    "zh": "不同类别的特征嵌入太相似了，所以分类器无法将它们分开。"
+  },
+  {
+    "en": "Although the augmentation helped with rotation, it didn't improve performance on scaled objects.",
+    "zh": "尽管增强对旋转有帮助，但并没有提高缩放物体的性能。"
+  },
+  {
+    "en": "I wonder if we should switch to a different optimizer, because Adam seems to be stuck.",
+    "zh": "我想知道我们是否应该换一个优化器，因为Adam似乎卡住了。"
+  },
+  {
+    "en": "The point cloud is too sparse to recognize the object, so we need a denser scan.",
+    "zh": "点云太稀疏，无法识别物体，所以我们需要更密集的扫描。"
+  },
+  {
+    "en": "If the background is cluttered, the tracker will drift; that's why we added a motion model.",
+    "zh": "如果背景杂乱，跟踪器会漂移；这就是我们添加运动模型的原因。"
+  },
+  {
+    "en": "They promised to share the code, but it's been three months and nothing has appeared online.",
+    "zh": "他们承诺分享代码，但已经三个月了，网上什么都没出现。"
+  },
+  {
+    "en": "We ordered twelve pallets, but only nine arrived, so we're three short on the floor.",
+    "zh": "我们订了十二个托盘，但只到了九个，所以现场少了三个。"
+  },
+  {
+    "en": "If the freight quote holds until Friday, book it; otherwise we'll wait for a cheaper carrier.",
+    "zh": "如果运费报价能维持到周五，就订下来；否则我们就等更便宜的承运商。"
+  },
+  {
+    "en": "The net weight says 2.5 kilograms, yet the scale here shows 2.3, which is odd.",
+    "zh": "净重标的是2.5公斤，可这里的秤显示2.3，这有点奇怪。"
+  },
+  {
+    "en": "I'm not sure the supplier can handle 800 units by Monday, but let's ask anyway.",
+    "zh": "我不确定供应商周一前能不能完成800件，不过我们还是问一下吧。"
+  },
+  {
+    "en": "Twenty-four boxes of gloves, six cartons of masks, and one crate of sanitizer. That's the whole shipment.",
+    "zh": "二十四箱手套、六纸箱口罩，还有一箱消毒液。整批货就这些。"
+  },
+  {
+    "en": "Unless the customs paperwork clears today, the container sits at the port until next week.",
+    "zh": "除非报关文件今天能清关，否则集装箱要在港口压到下周。"
+  },
+  {
+    "en": "She said the unit price dropped to 4.75 dollars, not 4.25 like the old contract.",
+    "zh": "她说单价降到了4.75美元，不是旧合同里的4.25。"
+  },
+  {
+    "en": "We can't ship by air; it's too heavy and way over budget.",
+    "zh": "我们不能走空运；太重了，而且远远超出预算。"
+  },
+  {
+    "en": "Hold on, is that 15 percent off the list price or off the wholesale rate?",
+    "zh": "等等，那是按标价打八五折，还是按批发价打折？"
+  },
+  {
+    "en": "The invoice lists 300 meters of cable, but the crate tag says 290. Someone miscounted.",
+    "zh": "发票上写的是300米电缆，可箱子上标签写的是290。有人数错了。"
+  },
+  {
+    "en": "If we split the order between two vendors, the lead time might actually shrink.",
+    "zh": "如果我们把订单分给两家供应商，交货周期说不定反而会缩短。"
+  },
+  {
+    "en": "I doubt the warehouse has room for another 40 pallets this month.",
+    "zh": "我怀疑仓库这个月再放40个托盘是没地方了。"
+  },
+  {
+    "en": "Three trucks left at dawn; the fourth is still waiting on a driver.",
+    "zh": "三辆卡车天亮时出发了；第四辆还在等司机。"
+  },
+  {
+    "en": "The quote is valid for 30 days, though prices could shift if fuel costs jump.",
+    "zh": "报价有效期为30天，不过如果燃油成本飙升，价格可能会变动。"
+  },
+  {
+    "en": "Either we pay the rush fee, or we miss the retail launch window entirely.",
+    "zh": "要么我们付加急费，要么就彻底错过零售上市窗口。"
+  },
+  {
+    "en": "That's not a discount, that's a surcharge disguised as one.",
+    "zh": "那不是折扣，那是伪装成折扣的附加费。"
+  },
+  {
+    "en": "Fifty-five crates came in this morning, and another twenty are due tomorrow.",
+    "zh": "今天上午到了五十五个板条箱，明天还有二十个要到。"
+  },
+  {
+    "en": "If the batch fails inspection, we lose the deposit and the shipping costs.",
+    "zh": "如果这批货检验不合格，我们就损失定金和运费。"
+  },
+  {
+    "en": "I think the box is lighter than it looks, maybe around 1.2 pounds.",
+    "zh": "我觉得这盒子比看上去要轻，大概1.2磅左右。"
+  },
+  {
+    "en": "Don't sign the delivery note until you've counted every single item.",
+    "zh": "在逐件清点完之前，别签收货单。"
+  },
+  {
+    "en": "We need 60 liters of solvent, not 60 gallons. Check the units again.",
+    "zh": "我们需要60升溶剂，不是60加仑。再核对一下单位。"
+  },
+  {
+    "en": "The supplier promised Tuesday, but honestly, I wouldn't bet on it.",
+    "zh": "供应商答应周二到，但说实话，我不太敢指望。"
+  },
+  {
+    "en": "Half the shipment is fine; the other half has dented corners and torn wrap.",
+    "zh": "这批货一半没问题；另一半箱角凹陷、外包装破损。"
+  },
+  {
+    "en": "Can you confirm whether the price includes delivery to the second warehouse?",
+    "zh": "你能确认一下这个价格是否包含送到第二仓库的费用吗？"
+  },
+  {
+    "en": "It's cheaper per unit if we buy 500, but we'd be storing extras for months.",
+    "zh": "如果买500件，单价会更便宜，但多出来的货我们要存好几个月。"
+  },
+  {
+    "en": "The manifest says 18 tons, and the weighbridge agrees, so we're good.",
+    "zh": "舱单上写的是18吨，地磅也称出来一样，所以没问题。"
+  },
+  {
+    "en": "Unless the storm passes by Thursday, the vessel won't dock until the weekend.",
+    "zh": "除非风暴在周四前过去，否则货船要到周末才能靠港。"
+  },
+  {
+    "en": "I asked for a sample, not a full carton, and they sent a whole case.",
+    "zh": "我要的是样品，不是一整箱，结果他们发了一整箱过来。"
+  },
+  {
+    "en": "Our margin is thin here, maybe 2 percent at best, so every cent counts.",
+    "zh": "我们这里的利润很薄，最多也就2%，所以每一分钱都很重要。"
+  },
+  {
+    "en": "If the label is wrong, the whole batch gets rejected at the border.",
+    "zh": "如果标签有误，整批货在边境都会被拒收。"
+  },
+  {
+    "en": "Seventy-two units were damaged, which is more than last time, sadly.",
+    "zh": "有七十二件受损，遗憾的是，这比上次还多。"
+  },
+  {
+    "en": "I'm not saying the vendor lied; I'm saying the numbers don't match.",
+    "zh": "我不是说供应商撒谎；我是说数字对不上。"
+  },
+  {
+    "en": "Pack it in 5-kilo bags, not 10, because the client insists on smaller sizes.",
+    "zh": "装成5公斤的袋子，不是10公斤的，因为客户坚持要小包装。"
+  },
+  {
+    "en": "The truck is late, the dock is busy, and nobody told the receiver.",
+    "zh": "卡车晚了，码头很忙，而且没人通知收货方。"
+  },
+  {
+    "en": "Would it be cheaper to rent a bigger container than to send two small ones?",
+    "zh": "租一个更大的集装箱会不会比发两个小柜更便宜？"
+  },
+  {
+    "en": "We're short 14 units, and the replacement won't arrive for ten days.",
+    "zh": "我们少了14件，替换货要十天后才能到。"
+  },
+  {
+    "en": "If the exchange rate moves even slightly, this contract turns unprofitable.",
+    "zh": "如果汇率稍有波动，这份合同就会变得无利可图。"
+  },
+  {
+    "en": "I counted 33 cartons, but the system says 35, so something's off.",
+    "zh": "我数了33箱，但系统显示35，所以哪里不对。"
+  },
+  {
+    "en": "Maybe we should air-freight just the critical parts and ship the rest by sea.",
+    "zh": "也许我们应该只把关键部件空运，其余走海运。"
+  },
+  {
+    "en": "The packaging must survive a 1.5-meter drop, or the client rejects it.",
+    "zh": "包装必须能承受1.5米跌落，否则客户会拒收。"
+  },
+  {
+    "en": "Not only is it late, but the invoice also charges us for storage.",
+    "zh": "不仅到得晚，发票上还收了我们仓储费。"
+  },
+  {
+    "en": "I've got 200 square feet of space left, and that's being generous.",
+    "zh": "我还剩200平方英尺的空间，这已经是往多了说的。"
+  },
+  {
+    "en": "Unless they fix the weight discrepancy, we hold payment until it's resolved.",
+    "zh": "除非他们解决重量差异，否则我们暂不付款，直到问题解决。"
+  },
+  {
+    "en": "The first batch was perfect, but this one smells strange, and I can't explain it.",
+    "zh": "第一批货完美无缺，但这一批有股怪味，我也说不清原因。"
+  },
+  {
+    "en": "Do we pay in euros or dollars? The contract isn't clear on that point.",
+    "zh": "我们是用欧元还是美元付款？合同在这一点上不明确。"
+  },
+  {
+    "en": "Forty-eight hours from now, the offer expires, and the price goes back up.",
+    "zh": "从现在起四十八小时后，报价就失效，价格会涨回去。"
+  },
+  {
+    "en": "It's not that we can't afford it; it's that we don't need that much.",
+    "zh": "不是我们买不起；而是我们不需要那么多。"
+  },
+  {
+    "en": "If the seal is broken, refuse the delivery and call me immediately.",
+    "zh": "如果封条破损，就拒收，并立刻给我打电话。"
+  },
+  {
+    "en": "We'll take 250 units now and the remaining 150 in the next quarter.",
+    "zh": "我们现在要250件，剩下的150件下个季度再要。"
+  },
+  {
+    "en": "The crate weighs about 900 pounds, so we'll need a forklift, not a hand truck.",
+    "zh": "这个板条箱大约重900磅，所以我们需要叉车，不是手推车。"
+  },
+  {
+    "en": "We thought the launch would take six weeks, but it's already been two months and we're not even close...",
+    "zh": "我们原以为发布需要六周，但现在已经两个月了，我们还差得远……"
+  },
+  {
+    "en": "If the client doesn't approve the design by Friday, we'll have to push the deadline to the following Tuesday.",
+    "zh": "如果客户在周五之前不批准设计，我们就得把截止日期推迟到下周二。"
+  },
+  {
+    "en": "I'm not sure we can finish the report on time, but I'll ask the team to work overtime if necessary.",
+    "zh": "我不确定我们能不能按时完成报告，但如果有必要，我会让团队加班。"
+  },
+  {
+    "en": "She said the budget was around 15,000 dollars, but the actual cost came to 23,000.",
+    "zh": "她说预算大约是一万五千美元，但实际成本达到了两万三千美元。"
+  },
+  {
+    "en": "Unless we get more resources, we won't be able to meet the March 30th deadline.",
+    "zh": "除非我们获得更多资源，否则我们将无法赶上3月30日的截止日期。"
+  },
+  {
+    "en": "The prototype isn't perfect yet, but it's good enough for a demo next week.",
+    "zh": "原型还不完美，但已经足够下周做演示了。"
+  },
+  {
+    "en": "We've got three major milestones left, and each one takes about ten days...",
+    "zh": "我们还剩下三个主要里程碑，每个大约需要十天……"
+  },
+  {
+    "en": "I thought the meeting was at 2 p.m., but it's actually at 3:30.",
+    "zh": "我以为会议是下午两点，但实际上是三点半。"
+  },
+  {
+    "en": "If it rains tomorrow, we'll move the site visit to Thursday, but if it's clear, we'll stick to Wednesday.",
+    "zh": "如果明天下雨，我们就把实地考察改到周四；但如果天晴，我们就按周三进行。"
+  },
+  {
+    "en": "He hasn't sent the updated schedule yet, so we can't confirm the dates.",
+    "zh": "他还没有发送更新后的日程，所以我们无法确认日期。"
+  },
+  {
+    "en": "The team is confident, though I have some doubts about whether we can deliver by the end of the quarter.",
+    "zh": "团队很有信心，不过我对我们能否在季度末交付有些怀疑。"
+  },
+  {
+    "en": "We need to cut at least 20% of the features if we want to launch in May.",
+    "zh": "如果我们想在五月发布，至少需要削减20%的功能。"
+  },
+  {
+    "en": "Don't worry about the minor bugs; focus on the critical ones that block the release.",
+    "zh": "别担心那些小问题；集中处理那些阻碍发布的关键问题。"
+  },
+  {
+    "en": "The vendor promised delivery in 10 days, but it's been 3 weeks and nothing has arrived.",
+    "zh": "供应商承诺10天内交货，但已经过去3周了，什么都没到。"
+  },
+  {
+    "en": "I'm not saying we should cancel the project, but we might need to rethink the timeline.",
+    "zh": "我不是说我们应该取消项目，但我们可能需要重新考虑时间线。"
+  },
+  {
+    "en": "If you finish your part by noon, I can review it and send it to the client by 5 p.m.",
+    "zh": "如果你在中午前完成你负责的部分，我可以在下午5点前审核并发送给客户。"
+  },
+  {
+    "en": "We're ahead of schedule on design, but behind on testing...",
+    "zh": "我们在设计上提前了，但在测试上落后了……"
+  },
+  {
+    "en": "The client asked for a 2-week extension, but we can only give them 5 days.",
+    "zh": "客户要求延期两周，但我们只能给他们5天。"
+  },
+  {
+    "en": "Unless the server issue is fixed tonight, we'll have to delay the beta launch.",
+    "zh": "除非今晚服务器问题得到解决，否则我们将不得不推迟测试版发布。"
+  },
+  {
+    "en": "She's not available this week, so let's reschedule the kickoff meeting for next Monday.",
+    "zh": "她这周没空，所以我们把启动会议改到下周一吧。"
+  },
+  {
+    "en": "I doubt we can get all the approvals in time, but let's try anyway.",
+    "zh": "我怀疑我们能否及时获得所有批准，但不管怎样还是试试吧。"
+  },
+  {
+    "en": "The first phase took 4 months, and the second phase is expected to take 6 months.",
+    "zh": "第一阶段用了4个月，第二阶段预计需要6个月。"
+  },
+  {
+    "en": "If we don't hear back from them by Wednesday, we'll assume they're not interested.",
+    "zh": "如果周三之前没有收到他们的回复，我们就认为他们不感兴趣。"
+  },
+  {
+    "en": "We have a hard deadline on the 15th, so no excuses.",
+    "zh": "我们在15号有一个硬性截止日期，所以没有借口。"
+  },
+  {
+    "en": "The budget is tight, but we might be able to hire one more developer if we cut travel expenses.",
+    "zh": "预算很紧，但如果我们削减差旅费，也许能再雇一名开发人员。"
+  },
+  {
+    "en": "He said he'd send the files yesterday, but I still haven't received anything...",
+    "zh": "他说昨天会把文件发过来，但我仍然什么都没收到……"
+  },
+  {
+    "en": "We can't start the next sprint until the current one is fully tested and approved.",
+    "zh": "在当前迭代完全测试并通过之前，我们无法开始下一个迭代。"
+  },
+  {
+    "en": "The timeline is unrealistic, but the client won't accept any changes.",
+    "zh": "时间线不现实，但客户不接受任何更改。"
+  },
+  {
+    "en": "If the weather holds, we'll finish the outdoor work by Friday; otherwise, it'll spill into next week.",
+    "zh": "如果天气保持不变，我们将在周五前完成户外工作；否则，就会拖到下周。"
+  },
+  {
+    "en": "I'm not sure if the meeting is still on, but I'll check and let you know.",
+    "zh": "我不确定会议是否还进行，但我会确认一下并告诉你。"
+  },
+  {
+    "en": "The report is due in 3 days, and we've only written 2 of the 10 sections.",
+    "zh": "报告3天后截止，而我们只写了10个部分中的2个。"
+  },
+  {
+    "en": "We need to finalize the scope by tomorrow, or we'll miss the development window.",
+    "zh": "我们需要在明天之前确定范围，否则就会错过开发窗口。"
+  },
+  {
+    "en": "She's confident, but I'm not so sure about the 8-week estimate.",
+    "zh": "她很自信，但我对8周的估计不太确定。"
+  },
+  {
+    "en": "If we can't get the permit, we'll have to find an alternative location, which could add 2 weeks.",
+    "zh": "如果我们拿不到许可证，就得找替代地点，这可能会增加2周时间。"
+  },
+  {
+    "en": "The team is working remotely, so coordination is slower than expected.",
+    "zh": "团队在远程工作，所以协调比预期要慢。"
+  },
+  {
+    "en": "We're not going to make the original deadline, but we can aim for the end of the month.",
+    "zh": "我们赶不上最初的截止日期了，但我们可以争取月底完成。"
+  },
+  {
+    "en": "If you need more time, just ask, but don't miss the final submission.",
+    "zh": "如果你需要更多时间，尽管提，但不要错过最终提交。"
+  },
+  {
+    "en": "The client changed the requirements again, so we have to redo the last 3 days of work.",
+    "zh": "客户又改了需求，所以我们得重做过去3天的工作。"
+  },
+  {
+    "en": "I think we can finish by Thursday, but it depends on whether the test results come back in time.",
+    "zh": "我想我们能在周四前完成，但这取决于测试结果能否及时返回。"
+  },
+  {
+    "en": "We've already spent 40% of the budget, and we're only halfway through.",
+    "zh": "我们已经花掉了40%的预算，而工作才完成一半。"
+  },
+  {
+    "en": "Unless the client signs off today, we'll have to push the launch to next month.",
+    "zh": "除非客户今天签字批准，否则我们将不得不把发布推迟到下个月。"
+  },
+  {
+    "en": "He's not responding to emails, so I'll try calling him later.",
+    "zh": "他不回邮件，所以我稍后试试给他打电话。"
+  },
+  {
+    "en": "The design phase is almost done, but we haven't started development yet...",
+    "zh": "设计阶段快完成了，但我们还没有开始开发……"
+  },
+  {
+    "en": "If we hire two more people, we can probably meet the deadline, but it's not guaranteed.",
+    "zh": "如果我们再雇两个人，可能能赶上截止日期，但不敢保证。"
+  },
+  {
+    "en": "We need to prioritize the critical features and drop the nice-to-haves.",
+    "zh": "我们需要优先处理关键功能，放弃那些锦上添花的功能。"
+  },
+  {
+    "en": "The deadline is firm, but the requirements are still changing.",
+    "zh": "截止日期是固定的，但需求仍在变化。"
+  },
+  {
+    "en": "I'm not sure we have enough testers, but we can ask other teams for help.",
+    "zh": "我不确定我们是否有足够的测试人员，但我们可以向其他团队求助。"
+  },
+  {
+    "en": "If the prototype works, we'll demo it on Friday; if not, we'll postpone.",
+    "zh": "如果原型能运行，我们周五就演示；如果不行，就推迟。"
+  },
+  {
+    "en": "We're 2 days behind, but we can catch up if we work this weekend.",
+    "zh": "我们落后了两天，但如果我们这周末加班，就能赶上来。"
+  },
+  {
+    "en": "The client wants it by the 10th, but we can't promise that...",
+    "zh": "客户希望10号之前完成，但我们无法承诺……"
+  },
+  {
+    "en": "Honestly, I almost turned down the offer because the commute scared me, but then I realized the train ride is only thirty-five minutes, not an hour.",
+    "zh": "说实话，我差点拒绝了这份工作，因为通勤让我害怕，但后来我意识到坐火车只要三十五分钟，而不是一个小时。"
+  },
+  {
+    "en": "If they don't ask about my gap year, I won't bring it up, but I'm not going to lie if they do.",
+    "zh": "如果他们不问我的空档年，我就不会提起，但如果他们问了，我也不会撒谎。"
+  },
+  {
+    "en": "She said the team felt more like a family than a workplace, which sounds nice, but I've heard that before and it usually means long hours.",
+    "zh": "她说这个团队更像一个家庭而不是工作场所，听起来不错，但我以前听过这种话，通常意味着长时间工作。"
+  },
+  {
+    "en": "I'm not sure I want to be a manager yet; I still enjoy building things more than running meetings.",
+    "zh": "我还不确定自己想当经理；比起开会，我仍然更喜欢动手做东西。"
+  },
+  {
+    "en": "They offered me forty-eight thousand, but I was hoping for at least fifty-five, so I asked for a day to think it over.",
+    "zh": "他们给我四万八，但我原本希望至少五万五，所以我要求给我一天时间考虑。"
+  },
+  {
+    "en": "The interviewer kept checking her phone, which made me wonder if the position was already filled.",
+    "zh": "面试官不停地看手机，这让我怀疑这个职位是不是已经有人了。"
+  },
+  {
+    "en": "I don't have a lot of experience with that software, but I'm willing to learn it on my own time if needed.",
+    "zh": "我对那个软件没有太多经验，但如果需要，我愿意用自己的时间学习。"
+  },
+  {
+    "en": "He said the culture was 'fast-paced and demanding,' and I couldn't tell if that was a warning or a brag.",
+    "zh": "他说公司文化是‘快节奏、高要求’，我分不清那是警告还是炫耀。"
+  },
+  {
+    "en": "Unless they can match my current salary, I probably won't switch, even though the new role sounds more interesting.",
+    "zh": "除非他们能匹配我现在的工资，否则我可能不会跳槽，尽管新职位听起来更有趣。"
+  },
+  {
+    "en": "I've been at this company for seven years, and I'm not unhappy, just... restless.",
+    "zh": "我在这家公司七年了，我不是不开心，只是……有点不安分。"
+  },
+  {
+    "en": "The recruiter promised a reply by Friday, but it's Monday and I still haven't heard anything.",
+    "zh": "招聘人员答应周五前回复，但现在已经周一了，我仍然没有收到任何消息。"
+  },
+  {
+    "en": "If I take this job, I'll have to move to a city where I don't know anyone, and that's a big deal for me.",
+    "zh": "如果我接受这份工作，我就得搬到一个我谁也不认识的城市，这对我来说是件大事。"
+  },
+  {
+    "en": "They asked me to describe a time I failed, and I told them about the project that cost us about twelve thousand dollars.",
+    "zh": "他们让我描述一次失败的经历，我讲了那个让我们损失了大约一万二千美元的项目。"
+  },
+  {
+    "en": "I'm not saying I'm the best candidate, but I am saying I'll work harder than anyone else you interview.",
+    "zh": "我不是说我是最好的候选人，但我是说我会比你们面试的任何人更努力。"
+  },
+  {
+    "en": "The job posting said 'competitive salary,' which is vague, so I'm not getting my hopes up too high.",
+    "zh": "招聘启事上写着‘有竞争力的薪资’，这很模糊，所以我不会抱太大希望。"
+  },
+  {
+    "en": "She turned down the promotion because it would have meant relocating to a different country, and her family didn't want to move.",
+    "zh": "她拒绝了那次晋升，因为那意味着要搬到另一个国家，而她的家人不想搬。"
+  },
+  {
+    "en": "I can start in two weeks, but if you need me sooner, I might be able to negotiate with my current employer.",
+    "zh": "我可以在两周后开始，但如果你们需要我更早入职，我也许能跟现在的雇主商量。"
+  },
+  {
+    "en": "The interview panel had five people, which was intimidating, but three of them barely said a word.",
+    "zh": "面试小组有五个人，这很吓人，但其中三个人几乎一句话都没说。"
+  },
+  {
+    "en": "I don't think I bombed the interview, but I also don't think I nailed it.",
+    "zh": "我不觉得我搞砸了面试，但我也不觉得我表现得完美。"
+  },
+  {
+    "en": "He asked why I left my last job, and I said 'philosophical differences,' which is code for my boss was impossible.",
+    "zh": "他问我为什么离开上一份工作，我说‘理念不合’，这是‘我老板让人无法忍受’的暗号。"
+  },
+  {
+    "en": "If the role involves more than twenty percent travel, I'll have to pass, because my kids are still young.",
+    "zh": "如果这个职位需要超过百分之二十的出差，我就得放弃，因为我的孩子还小。"
+  },
+  {
+    "en": "They said they'd get back to me by the end of the week, but it's been ten days and I'm starting to give up.",
+    "zh": "他们说会在周末前回复我，但已经十天了，我开始放弃了。"
+  },
+  {
+    "en": "I'm not afraid of hard work, but I am afraid of working hard on something that doesn't matter.",
+    "zh": "我不怕努力工作，但我怕的是在无关紧要的事情上努力。"
+  },
+  {
+    "en": "The salary is lower than I expected, but the benefits include fully paid health insurance and four weeks of vacation.",
+    "zh": "工资比我预期的低，但福利包括全额支付的健康保险和四周假期。"
+  },
+  {
+    "en": "I asked about the team's turnover rate, and the interviewer changed the subject, which told me everything I needed to know.",
+    "zh": "我问了团队的离职率，面试官转移了话题，这告诉了我所有我需要知道的事。"
+  },
+  {
+    "en": "Unless I hear back by Wednesday, I'm going to accept the other offer, even though it's less exciting.",
+    "zh": "除非我在周三前收到回复，否则我将接受另一个offer，尽管它没那么令人兴奋。"
+  },
+  {
+    "en": "She's not sure if she wants to go back to school or keep working, so she's doing both part-time for now.",
+    "zh": "她不确定是想回学校还是继续工作，所以目前她两者都兼着做。"
+  },
+  {
+    "en": "The interviewer asked me to solve a problem on the whiteboard, but I froze and couldn't even remember the basics.",
+    "zh": "面试官让我在白板上解决一个问题，但我愣住了，连基础都记不起来。"
+  },
+  {
+    "en": "I've been offered a position with a startup, but the pay is uncertain and I have a mortgage to pay.",
+    "zh": "我收到了一家初创公司的职位邀请，但薪酬不确定，而我还有房贷要还。"
+  },
+  {
+    "en": "They said the hours are flexible, but in practice everyone seems to stay until at least seven every night.",
+    "zh": "他们说工作时间灵活，但实际上每个人似乎都至少待到晚上七点。"
+  },
+  {
+    "en": "I don't want to sound arrogant, but I think I'm overqualified for this role, and I'm worried I'll get bored.",
+    "zh": "我不想显得傲慢，但我认为我对此职位资历过高，我担心我会感到无聊。"
+  },
+  {
+    "en": "If they offer me the job, I'll probably take it, unless the commute is more than an hour each way.",
+    "zh": "如果他们给我这份工作，我可能会接受，除非单程通勤超过一小时。"
+  },
+  {
+    "en": "He's been unemployed for eight months, and he's starting to wonder if he should switch industries entirely.",
+    "zh": "他已经失业八个月了，他开始怀疑自己是否应该彻底转行。"
+  },
+  {
+    "en": "The company culture seems great, but I've been burned before by places that talk a big game.",
+    "zh": "公司文化看起来很棒，但我以前被那些说大话的地方坑过。"
+  },
+  {
+    "en": "I'm not sure I'm ready for a leadership role, but I also don't want to stay in the same position forever.",
+    "zh": "我不确定自己是否准备好担任领导角色，但我也不想永远待在同一个职位上。"
+  },
+  {
+    "en": "They asked for my salary history, which I think is unfair, so I gave them a range instead.",
+    "zh": "他们要求我提供薪资历史，我觉得这不公平，所以我给了他们一个范围。"
+  },
+  {
+    "en": "If the job requires me to relocate, I'll need at least three months to sort out my affairs here.",
+    "zh": "如果这份工作需要我搬迁，我至少需要三个月来处理这里的事务。"
+  },
+  {
+    "en": "The interview went well, but I haven't heard back, and now I'm second-guessing everything I said.",
+    "zh": "面试进行得很顺利，但我还没有收到回复，现在我在反复质疑自己说过的每一句话。"
+  },
+  {
+    "en": "She's torn between a stable job with a big company and a risky one with a small startup.",
+    "zh": "她在大公司的稳定工作和小公司的风险工作之间左右为难。"
+  },
+  {
+    "en": "I don't have the exact numbers, but I think the bonus was around five thousand last year.",
+    "zh": "我没有确切的数字，但我记得去年的奖金大约五千。"
+  },
+  {
+    "en": "They said they value work-life balance, but the interviewer emailed me at eleven at night.",
+    "zh": "他们说重视工作与生活的平衡，但面试官在晚上十一点给我发了邮件。"
+  },
+  {
+    "en": "I'm not going to accept a counteroffer from my current employer, because I've already mentally moved on.",
+    "zh": "我不会接受现在雇主的还价，因为我已经在心理上离开了。"
+  },
+  {
+    "en": "If they can't meet my salary requirement, I'm fine walking away, even though I really like the team.",
+    "zh": "如果他们不能满足我的薪资要求，我不介意放弃，尽管我真的很喜欢这个团队。"
+  },
+  {
+    "en": "The job description mentioned 'other duties as assigned,' which usually means you'll be doing everything.",
+    "zh": "职位描述里提到了‘其他指派的职责’，这通常意味着你什么都要做。"
+  },
+  {
+    "en": "I was nervous during the interview, but I think I answered the questions honestly, and that's what matters.",
+    "zh": "面试时我很紧张，但我认为我诚实地回答了问题，这才是最重要的。"
+  },
+  {
+    "en": "He's not sure if he should take the job offer, because it's a step down in title but a step up in pay.",
+    "zh": "他不确定是否应该接受这份工作邀请，因为职位降了但薪水涨了。"
+  },
+  {
+    "en": "They promised a decision by Monday, but it's Tuesday, and I'm not holding my breath anymore.",
+    "zh": "他们承诺周一前给决定，但已经周二了，我不再屏息以待了。"
+  },
+  {
+    "en": "I don't want to seem desperate, but I really need this job, so I'm trying to play it cool.",
+    "zh": "我不想显得绝望，但我真的很需要这份工作，所以我在努力保持冷静。"
+  },
+  {
+    "en": "The offer is for sixty-two thousand, which is less than I made at my last job, but the cost of living here is lower.",
+    "zh": "offer是六万二，比我上一份工作挣得少，但这里的生活成本更低。"
+  },
+  {
+    "en": "She asked for feedback after the rejection, and they actually told her she was 'too experienced,' which made no sense.",
+    "zh": "被拒后她要求反馈，他们居然说她‘经验太丰富’，这毫无道理。"
+  },
+  {
+    "en": "I'm not sure if I want to work remotely forever, but for now, it's the only way I can balance everything.",
+    "zh": "我不确定是否想永远远程工作，但就目前而言，这是我平衡一切的唯一方式。"
+  },
+  {
+    "en": "The glacier has retreated almost two kilometers since 1990, though the rate slowed a bit last year.",
+    "zh": "自1990年以来，这座冰川已经退缩了近两公里，不过去年的退缩速度略有放缓。"
+  },
+  {
+    "en": "If we don't cut emissions by 45 percent this decade, the window to limit warming to 1.5 degrees will close.",
+    "zh": "如果我们不在这个十年内将排放量削减45%，那么将升温控制在1.5度以内的窗口就会关闭。"
+  },
+  {
+    "en": "I'm not sure the coral can recover; bleaching events are happening every three years now instead of every ten.",
+    "zh": "我不确定珊瑚能否恢复；现在白化事件每三年就发生一次，而不是每十年一次。"
+  },
+  {
+    "en": "The reforestation project has planted over 200,000 native trees, but the survival rate is only about 60 percent.",
+    "zh": "这个再造林项目已经种植了超过20万棵本地树木，但成活率只有大约60%。"
+  },
+  {
+    "en": "We might see more extreme rainfall events, even though the total annual precipitation could stay the same.",
+    "zh": "我们可能会看到更多极端降雨事件，尽管年总降水量可能保持不变。"
+  },
+  {
+    "en": "Solar farms are not just about clean energy; they can also provide shade that helps crops in dry regions.",
+    "zh": "太阳能农场不仅仅关乎清洁能源；它们还能提供遮荫，帮助干旱地区的农作物。"
+  },
+  {
+    "en": "The sea level is rising faster than we thought, but the exact rate depends on how quickly ice sheets melt.",
+    "zh": "海平面上升的速度比我们想象的要快，但确切的速度取决于冰盖融化的快慢。"
+  },
+  {
+    "en": "Unless we restore the wetlands, the next hurricane could cause even more flooding than the last one.",
+    "zh": "除非我们恢复湿地，否则下一次飓风可能比上一次造成更严重的洪水。"
+  },
+  {
+    "en": "That's not a solution—it's just shifting the problem from the air to the water.",
+    "zh": "那不是解决方案——只是把问题从空气转移到水里。"
+  },
+  {
+    "en": "Three hundred parts per million was the safe level; now we're over 420 and still climbing.",
+    "zh": "百万分之三百曾是安全水平；现在我们超过了420，而且还在攀升。"
+  },
+  {
+    "en": "The heat wave lasted 14 days, breaking the previous record of 9 days set in 2012.",
+    "zh": "这次热浪持续了14天，打破了2012年创下的9天纪录。"
+  },
+  {
+    "en": "If the permafrost thaws, it will release methane, which is about 25 times more potent than carbon dioxide over a century.",
+    "zh": "如果永久冻土融化，就会释放甲烷，而甲烷在百年尺度上的温室效应约是二氧化碳的25倍。"
+  },
+  {
+    "en": "Some farmers are switching to drought-resistant crops, but not everyone can afford the seeds.",
+    "zh": "一些农民正在改种抗旱作物，但不是所有人都买得起这些种子。"
+  },
+  {
+    "en": "We've got maybe 30 years of topsoil left if we keep farming this way... and that's optimistic.",
+    "zh": "如果我们继续这样耕作，可能只剩30年的表土了……这还是乐观的估计。"
+  },
+  {
+    "en": "The government promised to phase out coal by 2030, but they haven't released a detailed plan yet.",
+    "zh": "政府承诺到2030年逐步淘汰煤炭，但尚未公布详细计划。"
+  },
+  {
+    "en": "It's not that the technology doesn't exist; it's that the political will is missing.",
+    "zh": "不是技术不存在，而是缺乏政治意愿。"
+  },
+  {
+    "en": "Wind turbines kill fewer birds than cats do, yet people worry more about the turbines.",
+    "zh": "风力涡轮机杀死的鸟比猫少，但人们更担心涡轮机。"
+  },
+  {
+    "en": "The river used to freeze every winter, but it hasn't frozen solid since 1998.",
+    "zh": "这条河过去每年冬天都结冰，但自1998年以来就没有完全冻实过。"
+  },
+  {
+    "en": "If we plant trees in the wrong places, we could actually make the water shortage worse.",
+    "zh": "如果我们在错误的地方种树，实际上可能会加剧水资源短缺。"
+  },
+  {
+    "en": "The ocean absorbs about 30 percent of the carbon dioxide we emit, but that makes it more acidic.",
+    "zh": "海洋吸收了约30%的二氧化碳排放，但这使其酸性更强。"
+  },
+  {
+    "en": "I doubt the summit will produce a binding agreement; it's more likely to be another voluntary pledge.",
+    "zh": "我怀疑这次峰会不会产生有约束力的协议；更可能是另一项自愿承诺。"
+  },
+  {
+    "en": "The wildfire burned 50,000 hectares, which is twice the size of the previous largest fire.",
+    "zh": "这场野火烧毁了5万公顷，是之前最大火灾面积的两倍。"
+  },
+  {
+    "en": "We can't just adapt our way out of this; at some point, mitigation is unavoidable.",
+    "zh": "我们不能只靠适应来解决这个问题；到了某个时候，减缓是不可避免的。"
+  },
+  {
+    "en": "The city installed cool roofs on 200 buildings, lowering indoor temperatures by up to 5 degrees Celsius.",
+    "zh": "该市在200栋建筑上安装了凉爽屋顶，使室内温度降低了多达5摄氏度。"
+  },
+  {
+    "en": "Not all renewable energy is harmless—large hydroelectric dams can displace communities and harm fish.",
+    "zh": "并非所有可再生能源都无害——大型水电站可能使社区流离失所并危害鱼类。"
+  },
+  {
+    "en": "If the monsoon fails again this year, the crop yields could drop by 40 percent.",
+    "zh": "如果今年季风再次失败，作物产量可能下降40%。"
+  },
+  {
+    "en": "The ice core data shows CO2 levels are higher now than at any point in the last 800,000 years.",
+    "zh": "冰芯数据显示，现在的二氧化碳水平比过去80万年中的任何时候都高。"
+  },
+  {
+    "en": "Maybe we should focus on reducing food waste; about one-third of all food produced is never eaten.",
+    "zh": "也许我们应该专注于减少食物浪费；生产的食物中约有三分之一从未被食用。"
+  },
+  {
+    "en": "The polar bear population has declined by 40 percent in the southern Beaufort Sea since 2001.",
+    "zh": "自2001年以来，南波弗特海的北极熊数量下降了40%。"
+  },
+  {
+    "en": "Unless we protect the mangroves, coastal communities will be more vulnerable to storm surges.",
+    "zh": "除非我们保护红树林，否则沿海社区将更容易受到风暴潮的侵袭。"
+  },
+  {
+    "en": "That's a feedback loop we can't control—warming causes more warming.",
+    "zh": "那是一个我们无法控制的反馈循环——变暖导致更多变暖。"
+  },
+  {
+    "en": "The electric bus fleet has grown from 50 to 1,200 vehicles in just five years.",
+    "zh": "电动公交车队仅在五年内就从50辆增长到1200辆。"
+  },
+  {
+    "en": "It's not a matter of if, but when the next pandemic will emerge from deforestation.",
+    "zh": "这不是会不会的问题，而是下一次大流行何时会从森林砍伐中出现。"
+  },
+  {
+    "en": "We could use satellite data to monitor illegal logging, but enforcement on the ground is still weak.",
+    "zh": "我们可以利用卫星数据监测非法采伐，但实地执法仍然薄弱。"
+  },
+  {
+    "en": "The drought has lasted for three years, and reservoirs are at 20 percent capacity.",
+    "zh": "干旱已经持续了三年，水库容量只剩20%。"
+  },
+  {
+    "en": "If you think recycling is enough, you're ignoring the fact that most plastic ends up in landfills.",
+    "zh": "如果你认为回收就够了，那你就忽略了大多数塑料最终进入垃圾填埋场的事实。"
+  },
+  {
+    "en": "The wind farm generates enough electricity for 50,000 homes, but not when the wind doesn't blow.",
+    "zh": "这个风电场足以为5万户家庭供电，但无风时就不行。"
+  },
+  {
+    "en": "I'm not convinced that carbon capture is scalable; it's still very expensive and energy-intensive.",
+    "zh": "我不相信碳捕获是可扩展的；它仍然非常昂贵且能耗高。"
+  },
+  {
+    "en": "The national park has lost 15 percent of its forest cover to illegal logging in the past decade.",
+    "zh": "在过去十年中，国家公园因非法采伐失去了15%的森林覆盖。"
+  },
+  {
+    "en": "If we don't act now, the cost of climate adaptation will double by 2050.",
+    "zh": "如果我们现在不采取行动，到2050年气候适应的成本将翻倍。"
+  },
+  {
+    "en": "That's a 2-degree target... but we're currently on track for 3 degrees or more.",
+    "zh": "那是2度的目标……但我们目前正朝着3度或更高的方向前进。"
+  },
+  {
+    "en": "The beetle infestation has killed more trees than the wildfire did last year.",
+    "zh": "甲虫侵扰杀死的树木比去年野火烧死的还多。"
+  },
+  {
+    "en": "We need to cut methane emissions by 30 percent by 2030 to have a chance.",
+    "zh": "我们需要到2030年将甲烷排放量削减30%才有机会。"
+  },
+  {
+    "en": "The desalination plant provides water for 1 million people, but it uses a lot of energy.",
+    "zh": "这个海水淡化厂为100万人供水，但能耗很大。"
+  },
+  {
+    "en": "If the coral reefs die, we lose a quarter of all marine species that depend on them.",
+    "zh": "如果珊瑚礁死亡，我们将失去依赖它们生存的所有海洋物种的四分之一。"
+  },
+  {
+    "en": "Not everyone agrees on the timeline, but the direction is clear: we must decarbonize.",
+    "zh": "并非所有人都同意时间表，但方向是明确的：我们必须脱碳。"
+  },
+  {
+    "en": "The heat index reached 54 degrees Celsius in the city last summer, a new record.",
+    "zh": "去年夏天该市的热指数达到了54摄氏度，创下新纪录。"
+  },
+  {
+    "en": "We might be able to restore the peatlands, but it will take decades and a lot of money.",
+    "zh": "我们也许能够恢复泥炭地，但这需要几十年和大量资金。"
+  },
+  {
+    "en": "The climate refugee crisis is not a future problem; it's happening right now.",
+    "zh": "气候难民危机不是未来的问题；它正在发生。"
+  },
+  {
+    "en": "If we plant 1 trillion trees, we could absorb about 200 gigatons of carbon... in theory.",
+    "zh": "如果我们种植1万亿棵树，就能吸收约2000亿吨碳……理论上如此。"
+  },
+  {
+    "en": "The bus was supposed to arrive at 8:15, but it didn't show up until nearly nine, so I missed my connection.",
+    "zh": "公交车本应8点15分到，但直到快九点才来，所以我错过了换乘。"
+  },
+  {
+    "en": "If the city adds more bike lanes, fewer people might drive short distances, though I'm not sure everyone will switch.",
+    "zh": "如果城市增加更多自行车道，开车短途出行的人可能会减少，不过我不确定所有人都会改变习惯。"
+  },
+  {
+    "en": "They said the new subway line would cut my commute by twenty minutes, but it actually takes longer because of all the transfers.",
+    "zh": "他们说新地铁线会让我的通勤时间减少二十分钟，但实际上因为换乘太多，反而更久了。"
+  },
+  {
+    "en": "We need to widen this road, or traffic will keep getting worse... but where will the pedestrians go?",
+    "zh": "我们需要拓宽这条路，否则交通会越来越糟……但行人该往哪儿走呢？"
+  },
+  {
+    "en": "The train was delayed by 45 minutes due to signal problems, and no one told us why until we were already on board.",
+    "zh": "火车因信号故障晚点了45分钟，直到我们上车后才有人告诉我们原因。"
+  },
+  {
+    "en": "Not every neighborhood needs a parking garage; some could use a small park instead, don't you think?",
+    "zh": "不是每个社区都需要停车楼；有些地方不如建个小公园，你不觉得吗？"
+  },
+  {
+    "en": "I usually take the 7:30 ferry, but if I miss it, the next one isn't until 9:00, which makes me late for work.",
+    "zh": "我通常坐7点半的渡轮，但如果错过了，下一班要到9点，这让我上班迟到。"
+  },
+  {
+    "en": "The council approved the new tram route, but they haven't decided how many stops it will have or where exactly they'll be.",
+    "zh": "市议会批准了新有轨电车路线，但他们还没决定设多少站，也没定具体位置。"
+  },
+  {
+    "en": "If we don't fix the potholes soon, someone's car will get damaged, and the city will have to pay for it.",
+    "zh": "如果我们不尽快修补这些坑洞，某人的车会受损，市政府就得赔偿。"
+  },
+  {
+    "en": "The airport shuttle runs every 30 minutes, except on Sundays when it only comes once an hour.",
+    "zh": "机场班车每30分钟一班，但周日除外，那时每小时才一班。"
+  },
+  {
+    "en": "I'm not sure the new roundabout will reduce accidents; it might just confuse drivers who aren't used to it.",
+    "zh": "我不确定新环岛能否减少事故；它可能只会让不习惯的司机更糊涂。"
+  },
+  {
+    "en": "They're planning to remove two car lanes to build a bus rapid transit corridor, which should speed up buses but slow down cars.",
+    "zh": "他们计划拆除两条车道来建快速公交走廊，这应该会加快公交速度，但会减慢汽车速度。"
+  },
+  {
+    "en": "The pedestrian crossing needs better lighting; it's really dangerous at night because drivers can't see people until it's too late.",
+    "zh": "人行横道需要更好的照明；晚上真的很危险，因为司机看到人时已经太晚了。"
+  },
+  {
+    "en": "If the fare goes up again, I might just walk or cycle instead, even though it's a 40-minute trip each way.",
+    "zh": "如果票价再涨，我可能干脆走路或骑车，尽管单程要40分钟。"
+  },
+  {
+    "en": "The bridge is closed for repairs until next month, so we have to take a detour that adds about 15 kilometers to the trip.",
+    "zh": "大桥因维修关闭到下个月，所以我们得绕道，多走大约15公里。"
+  },
+  {
+    "en": "Not only is the station not wheelchair accessible, but the elevators have been broken for weeks and nobody's fixing them.",
+    "zh": "不仅车站没有轮椅通道，而且电梯坏了好几周也没人修。"
+  },
+  {
+    "en": "We could either build a new parking lot or encourage carpooling... but the latter requires people to change their habits.",
+    "zh": "我们要么建新停车场，要么鼓励拼车……但后者需要人们改变习惯。"
+  },
+  {
+    "en": "The city says they'll add 10 kilometers of protected bike lanes by next year, but I'll believe it when I see it.",
+    "zh": "市政府说他们明年会新增10公里受保护的自行车道，但我亲眼看到才会相信。"
+  },
+  {
+    "en": "If you're not in a hurry, the scenic route along the river is much nicer, though it takes about 20 minutes longer.",
+    "zh": "如果你不赶时间，沿河风景路线要漂亮得多，虽然要多花大约20分钟。"
+  },
+  {
+    "en": "The bus driver was very rude when I asked why we were stopped, but it turned out there was an accident ahead.",
+    "zh": "我问为什么停车时，公交司机非常粗鲁，但后来发现前面发生了事故。"
+  },
+  {
+    "en": "They've reduced the speed limit to 30 km/h in residential areas, but many drivers still go 50 or more.",
+    "zh": "他们把住宅区的限速降到30公里/小时，但许多司机仍然开到50甚至更快。"
+  },
+  {
+    "en": "I don't think adding more lanes will solve congestion; it just encourages more people to drive, which makes it worse.",
+    "zh": "我认为增加车道不会解决拥堵；这只会鼓励更多人开车，反而更糟。"
+  },
+  {
+    "en": "The new train station is supposed to open in 2025, but construction hasn't even started yet, so who knows?",
+    "zh": "新火车站本应在2025年开放，但施工还没开始，所以谁知道呢？"
+  },
+  {
+    "en": "If the weather is bad, the ferry might be canceled, and then you'd have to take the long way around by bus.",
+    "zh": "如果天气不好，渡轮可能会取消，那你就得坐公交绕远路。"
+  },
+  {
+    "en": "The city installed new traffic lights at that intersection, but they seem to be timed poorly, causing more backups than before.",
+    "zh": "市政府在那个路口安装了新红绿灯，但配时似乎很差，导致比之前更堵。"
+  },
+  {
+    "en": "Not all pedestrians obey the signals, and not all drivers yield, so it's a constant battle at that crossing.",
+    "zh": "不是所有行人都遵守信号灯，也不是所有司机都让行，所以那个路口总是冲突不断。"
+  },
+  {
+    "en": "We need to invest in public transit, or the roads will be gridlocked... but where will the money come from?",
+    "zh": "我们需要投资公共交通，否则道路会堵死……但钱从哪儿来呢？"
+  },
+  {
+    "en": "The taxi ride from the airport to downtown costs about 45 dollars, while the train is only 10, but it takes twice as long.",
+    "zh": "从机场到市中心的出租车费大约45美元，而火车只要10美元，但耗时是两倍。"
+  },
+  {
+    "en": "If they remove the parking minimums, developers might build more housing instead of garages, which could help with the shortage.",
+    "zh": "如果他们取消最低停车位要求，开发商可能会建更多住房而不是车库，这可能有助于缓解住房短缺。"
+  },
+  {
+    "en": "I've been waiting for the bus for 25 minutes, and three have passed going the other way, but none in my direction.",
+    "zh": "我等公交已经25分钟了，反方向过了三辆，但我这个方向一辆都没有。"
+  },
+  {
+    "en": "The city's new bike-share program is popular, but the bikes are often broken or missing, so it's unreliable.",
+    "zh": "城市的新共享单车项目很受欢迎，但单车经常损坏或丢失，所以不太可靠。"
+  },
+  {
+    "en": "Unless we build more affordable housing near transit, low-income workers will be forced to commute long distances.",
+    "zh": "除非我们在公交附近建更多经济适用房，否则低收入工人将被迫长距离通勤。"
+  },
+  {
+    "en": "The road is closed for a marathon this Sunday, so buses will be rerouted, and some stops will be temporarily moved.",
+    "zh": "这条路本周日因马拉松封闭，所以公交将改道，部分站点会临时迁移。"
+  },
+  {
+    "en": "I'm not convinced that self-driving cars will reduce traffic; they might just add more vehicles to the road.",
+    "zh": "我不相信自动驾驶汽车能减少交通拥堵；它们可能只会增加路上的车辆。"
+  },
+  {
+    "en": "If the train is crowded, I sometimes wait for the next one, but that can mean another 15 minutes on the platform.",
+    "zh": "如果火车太挤，我有时会等下一班，但这可能意味着在站台上再等15分钟。"
+  },
+  {
+    "en": "The city wants to encourage cycling, but they haven't provided secure parking, so people are afraid to leave their bikes.",
+    "zh": "市政府想鼓励骑行，但没有提供安全的停车处，所以人们不敢把自行车留在外面。"
+  },
+  {
+    "en": "Not only did the bus skip my stop, but the driver also ignored me when I waved, so I had to walk 2 kilometers home.",
+    "zh": "公交车不仅没停我这一站，我挥手时司机也不理，所以我只好走了2公里回家。"
+  },
+  {
+    "en": "We could either expand the highway or invest in high-speed rail... but both are expensive and take years.",
+    "zh": "我们要么扩建高速公路，要么投资高铁……但两者都很贵，而且需要多年。"
+  },
+  {
+    "en": "The new toll road is supposed to reduce congestion on the old road, but many drivers avoid it because of the high fees.",
+    "zh": "新收费公路本应减少旧路的拥堵，但许多司机因为费用高而避开它。"
+  },
+  {
+    "en": "If you buy a monthly pass, it costs 80 dollars, but if you pay per ride, it adds up to over 120.",
+    "zh": "如果买月票，要80美元，但如果按次付费，总计会超过120美元。"
+  },
+  {
+    "en": "The city is testing a new app that shows real-time bus locations, but it's often inaccurate, so people still rely on schedules.",
+    "zh": "市政府正在测试一个显示实时公交位置的新应用，但它经常不准确，所以人们还是依赖时刻表。"
+  },
+  {
+    "en": "I don't mind taking the train, but the Wi-Fi never works, so I can't get any work done during the trip.",
+    "zh": "我不介意坐火车，但Wi-Fi从来不好用，所以旅途中我无法完成任何工作。"
+  },
+  {
+    "en": "Unless the city fixes the sidewalks, people in wheelchairs will continue to use the road, which is very dangerous.",
+    "zh": "除非市政府修好人行道，否则坐轮椅的人会继续走车道，这非常危险。"
+  },
+  {
+    "en": "The bus was so packed that I couldn't get on, and the next one was 20 minutes later, so I was late for my appointment.",
+    "zh": "公交车太挤了，我上不去，下一班要20分钟后，所以我约会迟到了。"
+  },
+  {
+    "en": "They're considering a congestion charge for downtown, but many small business owners worry it will drive customers away.",
+    "zh": "他们正在考虑对市中心征收拥堵费，但许多小企业主担心这会赶走顾客。"
+  },
+  {
+    "en": "If the bridge toll increases again, I'll have to find another route, even if it takes 30 minutes longer.",
+    "zh": "如果过桥费再涨，我就得找另一条路，即使要多花30分钟。"
+  },
+  {
+    "en": "The new light rail line is great, but it doesn't run late at night, so people who work evenings can't use it.",
+    "zh": "新轻轨线很棒，但晚上不运行，所以上晚班的人用不了。"
+  },
+  {
+    "en": "Not everyone can afford a car, so we need reliable public transit... but the buses are often late and overcrowded.",
+    "zh": "不是每个人都买得起车，所以我们需要可靠的公共交通……但公交车经常晚点又拥挤。"
+  },
+  {
+    "en": "The city installed speed bumps on our street to slow traffic, but now ambulances take longer to get through.",
+    "zh": "市政府在我们街上装了减速带以减缓车速，但现在救护车通过的时间更长了。"
+  },
+  {
+    "en": "If we don't maintain the roads, they'll deteriorate further, and repairs will cost twice as much later.",
+    "zh": "如果我们不养护道路，它们会进一步恶化，以后维修费用会翻倍。"
+  },
+  {
+    "en": "I thought the meeting was at nine, but it's actually at ten thirty, so we still have time.",
+    "zh": "我以为会议是九点，但实际上是十点半，所以我们还有时间。"
+  },
+  {
+    "en": "She didn't say she was upset, but she kept checking her phone, which made me wonder.",
+    "zh": "她没有说她生气，但她一直看手机，这让我有点疑惑。"
+  },
+  {
+    "en": "If you don't mind waiting a few minutes, I can ask the manager to come over.",
+    "zh": "如果你不介意等几分钟，我可以请经理过来。"
+  },
+  {
+    "en": "We might not finish today, but we should at least get the first half done.",
+    "zh": "我们今天可能完不成，但至少应该把前半部分做完。"
+  },
+  {
+    "en": "The train leaves at 6:45, not 7:15, so don't be late.",
+    "zh": "火车是6点45分出发，不是7点15分，所以别迟到。"
+  },
+  {
+    "en": "I'm not sure whether he meant it as a joke or as a warning.",
+    "zh": "我不确定他是当玩笑说的，还是当警告说的。"
+  },
+  {
+    "en": "Could you speak a little slower, please? I'm still learning Chinese.",
+    "zh": "你能说慢一点吗？我还在学中文。"
+  },
+  {
+    "en": "If it rains tomorrow, we'll move the picnic to the community center instead.",
+    "zh": "如果明天下雨，我们就把野餐改到社区中心。"
+  },
+  {
+    "en": "He said he would call back in ten minutes, but it's been almost an hour.",
+    "zh": "他说十分钟后回电话，但已经快一个小时了。"
+  },
+  {
+    "en": "I don't think that's what she meant; maybe she was just tired.",
+    "zh": "我觉得她不是那个意思；也许她只是累了。"
+  },
+  {
+    "en": "You can take the bus, or you can walk if you prefer, but it's about 2 kilometers.",
+    "zh": "你可以坐公交车，或者如果你愿意也可以走路，但大约有两公里。"
+  },
+  {
+    "en": "We need three more chairs, not two, because another guest is coming.",
+    "zh": "我们还需要三把椅子，不是两把，因为还有一位客人要来。"
+  },
+  {
+    "en": "I was going to say something, but then I realized it wasn't my place.",
+    "zh": "我本来想说点什么，但后来意识到那不该我插嘴。"
+  },
+  {
+    "en": "If you're not sure, just ask; it's better than guessing.",
+    "zh": "如果你不确定，就直接问；那比猜要好。"
+  },
+  {
+    "en": "She didn't answer right away, which made everyone a little nervous.",
+    "zh": "她没有马上回答，这让大家都有些紧张。"
+  },
+  {
+    "en": "The package should arrive by Friday, but it might be delayed because of the weather.",
+    "zh": "包裹应该在周五前到，但可能因为天气而延误。"
+  },
+  {
+    "en": "I can't tell if he's being polite or if he really wants to help.",
+    "zh": "我说不清他是在客气，还是真的想帮忙。"
+  },
+  {
+    "en": "Unless we leave now, we won't make it before the store closes.",
+    "zh": "除非我们现在就走，否则赶不上商店关门前到。"
+  },
+  {
+    "en": "That's not exactly what I ordered, but I'll eat it anyway.",
+    "zh": "那不完全是我点的，但我就这样吃吧。"
+  },
+  {
+    "en": "He asked me to wait outside for five minutes, but I ended up waiting for twenty.",
+    "zh": "他让我在外面等五分钟，结果我等了二十分钟。"
+  },
+  {
+    "en": "If she calls while I'm out, tell her I'll be back around 4 p.m.",
+    "zh": "如果我不在时她打电话来，告诉她我下午4点左右回来。"
+  },
+  {
+    "en": "I don't have enough cash, so can I pay by card?",
+    "zh": "我现金不够，所以可以刷卡吗？"
+  },
+  {
+    "en": "It's not that I don't want to go; it's just that I'm really busy this week.",
+    "zh": "不是我不想去；只是我这周真的很忙。"
+  },
+  {
+    "en": "We could meet at the café near the station, unless you'd rather meet somewhere else.",
+    "zh": "我们可以在地铁站附近的咖啡馆见面，除非你更想在其他地方见。"
+  },
+  {
+    "en": "The instructions say to press the red button twice, not once.",
+    "zh": "说明上说按红色按钮两次，不是一次。"
+  },
+  {
+    "en": "I'm not sure if this is the right platform; let me check the sign again.",
+    "zh": "我不确定这是不是正确的站台；让我再看一下指示牌。"
+  },
+  {
+    "en": "If you don't understand, just nod and smile, and I'll explain later.",
+    "zh": "如果你听不懂，就点头微笑，我稍后再解释。"
+  },
+  {
+    "en": "He didn't say goodbye, which I thought was a bit strange.",
+    "zh": "他没有说再见，我觉得有点奇怪。"
+  },
+  {
+    "en": "We have about 15 minutes before the next train, so let's grab a coffee.",
+    "zh": "离下一班火车大约还有15分钟，所以我们去喝杯咖啡吧。"
+  },
+  {
+    "en": "I might have left my umbrella on the bus, but I'm not sure.",
+    "zh": "我可能把伞落在公交车上了，但我不确定。"
+  },
+  {
+    "en": "If it's not too much trouble, could you send me the address again?",
+    "zh": "如果不太麻烦的话，你能再把地址发给我吗？"
+  },
+  {
+    "en": "She said she'd be here by 8, but she's usually a little late.",
+    "zh": "她说她8点前到，但她通常会晚一点。"
+  },
+  {
+    "en": "I don't want to interrupt, but we're running out of time.",
+    "zh": "我不想打断，但我们时间不多了。"
+  },
+  {
+    "en": "You should take the medicine after meals, not before, unless the doctor says otherwise.",
+    "zh": "你应该饭后吃药，不是饭前，除非医生另有说明。"
+  },
+  {
+    "en": "I thought the movie started at 7, but it actually starts at 7:30.",
+    "zh": "我以为电影7点开始，但实际上是7点半开始。"
+  },
+  {
+    "en": "If he doesn't reply by tomorrow, we'll have to assume he's not coming.",
+    "zh": "如果他明天之前不回复，我们就只能认为他不来了。"
+  },
+  {
+    "en": "I can't decide whether to take the job or stay where I am.",
+    "zh": "我无法决定是接受这份工作还是留在原地。"
+  },
+  {
+    "en": "The sign says the museum is closed on Mondays, not Sundays.",
+    "zh": "牌子上说博物馆周一闭馆，不是周日。"
+  },
+  {
+    "en": "She didn't mean to be rude; she was just in a hurry.",
+    "zh": "她不是故意无礼；她只是赶时间。"
+  },
+  {
+    "en": "If you want to improve, you have to practice every day, even if it's only for 10 minutes.",
+    "zh": "如果你想提高，就必须每天练习，哪怕只有10分钟。"
+  },
+  {
+    "en": "I'm not sure... maybe we should ask someone else.",
+    "zh": "我不确定……也许我们应该问问别人。"
+  },
+  {
+    "en": "Two coffees, please. No sugar.",
+    "zh": "请来两杯咖啡。不加糖。"
+  },
+  {
+    "en": "Wait, what did you say?",
+    "zh": "等等，你说什么？"
+  },
+  {
+    "en": "If only I had known...",
+    "zh": "要是我早知道就好了……"
+  },
+  {
+    "en": "Not now, maybe later.",
+    "zh": "现在不行，也许晚点吧。"
+  },
+  {
+    "en": "Three tickets, please. For tomorrow.",
+    "zh": "请给我三张票。明天的。"
+  },
+  {
+    "en": "I don't think so... but I could be wrong.",
+    "zh": "我不这么认为……但也可能我错了。"
+  },
+  {
+    "en": "A little bit more, please.",
+    "zh": "请再来一点点。"
+  },
+  {
+    "en": "She's not coming, is she?",
+    "zh": "她不来，是吗？"
+  },
+  {
+    "en": "Five minutes, no more.",
+    "zh": "五分钟，不能再多了。"
+  },
+  {
+    "en": "The old fisherman said the river was too low for the boat, so we waited until morning.",
+    "zh": "老渔夫说河水太浅，船过不去，所以我们等到早上。"
+  },
+  {
+    "en": "If you don't water the plants, they won't bloom, and the garden will look dull.",
+    "zh": "如果你不浇水，植物就不会开花，花园也会显得沉闷。"
+  },
+  {
+    "en": "She whispered a story about a fox who could talk, but only when no one was listening.",
+    "zh": "她低声讲了一个关于会说话的狐狸的故事，但只有没人听的时候才会说话。"
+  },
+  {
+    "en": "The recipe calls for 250 grams of flour, not 500, so don't double it.",
+    "zh": "这个食谱需要250克面粉，不是500克，所以不要加倍。"
+  },
+  {
+    "en": "He said he might come to the party, but he wasn't sure if he'd finish work on time.",
+    "zh": "他说他可能会来参加聚会，但他不确定能不能按时完成工作。"
+  },
+  {
+    "en": "The magician pulled a rabbit from his hat, but the children weren't impressed.",
+    "zh": "魔术师从帽子里变出一只兔子，但孩子们并不觉得新奇。"
+  },
+  {
+    "en": "We drove for three hours, yet the mountain seemed no closer than before.",
+    "zh": "我们开了三个小时的车，可是那座山看起来还是和之前一样远。"
+  },
+  {
+    "en": "If it rains tomorrow, we'll cancel the picnic and stay indoors.",
+    "zh": "如果明天下雨，我们就取消野餐，待在室内。"
+  },
+  {
+    "en": "She didn't say she was angry, but her silence spoke louder than words.",
+    "zh": "她没有说她生气了，但她的沉默比言语更响亮。"
+  },
+  {
+    "en": "The clock on the wall was five minutes fast, so we left early by mistake.",
+    "zh": "墙上的钟快了五分钟，所以我们误以为该早点出发。"
+  },
+  {
+    "en": "He tried to fix the leak with tape, but it didn't hold for long.",
+    "zh": "他试图用胶带修补漏水，但没撑多久。"
+  },
+  {
+    "en": "The children built a sandcastle, but the tide washed it away before sunset.",
+    "zh": "孩子们堆了一座沙堡，但潮水在日落前把它冲走了。"
+  },
+  {
+    "en": "I think it's going to be a cold winter, but I'm not certain.",
+    "zh": "我觉得今年冬天会很冷，但我不确定。"
+  },
+  {
+    "en": "She packed 3 apples and 2 oranges, but forgot the sandwiches.",
+    "zh": "她装了3个苹果和2个橘子，但忘了三明治。"
+  },
+  {
+    "en": "The teacher said the test would be easy, yet many students struggled.",
+    "zh": "老师说考试会很简单，然而很多学生还是觉得难。"
+  },
+  {
+    "en": "If you see a shooting star, make a wish, but don't tell anyone.",
+    "zh": "如果你看到流星，就许个愿，但不要告诉任何人。"
+  },
+  {
+    "en": "He didn't like the soup because it was too salty, so he asked for water.",
+    "zh": "他不喜欢那汤，因为太咸了，所以他要了水。"
+  },
+  {
+    "en": "The map showed a shortcut, but the path was blocked by fallen trees.",
+    "zh": "地图上显示有一条近路，但小路被倒下的树挡住了。"
+  },
+  {
+    "en": "We need exactly 2 liters of paint, not 1.5, to finish the wall.",
+    "zh": "我们需要正好2升油漆，不是1.5升，才能刷完这面墙。"
+  },
+  {
+    "en": "She said she would call, but she didn't, and I waited all evening.",
+    "zh": "她说她会打电话，但她没有，我等了一整晚。"
+  },
+  {
+    "en": "The puppy chewed my shoe, so I put it in the closet.",
+    "zh": "小狗咬了我的鞋，所以我把它放进了壁橱。"
+  },
+  {
+    "en": "If the train is late, we'll miss the connection, and we'll have to wait.",
+    "zh": "如果火车晚点，我们就会错过换乘，不得不等待。"
+  },
+  {
+    "en": "He wasn't sure if he locked the door, so he went back to check.",
+    "zh": "他不确定是否锁了门，所以回去检查。"
+  },
+  {
+    "en": "The bakery sold 120 loaves by noon, but only 30 by 10 a.m.",
+    "zh": "面包店到中午卖出了120条面包，但到上午10点只卖了30条。"
+  },
+  {
+    "en": "She wore a red dress, yet everyone else wore blue.",
+    "zh": "她穿了一条红裙子，但其他人都穿蓝色。"
+  },
+  {
+    "en": "The book was so long that I couldn't finish it in one week.",
+    "zh": "这本书太长了，我一周内读不完。"
+  },
+  {
+    "en": "If you don't hurry, we'll miss the bus, and we'll have to walk.",
+    "zh": "如果你不快点，我们就会错过公交车，就得走路了。"
+  },
+  {
+    "en": "He said he might be late, but he wasn't sure by how much.",
+    "zh": "他说他可能会迟到，但不清楚会迟多久。"
+  },
+  {
+    "en": "The cat knocked over the vase, but it didn't break.",
+    "zh": "猫打翻了花瓶，但没有摔碎。"
+  },
+  {
+    "en": "We walked 5 kilometers, not 3, so we were very tired.",
+    "zh": "我们走了5公里，不是3公里，所以非常累。"
+  },
+  {
+    "en": "She didn't want to go, but she went anyway to please her friend.",
+    "zh": "她不想去，但还是去了，为了让朋友高兴。"
+  },
+  {
+    "en": "The movie was funny, yet it also made me cry at the end.",
+    "zh": "这部电影很有趣，但结尾也让我哭了。"
+  },
+  {
+    "en": "If I had known, I would have told you, but I didn't.",
+    "zh": "如果我知道，我就会告诉你，但我不知道。"
+  },
+  {
+    "en": "He put 2 spoons of sugar in his tea, but it was still bitter.",
+    "zh": "他在茶里放了2勺糖，但还是苦。"
+  },
+  {
+    "en": "The dog barked all night, so I couldn't sleep.",
+    "zh": "狗叫了一整夜，所以我睡不着。"
+  },
+  {
+    "en": "She said she was tired, but she kept working until midnight.",
+    "zh": "她说她累了，但她一直工作到午夜。"
+  },
+  {
+    "en": "The sign said 'closed', but the door was open.",
+    "zh": "牌子上写着“已关闭”，但门是开着的。"
+  },
+  {
+    "en": "We need 10 chairs, not 8, for the meeting.",
+    "zh": "我们需要10把椅子，不是8把，开会用。"
+  },
+  {
+    "en": "If you don't water the plants, they'll die.",
+    "zh": "如果你不浇水，植物就会死。"
+  },
+  {
+    "en": "He wasn't sure if he should laugh or cry.",
+    "zh": "他不确定该笑还是该哭。"
+  },
+  {
+    "en": "The old man sat on the bench, feeding the pigeons.",
+    "zh": "老人坐在长椅上喂鸽子。"
+  },
+  {
+    "en": "She found a key under the mat, but it didn't fit any door.",
+    "zh": "她在垫子下找到一把钥匙，但它打不开任何门。"
+  },
+  {
+    "en": "I'll wait here until you come back, unless it gets too late.",
+    "zh": "我会在这里等到你回来，除非太晚了。"
+  },
+  {
+    "en": "The child drew a picture of a house with 4 windows and 2 doors.",
+    "zh": "孩子画了一座有4扇窗户和2扇门的房子。"
+  },
+  {
+    "en": "He didn't study for the test, yet he passed.",
+    "zh": "他没有为考试复习，但他通过了。"
+  },
+  {
+    "en": "The soup needs more salt, but not too much.",
+    "zh": "汤需要多加点盐，但不要太多。"
+  },
+  {
+    "en": "She whispered a secret, but I couldn't hear it.",
+    "zh": "她低声说了一个秘密，但我听不见。"
+  },
+  {
+    "en": "The car broke down, so we had to push it to the side.",
+    "zh": "车坏了，所以我们不得不把它推到路边。"
+  },
+  {
+    "en": "If it snows, we'll build a snowman, but only if it's not too cold.",
+    "zh": "如果下雪，我们就堆雪人，但前提是不要太冷。"
+  },
+  {
+    "en": "He said he would come, but he didn't.",
+    "zh": "他说他会来，但他没有。"
+  },
+  {
+    "en": "The flight was delayed by 2 hours, not 1, so we missed the party.",
+    "zh": "航班延误了2小时，不是1小时，所以我们错过了聚会。"
+  },
+  {
+    "en": "Honestly, I don't think the sample size was big enough, so I wouldn't trust that percentage too much.",
+    "zh": "说实话，我觉得样本量不够大，所以我不太会相信那个百分比。"
+  },
+  {
+    "en": "If more than half the people said they'd buy it again, then maybe the price isn't the real problem.",
+    "zh": "如果超过一半的人说他们会再次购买，那也许价格并不是真正的问题。"
+  },
+  {
+    "en": "We asked a thousand customers, but only about sixty replied, which isn't great.",
+    "zh": "我们询问了一千位顾客，但只有大约六十人回复，这情况不太理想。"
+  },
+  {
+    "en": "Wait, so the number went up by twelve percent last month and then dropped again?",
+    "zh": "等等，所以这个数字上个月上升了百分之十二，然后又下降了吗？"
+  },
+  {
+    "en": "I'm not saying the survey is wrong, I'm just saying we shouldn't treat it as the whole truth.",
+    "zh": "我不是说这项调查是错的，我只是说我们不该把它当作全部真相。"
+  },
+  {
+    "en": "Most respondents preferred the blue packaging, though a few said they didn't really care.",
+    "zh": "大多数受访者更喜欢蓝色包装，不过也有少数人说他们其实并不在意。"
+  },
+  {
+    "en": "Hmm, that's odd, because the older group rated it higher than the younger one.",
+    "zh": "嗯，这有点奇怪，因为年长组的评分比年轻组更高。"
+  },
+  {
+    "en": "Could you double-check whether those figures are percentages or just raw counts?",
+    "zh": "你能再核对一下那些数字是百分比还是仅仅是原始计数吗？"
+  },
+  {
+    "en": "Nobody under thirty picked the cheapest option, which surprised everyone on the team.",
+    "zh": "三十岁以下的人没有一个选择最便宜的选项，这让团队里所有人都很意外。"
+  },
+  {
+    "en": "It's not that people hated the design, it's that they couldn't figure out how to open it.",
+    "zh": "并不是人们讨厌这个设计，而是他们搞不懂该怎么打开它。"
+  },
+  {
+    "en": "We ran the same questions twice, and the answers didn't match at all.",
+    "zh": "我们把同样的问题问了两次，结果答案完全对不上。"
+  },
+  {
+    "en": "Unless the response rate improves, I don't see how we can draw any firm conclusions.",
+    "zh": "除非回复率有所提高，否则我看不出我们怎么能得出任何确定的结论。"
+  },
+  {
+    "en": "About three-quarters of them said the app was easy to use, but the rest disagreed.",
+    "zh": "大约四分之三的人说这个应用很容易使用，但其余的人不同意。"
+  },
+  {
+    "en": "She mentioned that two hundred and forty people signed up, though only half showed up.",
+    "zh": "她提到有二百四十人报名，不过只有一半人来了。"
+  },
+  {
+    "en": "I'd say the results are suggestive, not conclusive, so let's not overstate them.",
+    "zh": "我想说这些结果有提示性，但并非定论，所以我们别夸大它们。"
+  },
+  {
+    "en": "Did anyone actually check whether the questions were leading the participants?",
+    "zh": "到底有没有人检查过这些问题是否在诱导参与者？"
+  },
+  {
+    "en": "The chart looks impressive until you realize the scale starts at eighty percent.",
+    "zh": "这张图表看起来很惊人，直到你意识到刻度是从百分之八十开始的。"
+  },
+  {
+    "en": "Fewer than ten people mentioned delivery time, so it's probably not a top concern.",
+    "zh": "不到十个人提到配送时间，所以这大概不是最关心的问题。"
+  },
+  {
+    "en": "If we'd worded that question differently, we might have gotten completely different answers.",
+    "zh": "如果我们当时把那个问题换个说法，可能会得到完全不同的答案。"
+  },
+  {
+    "en": "He insisted the data was clean, but I'm not entirely convinced, to be honest.",
+    "zh": "他坚持说数据是干净的，但说实话，我并不完全信服。"
+  },
+  {
+    "en": "Roughly one in five users said they'd recommend it to a friend, which feels low.",
+    "zh": "大约每五个用户中有一个说会把它推荐给朋友，这感觉偏低。"
+  },
+  {
+    "en": "That doesn't add up, because the totals should be a hundred, not a hundred and ten.",
+    "zh": "这说不通，因为总数应该是一百，而不是一百一十。"
+  },
+  {
+    "en": "We can't tell from this whether they disliked the product or just the price.",
+    "zh": "我们无法由此判断他们是讨厌这个产品，还是只是不满意价格。"
+  },
+  {
+    "en": "Almost everyone agreed on one thing: the instructions were confusing.",
+    "zh": "几乎每个人在一件事上看法一致：说明书让人看不懂。"
+  },
+  {
+    "en": "I think we should ask again in six months and see if anything has shifted.",
+    "zh": "我觉得我们应该在六个月后再问一次，看看情况有没有变化。"
+  },
+  {
+    "en": "Only a third of the group finished the task, and the rest gave up partway.",
+    "zh": "这组人里只有三分之一完成了任务，其余的人半途放弃了。"
+  },
+  {
+    "en": "It's possible the wording confused them, but it's also possible they simply didn't care.",
+    "zh": "有可能是措辞让他们困惑了，但也有可能他们只是不在乎。"
+  },
+  {
+    "en": "Two thousand surveys went out, and we got back something like seven hundred.",
+    "zh": "发出了两千份问卷，我们收回来的大概有七百份。"
+  },
+  {
+    "en": "Neither the young nor the old group liked the new logo, which is a problem.",
+    "zh": "年轻组和年长组都不喜欢新标志，这是个问题。"
+  },
+  {
+    "en": "Before we celebrate, let's make sure the sample wasn't skewed toward one city.",
+    "zh": "在我们庆祝之前，先确认样本没有偏向某一个城市。"
+  },
+  {
+    "en": "She said the feedback was mostly positive, but she didn't mention the complaints.",
+    "zh": "她说反馈大多是正面的，但她没有提到那些抱怨。"
+  },
+  {
+    "en": "If the margin of error is that wide, we really can't say much of anything.",
+    "zh": "如果误差范围那么大，我们真的什么也说明不了。"
+  },
+  {
+    "en": "I keep wondering whether people answered honestly or just picked the first option.",
+    "zh": "我一直在想，人们是如实回答的，还是只选了第一个选项。"
+  },
+  {
+    "en": "The number of complaints fell from ninety to around forty after the update.",
+    "zh": "更新之后，投诉数量从九十降到了大约四十。"
+  },
+  {
+    "en": "Not a single person chose the middle rating, which is strange for a five-point scale.",
+    "zh": "没有一个人选择中间评分，这对五分制量表来说很奇怪。"
+  },
+  {
+    "en": "We thought satisfaction was rising, but the latest figures suggest otherwise.",
+    "zh": "我们以为满意度在上升，但最新数据表明并非如此。"
+  },
+  {
+    "en": "Can we break the results down by age, or is the data too thin for that?",
+    "zh": "我们能按年龄细分结果吗，还是数据太少做不到？"
+  },
+  {
+    "en": "Half the participants misunderstood the second question, so we threw out those answers.",
+    "zh": "一半的参与者误解了第二个问题，所以我们把那些答案作废了。"
+  },
+  {
+    "en": "It's not a huge difference, maybe five percent, but it's consistent across regions.",
+    "zh": "差别不算大，也许百分之五，但它在各个地区都一致。"
+  },
+  {
+    "en": "I doubt the respondents remembered the old version well enough to compare.",
+    "zh": "我怀疑受访者对旧版本记得不够清楚，没法做比较。"
+  },
+  {
+    "en": "Unless we offer an incentive, hardly anyone fills out these long forms.",
+    "zh": "除非我们提供激励，否则几乎没人会填这些长长的表格。"
+  },
+  {
+    "en": "The team expected a clear winner, yet the two options tied almost exactly.",
+    "zh": "团队本以为会有一个明显的赢家，可这两个选项几乎完全打成平手。"
+  },
+  {
+    "en": "Three hundred people opened the email, but only eighteen clicked the link.",
+    "zh": "有三百人打开了邮件，但只有十八人点击了链接。"
+  },
+  {
+    "en": "Some said it was too expensive; others said it was cheap but felt flimsy.",
+    "zh": "有些人说太贵了；另一些人说便宜但感觉不结实。"
+  },
+  {
+    "en": "I wouldn't call that a trend yet, it could just be a quiet month.",
+    "zh": "我还不会把这叫做趋势，这可能只是一个月比较清淡。"
+  },
+  {
+    "en": "If they'd asked me, I would have told them the question was ambiguous.",
+    "zh": "如果他们问过我，我会告诉他们那个问题有歧义。"
+  },
+  {
+    "en": "Nearly everybody skipped the open-ended section, so we got very little detail.",
+    "zh": "几乎所有人都跳过了开放式部分，所以我们得到的细节非常少。"
+  },
+  {
+    "en": "The average score was four point two, but the spread was enormous.",
+    "zh": "平均分是四点二，但分布范围极大。"
+  },
+  {
+    "en": "We're not sure if they changed their minds or just misread the options.",
+    "zh": "我们不确定他们是改变了想法，还是只是看错了选项。"
+  },
+  {
+    "en": "Let's wait for the follow-up before we decide anything drastic.",
+    "zh": "在做出任何重大决定之前，我们先等后续调查吧。"
+  },
+  {
+    "en": "If you water the plants every day, they might drown, but if you skip a day, they could dry out.",
+    "zh": "如果你每天给植物浇水，它们可能会淹死，但如果你跳过一天，它们可能会干死。"
+  },
+  {
+    "en": "She said she would come, but she didn't, so we waited for nothing.",
+    "zh": "她说她会来，但她没有来，所以我们白等了。"
+  },
+  {
+    "en": "Unless you finish your homework, you can't go out, but if you finish it early, you can play.",
+    "zh": "除非你完成作业，否则你不能出去，但如果你早点完成，你可以玩。"
+  },
+  {
+    "en": "I thought it would rain, but it didn't, so we got sunburned instead.",
+    "zh": "我以为会下雨，但没有下，所以我们反而晒伤了。"
+  },
+  {
+    "en": "If I had known you were coming, I would have baked a cake, but I didn't know, so there's no cake.",
+    "zh": "如果我知道你要来，我就会烤一个蛋糕，但我不知道，所以没有蛋糕。"
+  },
+  {
+    "en": "He might be late, but if he is, we'll start without him.",
+    "zh": "他可能会迟到，但如果他迟到，我们就先开始不等他。"
+  },
+  {
+    "en": "You can either take the bus or walk, but if you walk, you'll be tired.",
+    "zh": "你可以坐公交车或走路，但如果你走路，你会累的。"
+  },
+  {
+    "en": "I'm not sure if it's going to work, but we can try anyway.",
+    "zh": "我不确定这会不会成功，但我们可以试试看。"
+  },
+  {
+    "en": "If you don't study, you'll fail, but if you study hard, you might pass.",
+    "zh": "如果你不学习，你会不及格，但如果你努力学习，你可能会通过。"
+  },
+  {
+    "en": "She didn't call me back, so I assumed she was busy, but maybe she just forgot.",
+    "zh": "她没有给我回电话，所以我以为她很忙，但也许她只是忘了。"
+  },
+  {
+    "en": "If it snows tomorrow, we'll go skiing, but if it rains, we'll stay inside.",
+    "zh": "如果明天下雪，我们就去滑雪，但如果下雨，我们就待在家里。"
+  },
+  {
+    "en": "He said he was tired, but he stayed up all night anyway.",
+    "zh": "他说他累了，但他还是熬夜了。"
+  },
+  {
+    "en": "You should apologize, unless you want to lose her friendship.",
+    "zh": "你应该道歉，除非你想失去她的友谊。"
+  },
+  {
+    "en": "If you heat ice, it melts, but if you freeze water, it becomes ice.",
+    "zh": "如果你加热冰，它会融化，但如果你冷冻水，它会变成冰。"
+  },
+  {
+    "en": "I might go to the party, but I might not, depending on how I feel.",
+    "zh": "我可能会去参加派对，但我也可能不去，取决于我的感觉。"
+  },
+  {
+    "en": "If you don't water the plants, they will die, but if you overwater them, they will also die.",
+    "zh": "如果你不给植物浇水，它们会死，但如果你浇水过多，它们也会死。"
+  },
+  {
+    "en": "She didn't like the gift, but she pretended to, so as not to hurt his feelings.",
+    "zh": "她不喜欢这个礼物，但她假装喜欢，以免伤害他的感情。"
+  },
+  {
+    "en": "If you leave now, you'll catch the train, but if you wait, you'll miss it.",
+    "zh": "如果你现在出发，你会赶上火车，但如果你等待，你会错过它。"
+  },
+  {
+    "en": "He could have won the race, but he tripped and fell.",
+    "zh": "他本来可以赢得比赛，但他绊倒了。"
+  },
+  {
+    "en": "Unless you practice regularly, you won't improve, but if you practice too much, you might get injured.",
+    "zh": "除非你定期练习，否则你不会进步，但如果你练习太多，你可能会受伤。"
+  },
+  {
+    "en": "I thought the movie was boring, but my friend loved it.",
+    "zh": "我觉得这部电影很无聊，但我朋友很喜欢它。"
+  },
+  {
+    "en": "If you want to lose weight, you should eat less, but if you eat too little, you'll be hungry.",
+    "zh": "如果你想减肥，你应该少吃，但如果你吃得太少，你会饿。"
+  },
+  {
+    "en": "She might be angry, but if you explain, she might understand.",
+    "zh": "她可能会生气，但如果你解释，她可能会理解。"
+  },
+  {
+    "en": "You can either pay now or later, but if you pay later, there's a fee.",
+    "zh": "你可以现在付款或以后付款，但如果你以后付款，会有手续费。"
+  },
+  {
+    "en": "I'm not sure if I can come, but I'll let you know.",
+    "zh": "我不确定我能不能来，但我会让你知道。"
+  },
+  {
+    "en": "If you don't lock the door, someone might break in, but if you lock it, you might lose the key.",
+    "zh": "如果你不锁门，有人可能会闯进来，但如果你锁了，你可能会丢钥匙。"
+  },
+  {
+    "en": "He didn't study for the test, so he failed, but he could have passed if he had studied.",
+    "zh": "他没有为考试学习，所以他没通过，但如果他学习了，他本可以通过。"
+  },
+  {
+    "en": "If it's sunny, we'll have a picnic, but if it's cloudy, we'll go to the museum.",
+    "zh": "如果天晴，我们去野餐，但如果多云，我们去博物馆。"
+  },
+  {
+    "en": "She said she was happy, but her tears suggested otherwise.",
+    "zh": "她说她很高兴，但她的眼泪表明并非如此。"
+  },
+  {
+    "en": "You should save money, unless you want to be broke.",
+    "zh": "你应该存钱，除非你想破产。"
+  },
+  {
+    "en": "If you mix red and blue, you get purple, but if you mix yellow and blue, you get green.",
+    "zh": "如果你混合红色和蓝色，你会得到紫色，但如果你混合黄色和蓝色，你会得到绿色。"
+  },
+  {
+    "en": "I might be wrong, but I think you're making a mistake.",
+    "zh": "我可能错了，但我认为你在犯错误。"
+  },
+  {
+    "en": "If you don't eat breakfast, you'll be hungry later, but if you eat too much, you'll feel sluggish.",
+    "zh": "如果你不吃早餐，你以后会饿，但如果你吃太多，你会感到迟钝。"
+  },
+  {
+    "en": "She didn't answer the phone, so I left a message, but she never called back.",
+    "zh": "她没有接电话，所以我留了言，但她从未回电。"
+  },
+  {
+    "en": "If you study hard, you'll pass, but if you don't, you'll fail.",
+    "zh": "如果你努力学习，你会通过，但如果你不努力，你会不及格。"
+  },
+  {
+    "en": "He could have taken the job, but he turned it down.",
+    "zh": "他本来可以接受那份工作，但他拒绝了。"
+  },
+  {
+    "en": "Unless you hurry, you'll miss the bus, but if you run, you might catch it.",
+    "zh": "除非你快点，否则你会错过公交车，但如果你跑，你可能会赶上。"
+  },
+  {
+    "en": "I thought the test was easy, but it was actually quite hard.",
+    "zh": "我以为考试很容易，但实际上相当难。"
+  },
+  {
+    "en": "If you want to be healthy, you should exercise, but if you exercise too much, you might hurt yourself.",
+    "zh": "如果你想健康，你应该锻炼，但如果你锻炼太多，你可能会伤到自己。"
+  },
+  {
+    "en": "She might come to the party, but she might have other plans.",
+    "zh": "她可能会来参加派对，但她可能有其他计划。"
+  },
+  {
+    "en": "You can either buy it now or wait for a sale, but if you wait, it might be sold out.",
+    "zh": "你可以现在买或等促销，但如果你等，它可能会卖完。"
+  },
+  {
+    "en": "I'm not sure if it's safe, but we can check.",
+    "zh": "我不确定它是否安全，但我们可以检查一下。"
+  },
+  {
+    "en": "If you don't water the garden, the plants will wither, but if you water them too much, the roots will rot.",
+    "zh": "如果你不给花园浇水，植物会枯萎，但如果你浇水太多，根会腐烂。"
+  },
+  {
+    "en": "He didn't listen to my advice, so he got lost, but he could have found the way if he had listened.",
+    "zh": "他没有听我的建议，所以他迷路了，但如果他听了，他本可以找到路。"
+  },
+  {
+    "en": "If it snows, we'll build a snowman, but if it rains, we'll stay inside and watch movies.",
+    "zh": "如果下雪，我们会堆雪人，但如果下雨，我们会待在家里看电影。"
+  },
+  {
+    "en": "She said she would help, but she didn't, so we had to do it ourselves.",
+    "zh": "她说她会帮忙，但她没有，所以我们不得不自己做。"
+  },
+  {
+    "en": "You should wear a coat, unless you want to catch a cold.",
+    "zh": "你应该穿外套，除非你想感冒。"
+  },
+  {
+    "en": "If you add sugar, it will be sweet, but if you add lemon, it will be sour.",
+    "zh": "如果你加糖，它会变甜，但如果你加柠檬，它会变酸。"
+  },
+  {
+    "en": "I might go to the beach, but I might stay home, depending on the weather.",
+    "zh": "我可能会去海滩，但也可能待在家里，取决于天气。"
+  },
+  {
+    "en": "If you don't water the plants, they will die, but if you water them, they will thrive.",
+    "zh": "如果你不给植物浇水，它们会死，但如果你浇水，它们会茁壮成长。"
+  },
+  {
+    "en": "I didn't say he took it — I said he might have seen who did.",
+    "zh": "我没说他拿了——我是说他可能看见是谁拿的。"
+  },
+  {
+    "en": "If the train's late again, we'll just take the bus, okay?",
+    "zh": "如果火车又晚点，我们就坐公交，行吗？"
+  },
+  {
+    "en": "She's not angry, just tired, I think.",
+    "zh": "她没生气，只是累了，我觉得。"
+  },
+  {
+    "en": "We could wait here, or we could walk to the corner and look for a cab.",
+    "zh": "我们可以在这儿等，也可以走到路口去打车。"
+  },
+  {
+    "en": "It's about twenty minutes on foot, maybe fifteen if we hurry.",
+    "zh": "走路大概二十分钟，快一点的话也许十五分钟。"
+  },
+  {
+    "en": "He said the meeting moved to three-thirty, not two-thirty.",
+    "zh": "他说会议改到三点半了，不是两点半。"
+  },
+  {
+    "en": "I'm not sure that's the right door — try the one on the left.",
+    "zh": "我不确定那扇门对不对——试试左边那扇。"
+  },
+  {
+    "en": "You didn't lock it, did you?",
+    "zh": "你没锁，是吧？"
+  },
+  {
+    "en": "...and then she just walked out.",
+    "zh": "……然后她就直接走出去了。"
+  },
+  {
+    "en": "Not today, maybe tomorrow.",
+    "zh": "不是今天，也许明天吧。"
+  },
+  {
+    "en": "If it rains, bring the small umbrella, the one in the closet.",
+    "zh": "如果下雨，就带那把小的伞，柜子里那把。"
+  },
+  {
+    "en": "Wait — you mean the blue one or the green one?",
+    "zh": "等等——你说的是蓝色的那个还是绿色的那个？"
+  },
+  {
+    "en": "Nobody told me the office closes at noon on Fridays.",
+    "zh": "没人告诉我办公室周五中午就关门。"
+  },
+  {
+    "en": "It's not that I don't want to go; it's that I can't afford it right now.",
+    "zh": "不是我不想去，是我现在负担不起。"
+  },
+  {
+    "en": "Three of us are coming, unless Tom changes his mind.",
+    "zh": "我们三个人来，除非汤姆改主意。"
+  },
+  {
+    "en": "He's taller than me, but I'm faster.",
+    "zh": "他比我高，但我比他快。"
+  },
+  {
+    "en": "...I don't know, maybe half past?",
+    "zh": "……我不知道，也许半点吧？"
+  },
+  {
+    "en": "Put it over there, not on the table.",
+    "zh": "放那边，别放桌上。"
+  },
+  {
+    "en": "She hardly ever calls, so when she does, it's usually important.",
+    "zh": "她几乎从不打电话，所以她一打，通常都是有要紧事。"
+  },
+  {
+    "en": "We have enough chairs for eight people, but not nine.",
+    "zh": "我们的椅子够八个人坐，但不够九个人。"
+  },
+  {
+    "en": "If you're not sure, just ask someone at the front desk.",
+    "zh": "如果你不确定，就问前台的人。"
+  },
+  {
+    "en": "I thought it started at seven, but apparently it's eight.",
+    "zh": "我以为七点开始，但显然是八点。"
+  },
+  {
+    "en": "That's not what I meant at all.",
+    "zh": "那完全不是我的意思。"
+  },
+  {
+    "en": "Either we leave now, or we miss the whole thing.",
+    "zh": "要么我们现在就走，要么就整个错过了。"
+  },
+  {
+    "en": "He might be late; he usually is on Mondays.",
+    "zh": "他可能会迟到；他周一通常都迟到。"
+  },
+  {
+    "en": "...and that's when I realized.",
+    "zh": "……就在那时我意识到了。"
+  },
+  {
+    "en": "Not the red one — the other one.",
+    "zh": "不是红色的那个——是另一个。"
+  },
+  {
+    "en": "Can you hold this for a second while I find my keys?",
+    "zh": "你能帮我拿一下这个吗，我找一下钥匙？"
+  },
+  {
+    "en": "It costs about forty dollars, or maybe thirty if you buy two.",
+    "zh": "大概四十美元，买两个的话也许三十。"
+  },
+  {
+    "en": "She didn't come because she was sick, not because she was upset.",
+    "zh": "她没来是因为生病了，不是因为她不高兴。"
+  },
+  {
+    "en": "Unless someone else drives, I'm not going.",
+    "zh": "除非有别人开车，否则我不去。"
+  },
+  {
+    "en": "The package should arrive by Thursday, but it might be Friday.",
+    "zh": "包裹应该在周四前到，但也可能周五。"
+  },
+  {
+    "en": "...so anyway, that's the story.",
+    "zh": "……反正，事情就是这样。"
+  },
+  {
+    "en": "Is this yours or mine?",
+    "zh": "这是你的还是我的？"
+  },
+  {
+    "en": "I can't tell if he's joking or serious.",
+    "zh": "我分不清他是在开玩笑还是认真的。"
+  },
+  {
+    "en": "We'll meet at the café near the station, the one with the green sign.",
+    "zh": "我们在车站附近那家咖啡馆见，就是有绿色招牌的那家。"
+  },
+  {
+    "en": "If she hasn't called by six, call her yourself.",
+    "zh": "如果她六点前还没打电话，你就自己打给她。"
+  },
+  {
+    "en": "It's not far, only about a mile, but the hill is steep.",
+    "zh": "不远，只有大约一英里，但坡很陡。"
+  },
+  {
+    "en": "He said he'd fix it, but he hasn't yet.",
+    "zh": "他说他会修，但还没修。"
+  },
+  {
+    "en": "...or something like that, I can't remember exactly.",
+    "zh": "……或者差不多那样，我记不清了。"
+  },
+  {
+    "en": "Neither of us knew the answer.",
+    "zh": "我们俩都不知道答案。"
+  },
+  {
+    "en": "Take the second exit, not the first, and then turn right.",
+    "zh": "走第二个出口，不是第一个，然后右转。"
+  },
+  {
+    "en": "I doubt it'll be ready before noon.",
+    "zh": "我怀疑中午前弄不好。"
+  },
+  {
+    "en": "She speaks three languages, but not fluently.",
+    "zh": "她会说三种语言，但都不流利。"
+  },
+  {
+    "en": "Unless it stops raining, we're staying inside.",
+    "zh": "除非雨停，否则我们就待在里面。"
+  },
+  {
+    "en": "...you know what I mean?",
+    "zh": "……你明白我的意思吧？"
+  },
+  {
+    "en": "This one's heavier than that one, but smaller.",
+    "zh": "这个比那个重，但更小。"
+  },
+  {
+    "en": "He never answers his phone after nine, so don't bother.",
+    "zh": "他九点以后从不接电话，所以别费劲了。"
+  },
+  {
+    "en": "We need about fifteen more, or maybe twenty to be safe.",
+    "zh": "我们还需要大约十五个，保险起见也许二十个。"
+  },
+  {
+    "en": "I'm not saying you're wrong; I'm just not sure you're right.",
+    "zh": "我不是说你错了；我只是不确定你对。"
+  }
+]

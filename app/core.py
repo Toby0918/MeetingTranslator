@@ -10,6 +10,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from deepseek_translation import TranslationError
 from translation_quality import sentence_units, prepare_source, preserve_word_count, valid_translation
+from runtime import translation_directory
 
 import numpy as np
 
@@ -128,6 +129,8 @@ class Models:
     def __init__(self, root: Path):
         self.root = root
         self.asr = self.mt = self.sp = None
+        self.target_sp = None
+        self.source_prefix, self.source_suffix = [], []
 
     def load(self):
         if self.asr is not None:
@@ -135,32 +138,42 @@ class Models:
         from faster_whisper import WhisperModel
         import ctranslate2
         import sentencepiece
-        translation = self.root / 'translation' / 'translate-en_zh-1_9'
+        translation = translation_directory(self.root)
+        marian = translation.name == 'meeting-en_zh-v1_1'
         # CPU int8 avoids system-wide CUDA changes and is tested on this machine.
         asr = WhisperModel(str(self.root / 'whisper-small.en'), device='cpu',
                            compute_type='int8', cpu_threads=8, local_files_only=True)
-        mt = ctranslate2.Translator(str(translation / 'model'), device='cpu',
+        mt = ctranslate2.Translator(str(translation if marian else translation / 'model'), device='cpu',
                                    compute_type='int8', intra_threads=4)
         # Native SentencePiece file loading uses narrow Windows paths. Python
         # reads Unicode paths safely; pass the unchanged serialized model.
-        sp = sentencepiece.SentencePieceProcessor(
-            model_proto=(translation / 'sentencepiece.model').read_bytes())
+        sp = sentencepiece.SentencePieceProcessor(model_proto=(translation /
+            ('source.spm' if marian else 'sentencepiece.model')).read_bytes())
+        target_sp = sentencepiece.SentencePieceProcessor(
+            model_proto=(translation / 'target.spm').read_bytes()) if marian else sp
         self.asr, self.mt, self.sp = asr, mt, sp
+        self.target_sp = target_sp
+        self.source_prefix = ['>>cmn_Hans<<'] if marian else []
+        self.source_suffix = ['</s>'] if marian else []
+
+    def encode_source(self, text):
+        return self.source_prefix + self.sp.encode(prepare_source(text), out_type=str) + self.source_suffix
 
     def translate(self, text):
         units = sentence_units(text)
         if not units:
             return ''
         results = self.mt.translate_batch(
-            [self.sp.encode(prepare_source(unit), out_type=str) for unit in units],
+            [self.encode_source(unit) for unit in units],
             beam_size=2, replace_unknowns=True, max_decoding_length=256)
         translations = []
         for unit, result in zip(units, results):
-            value = self.sp.decode(result.hypotheses[0]).replace('▁', ' ').strip()
+            decoder = self.target_sp if self.target_sp is not None else self.sp
+            value = decoder.decode(result.hypotheses[0]).replace('▁', ' ').strip()
             if not valid_translation(value):
-                alternative = self.mt.translate_batch([self.sp.encode(prepare_source(unit), out_type=str)],
+                alternative = self.mt.translate_batch([self.encode_source(unit)],
                     beam_size=4, replace_unknowns=True, max_decoding_length=256)
-                value = self.sp.decode(alternative[0].hypotheses[0]).replace('▁', ' ').strip()
+                value = decoder.decode(alternative[0].hypotheses[0]).replace('▁', ' ').strip()
                 if not valid_translation(value):
                     raise TranslationError('本地模型未返回可读译文，本句请查看英文原文。')
             translations.append(preserve_word_count(unit, value))

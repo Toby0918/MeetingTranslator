@@ -96,15 +96,27 @@ def legacy_segmenter():
     return LegacySegmenter()
 
 
+def baseline_translation(models, text):
+    """The original pre-v1 comparison is meaningful only with its Argos assets."""
+    if models.source_prefix:
+        raise ValueError('The pre-v1 baseline requires the original Argos model assets.')
+    result = models.mt.translate_batch([models.sp.encode(text, out_type=str)],
+        beam_size=2, replace_unknowns=True, max_decoding_length=256)
+    return models.sp.decode(result[0].hypotheses[0]).replace('▁', ' ').strip()
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--download', action='store_true')
     parser.add_argument('--cache', type=Path, default=PROJECT / '.bench')
     parser.add_argument('--output', type=Path, default=PROJECT / '.bench' / 'rerun-summary.json')
-    parser.add_argument('--talk', action='append', help='Talk ID, repeatable; defaults to all five')
-    parser.add_argument('--baseline', action='store_true', help='Use the pre-release segmentation and single-sentence MT path')
+    parser.add_argument('--talk', action='append', help='Talk ID, repeatable; defaults to all talks in the manifest')
+    parser.add_argument('--manifest', type=Path, default=PROJECT / 'scripts/ted_sources_v1.1.json')
+    parser.add_argument('--models', type=Path, help='Explicit local model root for version comparisons')
+    parser.add_argument('--baseline', action='store_true', help='Original pre-v1 segmentation and MT; requires original Argos assets, not the v1.0 baseline')
     parser.add_argument('--mode', choices=['offline', 'cloud'], default='offline')
     parser.add_argument('--save-captions', action='store_true', help='Explicitly retain generated captions locally')
+    parser.add_argument('--caption-name', default='rerun-captions.json', help='Name for explicitly retained local captions')
     parser.add_argument('--limit-seconds', type=float, help='Partial smoke run; no WER is reported')
     args = parser.parse_args()
     from core import Models, Segmenter
@@ -113,12 +125,16 @@ def main():
     from credentials import load_api_key
     from faster_whisper.audio import decode_audio
     from jiwer import process_words
-    manifest = json.loads((PROJECT / 'scripts' / 'ted_sources.json').read_text(encoding='utf-8'))
+    if Path(args.caption_name).name != args.caption_name:
+        parser.error('--caption-name must be a filename, not a path.')
+    manifest = json.loads(args.manifest.read_text(encoding='utf-8'))
     selected = [source for source in manifest['talks'] if not args.talk or source['id'] in args.talk]
     if not selected:
         parser.error('No matching talk IDs.')
-    models = Models(resolve_model_root())
+    models = Models(args.models or resolve_model_root())
     models.load()
+    if args.baseline and models.source_prefix:
+        parser.error('--baseline requires original Argos assets; omit it for v1.0 versus v1.1 comparisons.')
     summaries = []
     for source in selected:
         folder = args.cache / source['id']
@@ -144,9 +160,7 @@ def main():
                 if translator:
                     translated = translator.translate(text)
                 elif args.baseline:
-                    result = models.mt.translate_batch([models.sp.encode(text, out_type=str)],
-                        beam_size=2, replace_unknowns=True, max_decoding_length=256)
-                    translated = models.sp.decode(result[0].hypotheses[0]).replace('▁', ' ').strip()
+                    translated = baseline_translation(models, text)
                 else:
                     translated = models.translate(text)
             except TranslationError:
@@ -173,7 +187,7 @@ def main():
             summary.update(wer=errors.wer, reference_words=len(reference_text.split()),
                            substitutions=errors.substitutions, insertions=errors.insertions, deletions=errors.deletions)
         if args.save_captions:
-            (folder / 'rerun-captions.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding='utf-8')
+            (folder / args.caption_name).write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding='utf-8')
         summaries.append(summary)
         print(json.dumps(summary, ensure_ascii=False), flush=True)
     args.output.parent.mkdir(parents=True, exist_ok=True)

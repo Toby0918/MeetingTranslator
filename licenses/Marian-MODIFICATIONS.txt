@@ -1,0 +1,20 @@
+MeetingTranslator v1.1 model modifications, 2026-10-06
+
+Base: Helsinki-NLP/opus-mt-en-zh
+Source: https://huggingface.co/Helsinki-NLP/opus-mt-en-zh
+Revision: 408d9bc410a388e1d9aef112a2daba955b945255
+License: Apache License, Version 2.0; see Apache-2.0.txt
+Original model authors: Jorg Tiedemann and Santhosh Thottingal
+
+This is a modified model, not an unmodified upstream distribution. Weights were
+fine-tuned with 1,120 AI-generated original generic bilingual examples, with 80
+separate synthetic validation examples. Training ran for three epochs. Epoch 2
+was selected using development evaluation and converted to CTranslate2 int8.
+The tokenizer models are unchanged upstream assets. No TED transcripts were
+included in the fine-tuning dataset. This project is not affiliated with TED,
+Helsinki-NLP, OpenAI or DeepSeek.
+
+Dataset SHA-256:
+e27ab26e05472661f348b0694270c04ad235696bd65d30b60a1bc9665ac9cec5
+Converted model.bin SHA-256:
+fe7fb315487364e8332525d9988b2d9d5398175b6a2e7d6f17a316c7e9271763

@@ -122,6 +122,16 @@ class TranslationQualityTests(unittest.TestCase):
         self.assertEqual(preserve_word_count('Write 50 words and 150 characters.', '写50字和一百50字。'),
                          '写50个单词和一百50字。')
 
+    def test_counted_character_phrase_does_not_change_english_word_unit(self):
+        self.assertEqual(preserve_word_count('Write 500 words.', '写五百个字。'), '写五百个单词。')
+        self.assertEqual(preserve_word_count('Write 500 words.', '写500个字。'), '写500个单词。')
+
+    def test_counted_words_do_not_corrupt_explicit_bytes_or_other_characters(self):
+        self.assertEqual(preserve_word_count('Write 500 words and 100 characters, below 1024 bytes.',
+                         '写500个字和100个字,少于1024个字节。'), '写500个单词和100个字,少于1024个字节。')
+        self.assertEqual(preserve_word_count('Write 500 words.', '500个字节和500个字符。'),
+                         '500个字节和500个字符。')
+
 
 if __name__ == '__main__':
     unittest.main()

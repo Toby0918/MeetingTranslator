@@ -1,2 +1,4 @@
 # Preserve upstream license texts; do not enforce application whitespace rules on them.
 licenses/* -whitespace
+# The published training recipe checks the exact byte digest, including newlines.
+training/synthetic-v1.1.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

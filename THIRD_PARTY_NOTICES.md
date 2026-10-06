@@ -9,14 +9,22 @@ The converted model is distributed from https://huggingface.co/Systran/faster-wh
 Whisper and faster-whisper are under the MIT License. CTranslate2 is an OpenNMT project
 under the MIT License. PyAudioWPatch is used for Windows WASAPI audio input.
 
-The offline English-to-Chinese model is Argos `translate-en_zh-1_9`, based on OPUS-MT.
-Its packaged README states that the original model is licensed under CC BY 4.0.
+The v1.1 offline English-to-Chinese model is a modified version of
+`Helsinki-NLP/opus-mt-en-zh`, pinned to revision
+`408d9bc410a388e1d9aef112a2daba955b945255` and distributed under Apache 2.0.
+Source and model card: https://huggingface.co/Helsinki-NLP/opus-mt-en-zh.
 Model authors: Jörg Tiedemann and Santhosh Thottingal.
 Reference: “OPUS-MT — Building open translation services for the World”, Proceedings of
 the 22nd Annual Conference of the European Association for Machine Translation, 2020,
-Lisbon, Portugal. The original model is bundled without retraining or modification.
-Download: https://argos-net.com/v1/translate-en_zh-1_9.argosmodel.
-The application changes sentence preparation and inference; it does not change model weights.
+Lisbon, Portugal. MeetingTranslator modified the weights by fine-tuning on 1,120
+AI-generated original generic bilingual examples, then converted the selected
+second-epoch checkpoint to CTranslate2 int8. TED transcripts were not used for
+this fine-tuning. See `training/README.md`, `docs/mt-training-v1.1.json`, and
+`licenses/Marian-MODIFICATIONS.txt`. The Apache 2.0 license is included.
+
+For historical compatibility, source code can still load an existing Argos
+`translate-en_zh-1_9` model. Its original README and CC BY 4.0 license are retained
+in `licenses/`. Those Argos weights are not included in the v1.1 Windows ZIP.
 
 PyInstaller's license includes an exception allowing distribution of applications built
 with its bootloader. Its license and exception are included in the collected notices.

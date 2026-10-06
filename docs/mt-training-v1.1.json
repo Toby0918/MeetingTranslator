@@ -1,0 +1,56 @@
+{
+  "base_repo": "Helsinki-NLP/opus-mt-en-zh",
+  "base_revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+  "teacher": "DeepSeek",
+  "dataset_kind": "AI-generated original generic pairs; no TED transcripts",
+  "dataset_sha256": "e27ab26e05472661f348b0694270c04ad235696bd65d30b60a1bc9665ac9cec5",
+  "seed": 20261006,
+  "gpu": "NVIDIA GeForce RTX 4080",
+  "torch_version": "2.10.0+cu128",
+  "transformers_version": "4.57.6",
+  "learning_rate": 2e-05,
+  "batch_size": 16,
+  "training_examples": 1120,
+  "validation_examples": 80,
+  "filtered": 0,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 1.2786036150796072,
+      "validation_loss": 1.0304001569747925,
+      "elapsed_seconds": 3.8472867000018596
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.9342505736010415,
+      "validation_loss": 0.9888964891433716,
+      "elapsed_seconds": 7.277174999999261
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.7323366888931819,
+      "validation_loss": 0.9795993804931641,
+      "elapsed_seconds": 10.678672100002586
+    }
+  ],
+  "selection": {
+    "selected_epoch": 2,
+    "beam_size": 2,
+    "fallback_beam_size": 4,
+    "selected_before_holdout_translation": true,
+    "selection_samples": 68,
+    "selection_directory": "checkpoint-comparison",
+    "selected_model_sha256": "fe7fb315487364e8332525d9988b2d9d5398175b6a2e7d6f17a316c7e9271763",
+    "selection_reason": "Highest development/regression mean adequacy and fluency in fixed 5-candidate blinded AI comparison; 28 wins and 7 losses versus v1",
+    "holdout_ids": [
+      "wernicke",
+      "blakemore"
+    ]
+  },
+  "reproduction": {
+    "same_hardware_recipe_run": true,
+    "reproduced_model_sha256": "fe7fb315487364e8332525d9988b2d9d5398175b6a2e7d6f17a316c7e9271763",
+    "matches_accepted_weight": true
+  },
+  "base_weight_sha256": "69a1d6ec829cee349360b3b677ac0aa99a7d88822d1a6578370029efffdca3f5"
+}

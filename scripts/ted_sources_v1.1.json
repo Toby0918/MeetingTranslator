@@ -1,0 +1,181 @@
+{
+  "evaluation_date": "2026-10-06",
+  "baseline_version": "1.0.0",
+  "talks": [
+    {
+      "id": "cutts",
+      "title": "Try something new for 30 days",
+      "speaker": "Matt Cutts",
+      "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
+      "split": "regression",
+      "sha256_video": "d0d49ddd840d8a790bcdc3ce9742759d6ef801a341bd9afca477aea70eefff90",
+      "audio_seconds": 190.3571875
+    },
+    {
+      "id": "treasure",
+      "title": "How to speak so that people want to listen",
+      "speaker": "Julian Treasure",
+      "url": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+      "split": "regression",
+      "sha256_video": "0e74dbe57e4673ba3b45c51028a9c0742b0b7b0b33263eda866df7405f083693",
+      "audio_seconds": 584.376625
+    },
+    {
+      "id": "rosling",
+      "title": "The best stats you've ever seen",
+      "speaker": "Hans Rosling",
+      "url": "https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen",
+      "split": "regression",
+      "sha256_video": "2402115bf27c2b79433e30da32a4cfa19021f3fb9cf9f14cb26924b97abbc31f",
+      "audio_seconds": 1172.9095625
+    },
+    {
+      "id": "sivers",
+      "title": "How to start a movement",
+      "speaker": "Derek Sivers",
+      "url": "https://www.ted.com/talks/derek_sivers_how_to_start_a_movement",
+      "split": "regression",
+      "sha256_video": "07ffba0fc233f316a8560a7fd733e84e2e6f574a357dfb25bafd182e90ee0e01",
+      "audio_seconds": 172.8029375
+    },
+    {
+      "id": "duckworth",
+      "title": "Grit: The power of passion and perseverance",
+      "speaker": "Angela Lee Duckworth",
+      "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "split": "regression",
+      "sha256_video": "8924bcb81269fb83f0dc25f56559565bf0e5b9b5c51f3a3344d4410701e1cb58",
+      "audio_seconds": 359.352
+    },
+    {
+      "id": "urban",
+      "url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
+      "title": "Inside the mind of a master procrastinator",
+      "speaker": "Tim Urban",
+      "split": "development",
+      "audio_seconds": 834.1304375,
+      "sha256_video": "d7467000af578005f37a809e22af14ef81d20b2dff4a30084827ec6e3994c99e",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/2597/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/2597/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "brown",
+      "url": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+      "title": "The power of vulnerability",
+      "speaker": "Brené Brown",
+      "split": "development",
+      "audio_seconds": 1202.7936875,
+      "sha256_video": "98c9a9abc820aae142dea6770ebe97cfb953bfc570fb82b26fa6dfd71c6a519e",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/4478/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/4478/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "robinson",
+      "url": "https://www.ted.com/talks/ken_robinson_do_schools_kill_creativity",
+      "title": "Do schools kill creativity?",
+      "speaker": "Sir Ken Robinson",
+      "split": "development",
+      "audio_seconds": 1148.319625,
+      "sha256_video": "9c2b4f4196821d6630ec3df468a73d3f185a2847c6ff197187a1bae7b2d207db",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/1253/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/1253/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "mcgonigal",
+      "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
+      "title": "How to make stress your friend",
+      "speaker": "Kelly McGonigal",
+      "split": "development",
+      "audio_seconds": 855.260625,
+      "sha256_video": "cba5bb50578de2b958c0e363b74f0b1147102be79b11dd2a68f91df16b161e74",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/1126/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/1126/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "suzuki",
+      "url": "https://www.ted.com/talks/wendy_suzuki_the_brain_changing_benefits_of_exercise",
+      "title": "The brain-changing benefits of exercise",
+      "speaker": "Wendy Suzuki",
+      "split": "development",
+      "audio_seconds": 773.3870625,
+      "sha256_video": "4cab9353007e1561be0b75ca66c439188106eda2c2abff6dbe7625717ff0ef61",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/3091/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/3091/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "wernicke",
+      "url": "https://www.ted.com/talks/sebastian_wernicke_lies_damned_lies_and_statistics_about_tedtalks",
+      "title": "Lies, damned lies and statistics (about TEDTalks)",
+      "speaker": "Sebastian Wernicke",
+      "split": "holdout",
+      "audio_seconds": 342.3085625,
+      "sha256_video": "4bd7e8c388e0e93077e20a3f04780658f73640a6daddc18f3dba267020bf4d2c",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/1406/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/1406/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "blakemore",
+      "url": "https://www.ted.com/talks/sarah_jayne_blakemore_the_mysterious_workings_of_the_adolescent_brain",
+      "title": "The mysterious workings of the adolescent brain",
+      "speaker": "Sarah-Jayne Blakemore",
+      "split": "holdout",
+      "audio_seconds": 849.2234375,
+      "sha256_video": "e89ac299f65524e642c9dcaf1433f27431b37b8be3f73d53f21c085768faa455",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/768/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/768/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "jiang",
+      "url": "https://www.ted.com/talks/jia_jiang_what_i_learned_from_100_days_of_rejection",
+      "title": "What I learned from 100 days of rejection",
+      "speaker": "Jia Jiang",
+      "split": "development",
+      "audio_seconds": 922.273375,
+      "sha256_video": "3e96e16ee6e7e5f290dd7acac39e2206db909647e3eb653e2f73556a62cdae12",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/2722/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/2722/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "headlee",
+      "url": "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation",
+      "title": "10 ways to have a better conversation",
+      "speaker": "Celeste Headlee",
+      "split": "development",
+      "audio_seconds": 680.2285625,
+      "sha256_video": "08dc9199379f231adec584c1a180c643e269616f3097d922f7a441a50e324d17",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/5842/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/5842/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    },
+    {
+      "id": "russell",
+      "url": "https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai",
+      "title": "3 principles for creating safer AI",
+      "speaker": "Stuart Russell",
+      "split": "development",
+      "audio_seconds": 1045.4785,
+      "sha256_video": "758d5d9155302a8b73b18a4eaed23def2cae06896c0c5ef3e9fe003dcd3dd98d",
+      "reference_urls": {
+        "en": "https://hls.ted.com/project_masters/4036/subtitles/en/full.vtt?intro_master_id=9294&preview=",
+        "zh-cn": "https://hls.ted.com/project_masters/4036/subtitles/zh-cn/full.vtt?intro_master_id=9294&preview="
+      }
+    }
+  ]
+}

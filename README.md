@@ -4,7 +4,7 @@ Windows 10/11 64 位桌面英语 → 中文字幕工具。声音由本机 Whispe
 
 ## 下载后使用
 
-从 [GitHub Releases](https://github.com/Toby0918/MeetingTranslator/releases/latest) 下载 `MeetingTranslator-1.0.0-Windows-x64.zip`。这是私有仓库，需要登录有访问权限的 GitHub 账号。
+从 [GitHub Releases](https://github.com/Toby0918/MeetingTranslator/releases/latest) 下载 `MeetingTranslator-1.1.0-Windows-x64.zip`。这是私有仓库，需要登录有访问权限的 GitHub 账号。
 
 完整解压后打开 `MeetingTranslator` 文件夹，双击 `MeetingTranslator.exe`。程序自带 Python、依赖和两套模型，不需要安装 Python、运行命令或首次联网下载模型。请保留旁边的 `_internal`、`models` 和 `licenses` 文件夹；不要只复制 EXE，也不要在压缩包预览中直接运行。
 
@@ -20,9 +20,11 @@ Windows 10/11 64 位桌面英语 → 中文字幕工具。声音由本机 Whispe
 
 ## 本版改进与验证
 
-离线翻译按句处理较长字幕，避免单句翻译模型遗漏后续句子；对明确的英文单词计数和少量习语做保守处理；不可读译文会尝试另一种本地解码，仍失败则明确提示。长音频到达时长上限时优先寻找最近的短暂停顿，剩余音频进入下一段，不直接丢弃。
+v1.1 更换了离线翻译模型，用 AI 生成的原创通用双语样例做小规模微调。模型按句翻译、指定简体中文，分别使用英语与中文分词器；不可读译文会尝试另一种本地解码，仍失败则明确提示。英文识别、音频分段和 DeepSeek 可选模式沿用 v1.0 的实现。
 
-五段 TED 的改进前后结果、AI 对照方法和限制见 [评估报告](docs/TED评估报告_2026-10-06.md)。独立运行包验证见仓库中的 [发布验证](https://github.com/Toby0918/MeetingTranslator/blob/main/docs/release-verification.json)。这些验证不替代真实多人会议验收，尤其应核对人名、数字、单位、否定和专业词汇。
+测试扩展为 15 场 TED，合计 3 小时 5 分 33 秒。本次 180 条匿名 AI 对照中，忠实度由 2.73 升至 2.87、流畅度由 2.70 升至 2.87（满分 4）；45 条改善、107 条持平、28 条下降。两场未用于选型的独立演讲接近持平，不能据此宣称稳定的泛化提升。具体方法及限制见 [v1.1 评估报告](docs/TED扩展评估报告_v1.1_2026-10-06.md)，历史结果见 [v1.0 报告](https://github.com/Toby0918/MeetingTranslator/blob/main/docs/TED评估报告_2026-10-06.md)。
+
+独立运行包验证见仓库中的 [发布验证](https://github.com/Toby0918/MeetingTranslator/blob/main/docs/release-verification.json)。这些结果不替代人工审校或真实多人会议验收，尤其应核对人名、数字、单位、否定和专业词汇。
 
 ## 下载包自检
 
@@ -41,7 +43,7 @@ Windows 10/11 64 位桌面英语 → 中文字幕工具。声音由本机 Whispe
 | 模型 | 存放位置 | 来源 |
 | --- | --- | --- |
 | Whisper small.en | `models/whisper-small.en/` | [SYSTRAN 转换模型](https://huggingface.co/Systran/faster-whisper-small.en) |
-| Argos 英语 → 中文 1.9 | `models/translation/translate-en_zh-1_9/` | [官方模型包](https://argos-net.com/v1/translate-en_zh-1_9.argosmodel)，解压到 translation 目录 |
+| 微调 Marian 英语 → 简体中文 | `models/translation/meeting-en_zh-v1_1/` | 从 v1.1 Release ZIP 复制；源模型与训练复现见 [训练说明](training/README.md) |
 
 ```powershell
 python -m venv .build-venv
@@ -50,7 +52,9 @@ python -m venv .build-venv
 .\.build-venv\Scripts\python.exe scripts/build_windows.py --models .\models
 ```
 
-产物位于 `dist/`，包含完整 ZIP、文件清单和 `SHA256SUMS.txt`。模型、运行环境、录音、TED 源素材和个人配置不进入 Git；发布 ZIP 单独作为 Release 附件上传。重跑 TED 评估见 `scripts/evaluate_ted.py --help`。
+产物位于 `dist/`，包含完整 ZIP、文件清单和 `SHA256SUMS.txt`。模型、运行环境、录音、TED 源素材和个人配置不进入 Git；发布 ZIP 单独作为 Release 附件上传。原创合成训练数据及配方保存在 `training/`，运行程序不需要训练依赖。源码仍兼容已有 Argos 1.9 模型；v1.1 便携包包含新模型。
+
+重跑完整 TED 文件评估见 `scripts/evaluate_ted.py --help`。固定英语输入的本地翻译对照见 `scripts/benchmark_ted_translation.py --help`，只有明确加 `--ai-review` 才会把文本和译文发送到 DeepSeek 评分。参考字幕只用于识别评估，不传入识别模型或翻译模型。详细复现步骤见 v1.1 评估报告。
 
 ## 系统条件
 

@@ -41,8 +41,10 @@ def main():
     for name in ('README.md', 'THIRD_PARTY_NOTICES.md'):
         shutil.copy2(PROJECT / name, bundle / name)
     (bundle / 'docs').mkdir(exist_ok=True)
-    for name in ('使用说明.md', 'TED评估报告_2026-10-06.md', 'benchmark-summary.json'):
+    for name in ('使用说明.md', 'TED扩展评估报告_v1.1_2026-10-06.md', 'benchmark-summary.json',
+                 'mt-training-v1.1.json', 'mt-pair-scores-v1.1.json'):
         shutil.copy2(PROJECT / 'docs' / name, bundle / 'docs' / name)
+    shutil.copytree(PROJECT / 'training', bundle / 'training', dirs_exist_ok=True)
     shutil.copytree(PROJECT / 'licenses', bundle / 'licenses', dirs_exist_ok=True)
     packages = [line.split('==')[0] for line in
                 (PROJECT / 'requirements-lock.txt').read_text().splitlines() if line.strip()]

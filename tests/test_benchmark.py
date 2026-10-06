@@ -2,9 +2,15 @@ import importlib.util
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 
 
 class BenchmarkTests(unittest.TestCase):
+    def test_pre_v1_baseline_rejects_a_different_model_family(self):
+        module = self.module()
+        with self.assertRaisesRegex(ValueError, 'Argos'):
+            module.baseline_translation(SimpleNamespace(source_prefix=['>>cmn_Hans<<']), 'Do not approve.')
+
     def module(self):
         path = Path(__file__).resolve().parents[1] / 'scripts' / 'evaluate_ted.py'
         self.assertTrue(path.exists(), 'Reproducible TED evaluation script is missing')

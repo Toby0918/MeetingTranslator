@@ -3,7 +3,7 @@ import json
 import sys
 from pathlib import Path
 
-VERSION = '1.0.0'
+VERSION = '1.1.0'
 MODEL_FILES = (
     'whisper-small.en/model.bin',
     'whisper-small.en/config.json',
@@ -12,6 +12,16 @@ MODEL_FILES = (
     'translation/translate-en_zh-1_9/model/config.json',
     'translation/translate-en_zh-1_9/sentencepiece.model',
 )
+MARIAN_DIRECTORY = 'translation/meeting-en_zh-v1_1'
+MARIAN_FILES = MODEL_FILES[:3] + tuple(MARIAN_DIRECTORY + '/' + name for name in (
+    'model.bin', 'config.json', 'shared_vocabulary.json', 'source.spm', 'target.spm'))
+
+
+def translation_directory(root):
+    """Prefer the release model; retain existing developer Argos assets."""
+    root = Path(root)
+    marian = root / MARIAN_DIRECTORY
+    return marian if marian.is_dir() else root / 'translation' / 'translate-en_zh-1_9'
 
 
 def resolve_model_root(executable=None, frozen=None, project_root=None):
@@ -31,4 +41,5 @@ def resolve_model_root(executable=None, frozen=None, project_root=None):
 
 
 def missing_model_files(root):
-    return [name for name in MODEL_FILES if not (Path(root) / name).is_file()]
+    files = MARIAN_FILES if translation_directory(root).name == 'meeting-en_zh-v1_1' else MODEL_FILES
+    return [name for name in files if not (Path(root) / name).is_file()]

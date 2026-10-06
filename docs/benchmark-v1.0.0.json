@@ -1,0 +1,256 @@
+{
+  "evaluation_date": "2026-10-06",
+  "version": "1.0.0",
+  "hardware": "Intel Core i7-13700K, CPU int8",
+  "method": "Full official TED audio; production offline ASR and MT; WER against official English VTT; blinded AI diagnostic ratings on fixed baseline ASR input, 0-4 scale",
+  "ai_translation_requests": 266,
+  "ai_translation_successes": 265,
+  "ai_translation_timeouts": 1,
+  "reference_not_used_by_translation": true,
+  "tests_passed": 53,
+  "source_hashes": {
+    "app/core.py": "197ffe4a6601ea9379dec1abd7d800690ffec001d07115b52892fbad75832179",
+    "app/translation_quality.py": "a32a73b623c8fc04f7503e23de06a9132728333484644fd64561b3c21ce55b36",
+    ".bench/baseline/core.py": "9d3973125000b02d20a6f7520a207d5802ebac57a263255bf09e05007252a388"
+  },
+  "aggregate": {
+    "reference_words": 6631,
+    "baseline_errors": 503,
+    "final_errors": 409,
+    "baseline_wer": 0.07585582868345649,
+    "final_wer": 0.061679987935454685,
+    "relative_error_reduction": 0.18687872763419489
+  },
+  "talks": [
+    {
+      "id": "cutts",
+      "title": "Try something new for 30 days",
+      "speaker": "Matt Cutts",
+      "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
+      "split": "development",
+      "sha256_video": "d0d49ddd840d8a790bcdc3ce9742759d6ef801a341bd9afca477aea70eefff90",
+      "audio_seconds": 190.3571875,
+      "reference_words": 480,
+      "baseline": {
+        "wer": 0.008333333333333333,
+        "substitutions": 2,
+        "insertions": 2,
+        "deletions": 0,
+        "elapsed_seconds": 32.60152449999987
+      },
+      "final": {
+        "wer": 0.014583333333333334,
+        "substitutions": 4,
+        "insertions": 3,
+        "deletions": 0,
+        "elapsed_seconds": 32.02473939999982,
+        "translation_failures": 0,
+        "mt_refreshed_seconds": 0.7446242000005441
+      },
+      "baseline_captions": 27,
+      "final_captions": 27,
+      "ai_review": {
+        "pairs": 15,
+        "scores": {
+          "baseline": {
+            "adequacy": 2.8,
+            "fluency": 3.1333
+          },
+          "final": {
+            "adequacy": 3.1333,
+            "fluency": 3.1333
+          }
+        },
+        "adequacy_wins": 4,
+        "adequacy_ties": 9,
+        "adequacy_losses": 2
+      }
+    },
+    {
+      "id": "treasure",
+      "title": "How to speak so that people want to listen",
+      "speaker": "Julian Treasure",
+      "url": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+      "split": "development",
+      "sha256_video": "0e74dbe57e4673ba3b45c51028a9c0742b0b7b0b33263eda866df7405f083693",
+      "audio_seconds": 584.376625,
+      "reference_words": 1661,
+      "baseline": {
+        "wer": 0.1053582179409994,
+        "substitutions": 35,
+        "insertions": 119,
+        "deletions": 21,
+        "elapsed_seconds": 94.05619019999904
+      },
+      "final": {
+        "wer": 0.07947019867549669,
+        "substitutions": 35,
+        "insertions": 78,
+        "deletions": 19,
+        "elapsed_seconds": 92.05856440000025,
+        "translation_failures": 1,
+        "mt_refreshed_seconds": 3.040244600000733
+      },
+      "baseline_captions": 70,
+      "final_captions": 72,
+      "ai_review": {
+        "pairs": 12,
+        "scores": {
+          "baseline": {
+            "adequacy": 2.5833,
+            "fluency": 2.8333
+          },
+          "final": {
+            "adequacy": 2.8333,
+            "fluency": 2.9167
+          }
+        },
+        "adequacy_wins": 2,
+        "adequacy_ties": 10,
+        "adequacy_losses": 0
+      }
+    },
+    {
+      "id": "rosling",
+      "title": "The best stats you've ever seen",
+      "speaker": "Hans Rosling",
+      "url": "https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen",
+      "split": "development",
+      "sha256_video": "2402115bf27c2b79433e30da32a4cfa19021f3fb9cf9f14cb26924b97abbc31f",
+      "audio_seconds": 1172.9095625,
+      "reference_words": 3158,
+      "baseline": {
+        "wer": 0.09278024065864471,
+        "substitutions": 90,
+        "insertions": 106,
+        "deletions": 97,
+        "elapsed_seconds": 142.96851199999946
+      },
+      "final": {
+        "wer": 0.07821405953134895,
+        "substitutions": 76,
+        "insertions": 85,
+        "deletions": 86,
+        "elapsed_seconds": 143.84398479999982,
+        "translation_failures": 0,
+        "mt_refreshed_seconds": 4.391448800000944
+      },
+      "baseline_captions": 103,
+      "final_captions": 106,
+      "ai_review": {
+        "pairs": 12,
+        "scores": {
+          "baseline": {
+            "adequacy": 2.75,
+            "fluency": 3.0
+          },
+          "final": {
+            "adequacy": 2.75,
+            "fluency": 2.6667
+          }
+        },
+        "adequacy_wins": 2,
+        "adequacy_ties": 8,
+        "adequacy_losses": 2
+      }
+    },
+    {
+      "id": "sivers",
+      "title": "How to start a movement",
+      "speaker": "Derek Sivers",
+      "url": "https://www.ted.com/talks/derek_sivers_how_to_start_a_movement",
+      "split": "development",
+      "sha256_video": "07ffba0fc233f316a8560a7fd733e84e2e6f574a357dfb25bafd182e90ee0e01",
+      "audio_seconds": 172.8029375,
+      "reference_words": 470,
+      "baseline": {
+        "wer": 0.03404255319148936,
+        "substitutions": 5,
+        "insertions": 7,
+        "deletions": 4,
+        "elapsed_seconds": 19.34896200000003
+      },
+      "final": {
+        "wer": 0.03404255319148936,
+        "substitutions": 5,
+        "insertions": 7,
+        "deletions": 4,
+        "elapsed_seconds": 18.763181199999963,
+        "translation_failures": 0,
+        "mt_refreshed_seconds": 1.0577172999983304
+      },
+      "baseline_captions": 14,
+      "final_captions": 14,
+      "ai_review": {
+        "pairs": 12,
+        "scores": {
+          "baseline": {
+            "adequacy": 2.4167,
+            "fluency": 2.4167
+          },
+          "final": {
+            "adequacy": 2.1667,
+            "fluency": 2.1667
+          }
+        },
+        "adequacy_wins": 2,
+        "adequacy_ties": 5,
+        "adequacy_losses": 5
+      }
+    },
+    {
+      "id": "duckworth",
+      "title": "Grit: The power of passion and perseverance",
+      "speaker": "Angela Lee Duckworth",
+      "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "split": "holdout",
+      "sha256_video": "8924bcb81269fb83f0dc25f56559565bf0e5b9b5c51f3a3344d4410701e1cb58",
+      "audio_seconds": 359.352,
+      "reference_words": 862,
+      "baseline": {
+        "wer": 0.01740139211136891,
+        "substitutions": 5,
+        "insertions": 10,
+        "deletions": 0,
+        "elapsed_seconds": 66.98639309999999
+      },
+      "final": {
+        "wer": 0.008120649651972157,
+        "substitutions": 5,
+        "insertions": 1,
+        "deletions": 1,
+        "elapsed_seconds": 61.29632709999896,
+        "translation_failures": 0,
+        "mt_refreshed_seconds": 1.824685599998702
+      },
+      "baseline_captions": 52,
+      "final_captions": 52,
+      "ai_review": {
+        "pairs": 12,
+        "scores": {
+          "baseline": {
+            "adequacy": 2.75,
+            "fluency": 2.75
+          },
+          "final": {
+            "adequacy": 2.75,
+            "fluency": 2.75
+          }
+        },
+        "adequacy_wins": 1,
+        "adequacy_ties": 10,
+        "adequacy_losses": 1
+      }
+    }
+  ],
+  "ai_review_aggregate": {
+    "pairs": 63,
+    "baseline_adequacy": 2.6666666666666665,
+    "final_adequacy": 2.746031746031746,
+    "baseline_fluency": 2.8412698412698414,
+    "final_fluency": 2.746031746031746,
+    "adequacy_wins": 11,
+    "adequacy_ties": 42,
+    "adequacy_losses": 10
+  }
+}

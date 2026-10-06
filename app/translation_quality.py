@@ -51,7 +51,7 @@ def preserve_word_count(source, translation):
             return match.group()
         target_number = r'((?:\d{1,3}(?:[, ]\d{3})+|\d+)(?:\.\d+)?[万亿千百]?|[一二三四五六七八九十百千万亿零两]+)'
         boundary = r'(?<![\d.,一二三四五六七八九十百千万亿零两])'
-        translation = re.sub(boundary + target_number + r'\s*字(?![节符母体串])', replace, translation)
+        translation = re.sub(boundary + target_number + r'\s*(?:个)?字(?![节符母体串])', replace, translation)
     return translation
 
 
