@@ -41,8 +41,16 @@
     "No new live Zoom/Teams or multi-speaker microphone acceptance",
     "Unsigned Windows executable"
   ],
-  "github_download_verified": false,
+  "github_download_verified": true,
   "accepted_translation_weight_sha256": "fe7fb315487364e8332525d9988b2d9d5398175b6a2e7d6f17a316c7e9271763",
   "training_data_sha256": "e27ab26e05472661f348b0694270c04ad235696bd65d30b60a1bc9665ac9cec5",
-  "training_runtime_absent": true
+  "training_runtime_absent": true,
+  "github_url": "https://github.com/Toby0918/MeetingTranslator/releases/tag/v1.1.0",
+  "github_repository_private": true,
+  "github_asset_bytes": 652077767,
+  "github_asset_sha256": "1f764759a7a01cad92fd233b9296a2c823b5db257b7a609748b83300333625f2",
+  "downloaded_archive_sha256": "1f764759a7a01cad92fd233b9296a2c823b5db257b7a609748b83300333625f2",
+  "downloaded_archive_byte_identical_to_tested_bundle": true,
+  "github_checksum_file_equal_to_local": true,
+  "tagged_training_data_digest_verified": true
 }
