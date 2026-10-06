@@ -1,0 +1,2 @@
+# Preserve upstream license texts; do not enforce application whitespace rules on them.
+licenses/* -whitespace

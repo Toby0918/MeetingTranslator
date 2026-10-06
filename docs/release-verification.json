@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-06",
+  "archive": "MeetingTranslator-1.0.0-Windows-x64.zip",
+  "archive_bytes": 651225969,
+  "sha256": "b287bf23e936a499d45e27241b99cc28c6df539e7cf8058b9724c89008bee9a3",
+  "manifest_files_verified": 1419,
+  "model_files_equal_to_original": 12,
+  "private_configuration_and_media_absent": true,
+  "isolated_extraction_path_contains_chinese_and_space": true,
+  "developer_python_environment_removed": true,
+  "provider_key_environment_removed": true,
+  "network_check": "HF offline settings and all proxy variables pointed at closed local port; no physical network disconnection",
+  "execution_return_code": 0,
+  "actual_bundle_self_test": {
+    "version": "1.0.0",
+    "frozen": true,
+    "passed": true,
+    "model_root": "EXE_DIRECTORY/models",
+    "missing_models": [],
+    "gui_created": true,
+    "default_mode": "offline",
+    "capture_started": false,
+    "system_device_count": 5,
+    "microphone_device_count": 3,
+    "model_load_seconds": 0.8062815999983286,
+    "offline_translation": "会议从十开始。 不批准这个命令。 写五百个单词.",
+    "audio_seconds": 8.0,
+    "elapsed_seconds": 2.1606446000005235,
+    "recognized_nonempty": true,
+    "audio_translation_nonempty": true
+  },
+  "missing_models_exit_code": 1,
+  "missing_models_failure_reported": true,
+  "automated_tests_passed": 53,
+  "independent_read_only_review_passed": true,
+  "limitations": [
+    "Same physical Windows computer; no second-device test",
+    "No new live Zoom/Teams or multi-speaker microphone acceptance",
+    "Unsigned Windows executable"
+  ],
+  "github_download_verified": false
+}

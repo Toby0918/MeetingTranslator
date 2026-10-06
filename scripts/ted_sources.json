@@ -1,0 +1,50 @@
+{
+  "evaluation_date": "2026-10-06",
+  "talks": [
+    {
+      "id": "cutts",
+      "title": "Try something new for 30 days",
+      "speaker": "Matt Cutts",
+      "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
+      "split": "development",
+      "sha256_video": "d0d49ddd840d8a790bcdc3ce9742759d6ef801a341bd9afca477aea70eefff90",
+      "audio_seconds": 190.3571875
+    },
+    {
+      "id": "treasure",
+      "title": "How to speak so that people want to listen",
+      "speaker": "Julian Treasure",
+      "url": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+      "split": "development",
+      "sha256_video": "0e74dbe57e4673ba3b45c51028a9c0742b0b7b0b33263eda866df7405f083693",
+      "audio_seconds": 584.376625
+    },
+    {
+      "id": "rosling",
+      "title": "The best stats you've ever seen",
+      "speaker": "Hans Rosling",
+      "url": "https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen",
+      "split": "development",
+      "sha256_video": "2402115bf27c2b79433e30da32a4cfa19021f3fb9cf9f14cb26924b97abbc31f",
+      "audio_seconds": 1172.9095625
+    },
+    {
+      "id": "sivers",
+      "title": "How to start a movement",
+      "speaker": "Derek Sivers",
+      "url": "https://www.ted.com/talks/derek_sivers_how_to_start_a_movement",
+      "split": "development",
+      "sha256_video": "07ffba0fc233f316a8560a7fd733e84e2e6f574a357dfb25bafd182e90ee0e01",
+      "audio_seconds": 172.8029375
+    },
+    {
+      "id": "duckworth",
+      "title": "Grit: The power of passion and perseverance",
+      "speaker": "Angela Lee Duckworth",
+      "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "split": "holdout",
+      "sha256_video": "8924bcb81269fb83f0dc25f56559565bf0e5b9b5c51f3a3344d4410701e1cb58",
+      "audio_seconds": 359.352
+    }
+  ]
+}
