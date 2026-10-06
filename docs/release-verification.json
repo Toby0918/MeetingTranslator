@@ -39,5 +39,11 @@
     "No new live Zoom/Teams or multi-speaker microphone acceptance",
     "Unsigned Windows executable"
   ],
-  "github_download_verified": false
+  "github_download_verified": true,
+  "github_release_url": "https://github.com/Toby0918/MeetingTranslator/releases/tag/v1.0.0",
+  "github_asset_url": "https://github.com/Toby0918/MeetingTranslator/releases/download/v1.0.0/MeetingTranslator-1.0.0-Windows-x64.zip",
+  "github_asset_digest": "sha256:b287bf23e936a499d45e27241b99cc28c6df539e7cf8058b9724c89008bee9a3",
+  "github_download_bytes": 651225969,
+  "github_repository_private": true,
+  "release_source_commit": "1c58b6b8346b9c5307aabf5408dd37efe246d763"
 }
